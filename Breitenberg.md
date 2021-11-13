@@ -22,7 +22,7 @@ Name „Bredenberg, später Breitenberg“ wird erstmals aktenkundig. Näheres �
 Geschichte ist erst in einer Urkunde vom 14. Mai 1361 (am Freitag vor Pfingsten)
 erfahrbar.
 
-<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+<span class="image featured"><img src="images/bb_12_2017_winter-morgen.jpg" alt="" /></span>
 
 Hans von Minningerode übergab, mit Einwilligung seiner Vettern Hans und Heinrich,
 seiner Frau Elisabeth das Dorf Breitenberg mit allem Recht über das Dorf zu
