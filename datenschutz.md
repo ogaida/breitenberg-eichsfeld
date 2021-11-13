@@ -3,6 +3,11 @@ layout: default
 title: Datenschutz
 ---
 
+<section id="banner">
+<h3>Breitenberg im Eichsfeld</h3>
+</section>
+
+
 <section id="main" class="container">
     <header>
         <h2>{{ page.title }}</h2>
