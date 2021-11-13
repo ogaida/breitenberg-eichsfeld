@@ -1,10 +1,20 @@
 {% include head.html %}
 <section id="main" class="container">
-    <header>
-        <h2>{{ page.title }}</h2>
-        <p>{{ page.sub_title }}</p>
+
+    <section class="box special">
+    <header class="major">
+    <h3>{{ page.title }}
+    </h3>
+    <hr>
+    <h4>
+        {{ page.sub_title }}
+    </h4>
+    {{ content }}
     </header>
-    <div class="box">
-{{ content }}
-</section>
+    <!--<span class="image featured"><img src="images/banner.jpg" alt="" /></span>-->
+    </section>
+    
+    
+    </section>
+    
 {% include tail.html %}
