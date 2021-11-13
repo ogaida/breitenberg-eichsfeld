@@ -21,19 +21,19 @@ title: Datenschutz
 
             <h2>1 Allgemeine Hinweise</h2>
 
-            Diese Datenschutzerklärung gem. Art. 13 und 14 DSGVO gilt für die Datenverarbeitung durch Claudia Püschel und gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie meine Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
+            Diese Datenschutzerklärung gem. Art. 13 und 14 DSGVO gilt für die Datenverarbeitung durch Oliver Gaida und gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
             <br/>
             Der Websitebetreiber nimmt Ihren Datenschutz sehr ernst und behandelt Ihre
             personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschriften. Da durch neue Technologien und die ständige Weiterentwicklung dieser Webseite Änderungen an dieser Datenschutzerklärung vorgenommen werden können, wird Ihnen empfohlen, sich die Datenschutzerklärung in regelmäßigen Abständen wieder durchzulesen.
             <br/>
-            Diese Datenschutzerklärung ist aktuell gültig und hat den Stand Mai 2018.
+            Diese Datenschutzerklärung ist aktuell gültig und hat den Stand November 2021.
             <br/><br/>
 
-            <h2>2 Datenerfassung auf meiner Website</h2>
+            <h2>2 Datenerfassung auf dieser Website</h2>
 
-            <b>Besuch meiner Website</b>
+            <b>Besuch dieser Website</b>
             <br/><br/>
-            Beim Besuch meiner Website werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server dieser Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
+            Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server dieser Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
             <br/>
             <ul>
             <li>IP-Adresse des anfragenden Rechners (anonymisiert)</li>
