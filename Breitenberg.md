@@ -24,6 +24,9 @@ erfahrbar.
 
 <span class="image featured"><img src="images/bb_12_2017_winter-morgen.jpg" alt="" /></span>
 
+<br>
+<br>
+
 Hans von Minningerode übergab, mit Einwilligung seiner Vettern Hans und Heinrich,
 seiner Frau Elisabeth das Dorf Breitenberg mit allem Recht über das Dorf zu
 bestimmen. Er hatte dieses zuvor von seinen Eltern geerbt. Noch im 14. Jahrhundert,
