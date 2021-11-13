@@ -3,11 +3,6 @@ layout: default
 title: Breitenberg im Eichsfeld
 ---
 
-<section id="banner">
-<h3>Breitenberg im Eichsfeld</h3>
-</section>
-
-
 <section id="main" class="container">
 
 <section class="box special">
