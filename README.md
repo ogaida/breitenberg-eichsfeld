@@ -4,4 +4,4 @@ it is a jekyll based website, getting its data via webhook from github. Any chan
 
 # contributers 
 
-are very welcome
+are very welcome to make the website nice.
