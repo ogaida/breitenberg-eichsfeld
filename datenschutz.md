@@ -4,7 +4,7 @@ title: Datenschutzerklärung
 ---
 
 
-<h2>1 Allgemeine Hinweise</h2>
+<h2>1. Allgemeine Hinweise</h2>
 
 Diese Datenschutzerklärung gem. Art. 13 und 14 DSGVO gilt für die Datenverarbeitung durch Oliver Gaida und gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
 <br/>
@@ -14,7 +14,7 @@ personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Vorschrift
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand November 2021.
 <br/><br/>
 
-<h2>2 Datenerfassung auf dieser Website</h2>
+<h2>2. Datenerfassung auf dieser Website</h2>
 
 <b>Besuch dieser Website</b>
 <br/><br/>
@@ -51,7 +51,7 @@ Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung
 Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: www.google.de/intl/de/policies/privacy/.
 <br/><br/>
 
-<h2>3 Ihre Rechte</h2>
+<h2>3. Ihre Rechte</h2>
 
 <b>Auskunftsrecht</b>
 <br/><br/>
