@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Breitenberg im Eichsfeld - Datenschutz
+title: Datenschutz
 ---
 
 
