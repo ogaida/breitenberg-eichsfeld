@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: kontaktieren Sie uns ...
 sub_title: Bitte teilen Sie uns ihr Anliegen mit
 layout: post
 ---
