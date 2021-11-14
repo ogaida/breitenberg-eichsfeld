@@ -24,6 +24,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 - Name und URL der abgerufenen Datei
 - Website, von der aus der Zugriff erfolgt (Referrer-URL)
 - verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers
+{: style="text-align: center;"}
 
 #### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
