@@ -3,11 +3,6 @@ layout: post
 title: Datenschutzerklärung
 ---
 
-
-{:refdef: .c1 #id .c2 title="title"}
-paragraph
-{: refdef .c3 title="t" #para}
-
 ## 1. Allgemeine Hinweise
 
 Diese Datenschutzerklärung gem. Art. 13 und 14 DSGVO gilt für die Datenverarbeitung durch Oliver Gaida und gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
@@ -28,7 +23,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 - Name und URL der abgerufenen Datei
 - Website, von der aus der Zugriff erfolgt (Referrer-URL)
 - verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers
-{: style="text-align: center;"}
+{: style="text-align: left;"}
 
 #### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
