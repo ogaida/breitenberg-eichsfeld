@@ -8,3 +8,9 @@ baseurl: breitenberg-eichsfeld.de
 #    output: true
 #  news:
 #    output: true
+
+
+# https://jekyllrb.com/docs/configuration/markdown/
+# https://stackoverflow.com/questions/28294959/jekyll-kramdown-how-to-center-text
+kramdown:
+  input: Kramdown
