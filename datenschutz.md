@@ -3,6 +3,8 @@ layout: post
 title: Datenschutzerklärung
 ---
 
+<p align="left">
+
 ## 1. Allgemeine Hinweise
 
 Diese Datenschutzerklärung gem. Art. 13 und 14 DSGVO gilt für die Datenverarbeitung durch Oliver Gaida und gibt einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
@@ -54,3 +56,5 @@ Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Date
 ### Widerspruchsrecht
 
 Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung ihrer personenbezogenen Daten zu jeder Zeit widersprechen. Muster von datenschutz.org Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen möchten, wenden Sie sich bitte an den Website wie im Impressum angegeben.
+
+</p>
