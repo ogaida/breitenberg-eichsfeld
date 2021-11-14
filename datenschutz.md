@@ -3,7 +3,6 @@ layout: post
 title: Datenschutzerklärung
 ---
 
-<p align="left">
 
 ## 1. Allgemeine Hinweise
 
@@ -25,6 +24,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 - Name und URL der abgerufenen Datei
 - Website, von der aus der Zugriff erfolgt (Referrer-URL)
 - verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers
+{: style="text-align: center;"}
 
 #### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
@@ -57,4 +57,3 @@ Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Date
 
 Nutzer dieser Webseite können von ihrem Widerspruchsrecht Gebrauch machen und der Verarbeitung ihrer personenbezogenen Daten zu jeder Zeit widersprechen. Muster von datenschutz.org Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten wünschen oder Fragen bzgl. der Erhebung, Verarbeitung oder Verwendung Ihrer personenbezogenen Daten haben oder erteilte Einwilligungen widerrufen möchten, wenden Sie sich bitte an den Website wie im Impressum angegeben.
 
-</p>
