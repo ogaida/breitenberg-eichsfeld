@@ -19,6 +19,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 #### Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
 <br>
+
 - IP-Adresse des anfragenden Rechners (anonymisiert)
 - Datum und Uhrzeit des Zugriffs
 - Name und URL der abgerufenen Datei
