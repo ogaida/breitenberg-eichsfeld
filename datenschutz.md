@@ -18,7 +18,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 
 #### Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
-<br>
+
 
 - IP-Adresse des anfragenden Rechners (anonymisiert)
 - Datum und Uhrzeit des Zugriffs
@@ -29,7 +29,8 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 
 #### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
-<br>
+
+
 - Gewährleistung eines reibungslosen Verbindungsaufbaus der Website
 - Gewährleistung einer komfortablen Nutzung der Website
 - Auswertung der Systemsicherheit und -stabilität sowie zu weiteren administrativen Zwecken
