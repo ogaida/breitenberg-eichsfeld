@@ -18,6 +18,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 
 #### Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
+
 - IP-Adresse des anfragenden Rechners (anonymisiert)
 - Datum und Uhrzeit des Zugriffs
 - Name und URL der abgerufenen Datei
@@ -27,9 +28,12 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 
 #### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
+
 - Gewährleistung eines reibungslosen Verbindungsaufbaus der Website
 - Gewährleistung einer komfortablen Nutzung der Website
 - Auswertung der Systemsicherheit und -stabilität sowie zu weiteren administrativen Zwecken
+{: style="text-align: left;"}
+
 
 Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Mein berechtigtes Interesse folgt aus oben aufgelisteten Zwecken zur Datenerhebung. In keinem Fall werden die erhobenen Daten dazu verwendet, Rückschlüsse auf Ihre Person zu ziehen.
 
