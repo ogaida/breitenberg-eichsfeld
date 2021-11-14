@@ -14,7 +14,9 @@ Diese Datenschutzerklärung ist aktuell gültig und hat den Stand November 2021.
 
 ### Besuch dieser Website
 
-Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server dieser Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
+Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch Informationen an den Server dieser Website gesendet. Diese Informationen werden temporär in einem sog. Logfile gespeichert. 
+
+#### Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
 
 - IP-Adresse des anfragenden Rechners (anonymisiert)
 - Datum und Uhrzeit des Zugriffs
@@ -22,7 +24,7 @@ Beim Besuch dieser Website werden durch den auf Ihrem Endgerät zum Einsatz komm
 - Website, von der aus der Zugriff erfolgt (Referrer-URL)
 - verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers
 
-Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
+#### Die genannten Daten werden durch den Websitebetreiber zu folgenden Zwecken verarbeitet:
 
 - Gewährleistung eines reibungslosen Verbindungsaufbaus der Website
 - Gewährleistung einer komfortablen Nutzung der Website
