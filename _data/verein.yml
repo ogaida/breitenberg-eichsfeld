@@ -16,3 +16,10 @@
   placeholder: vermutlich 37115
 - key: "Adresse - Ort"
   placeholder: vermutlich Duderstadt
+- key: "Telefonnummer"
+  placeholder: Eure Telefonnummer
+- key: "Fax"
+  placeholder: Eure Faxnummer
+- key: "Email"
+  placeholder: Eure Email-Adresse
+  
