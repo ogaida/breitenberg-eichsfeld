@@ -7,7 +7,7 @@ layout: post
 Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts veröffentlichen lassen möchtest. 
 
 
-<form method="post" action="./cgi-bin/contact-request.pl">
+<form method="post" action="./cgi-bin/vereins-input.pl">
 	<div class="row gtr-50 gtr-uniform">
 
 

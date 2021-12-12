@@ -1,3 +1,5 @@
+- key: email
+  placeholder: Deine persönliche Email-Adresse für die Verifizierung dieser Eingabe
 - key: Verein
   placeholder: Der Name Deines Vereins
 - key: "1. Vorsitzender"
