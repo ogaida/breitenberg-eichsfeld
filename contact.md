@@ -12,7 +12,7 @@ layout: post
 			<input type="text" name="name" id="name" value="" placeholder="Name" />
 		</div>
 		<div class="col-6 col-12-mobilep">
-			<input type="email" name="email" id="email" value="" placeholder="Email" />
+			<input type="email" name="email" id="email" value="" placeholder="Ihre eigene Email-Adresse für die Validierung" />
 		</div>
 		<div class="col-12">
 			<input type="text" name="betreff" id="subject" value="" placeholder="Betreff" />
