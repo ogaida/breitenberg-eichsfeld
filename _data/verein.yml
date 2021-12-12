@@ -1,2 +1,18 @@
 - key: Verein
   placeholder: Der Name Deines Vereins
+- key: "1. Vorsitzender"
+  placeholder: Der erste Vorsitzerder Deines Vereins
+- key: "2. Vorsitzender"
+  placeholder: Der zweite Vorsitzerder Deines Vereins
+- key: Kassierer
+  placeholder: Der Kassierer Deines Vereins
+- key: Schriftführer
+  placeholder: Der Schriftführer Deines Vereins
+- key: "Adresse - Name"
+  placeholder: Der Name der in der Adresse des Vereins auftauchen soll
+- key: "Adresse - Strasse"
+  placeholder: Strasse und Hausnummer des Vereins
+- key: "Adresse - Postleitzahl"
+  placeholder: vermutlich 37115
+- key: "Adresse - Ort"
+  placeholder: vermutlich Duderstadt
