@@ -9,20 +9,17 @@ Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts v
 
 <form method="post" action="./cgi-bin/vereins-input.pl">
 	<div class="row gtr-50 gtr-uniform">
-
-
-		    <div class="col-4 col-12-mobilep">
-				<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">Verein :</a>
-			</div>
-			<div class="col-8 col-12-mobilep">	
-				<select name="verein" id="verein">
-					<option value="" disabled selected>Bitte den Verein auswählen</option>
-					{% for verein in site.data.verein.vereinlist %}
-						<option value="{{ verein.key }}">{{ verein.name }}</option>
-					{% endfor %}
-				</select>
-			<div>					
-
+		<div class="col-4 col-12-mobilep">
+			<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">Verein :</a>
+		</div>
+		<div class="col-8 col-12-mobilep">	
+			<select name="verein" id="verein">
+				<option value="" disabled selected>Bitte den Verein auswählen</option>
+				{% for verein in site.data.verein.vereinlist %}
+					<option value="{{ verein.key }}">{{ verein.name }}</option>
+				{% endfor %}
+			</select>
+		<div>					
 		{% for info in site.data.verein.formdata %}
 			<div class="col-4 col-12-mobilep">
 				<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">{{ info.label }} :</a>
