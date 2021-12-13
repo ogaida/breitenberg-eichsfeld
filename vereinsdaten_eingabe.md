@@ -19,7 +19,7 @@ Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts v
 					<option value="{{ verein.key }}">{{ verein.name }}</option>
 				{% endfor %}
 			</select>
-		<div>					
+		</div>					
 		{% for info in site.data.verein.formdata %}
 			<div class="col-4 col-12-mobilep">
 				<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">{{ info.label }} :</a>
