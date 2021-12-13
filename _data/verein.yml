@@ -1,27 +1,45 @@
 - key: email
+  label: Deine Email-Adresse
   placeholder: Deine persönliche Email-Adresse für die Verifizierung dieser Eingabe
-- key: Verein
-  placeholder: Der Name Deines Vereins
-- key: "1. Vorsitzender"
+- key: verein
+  label: Verein
+  placeholder: der Name Deines Vereins
+- key: vorsitz1
+  label: "1. Vorsitzender"
   placeholder: Der erste Vorsitzerder Deines Vereins
-- key: "2. Vorsitzender"
+- key: vorsitz2
+  label: "2. Vorsitzender"
   placeholder: Der zweite Vorsitzerder Deines Vereins
-- key: Kassierer
+- key: kassierer
+  label: Kassierer
   placeholder: Der Kassierer Deines Vereins
-- key: Schriftführer
+- key: schriftfuehrer
+  label: Schriftführer
   placeholder: Der Schriftführer Deines Vereins
-- key: "Adresse - Name"
+- key: addr_name
+  label: "Adressenname"
   placeholder: Der Name der in der Adresse des Vereins auftauchen soll
-- key: "Adresse - Strasse"
+- key: street
+  label: "Straße"
   placeholder: Strasse und Hausnummer des Vereins
-- key: "Adresse - Postleitzahl"
+- key: zipcode
+  label: "Postleitzahl"
   placeholder: vermutlich 37115
-- key: "Adresse - Ort"
+- key: ort
+  label: Ort
   placeholder: vermutlich Duderstadt
-- key: "Telefonnummer"
+- key: telefon
+  label: "Telefonnummer"
   placeholder: Eure Telefonnummer
-- key: "Fax"
+- key: fax
+  label: Faxnummer
   placeholder: Eure Faxnummer
-- key: "Email"
-  placeholder: Eure Email-Adresse
-  
+- key: email_verein
+  label: Emailadresse des Vereines
+  placeholder: Eure öffentliche Email-Adresse
+- key: training_time
+  label: Trainingszeiten
+  placeholder: Wann traniert ihr normaler Weise
+- key: training_ort
+  label: Trainingsort
+  placeholder: Wo ihr trainiert
