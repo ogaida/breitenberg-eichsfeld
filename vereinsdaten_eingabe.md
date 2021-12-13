@@ -12,13 +12,14 @@ Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts v
 
 
 		{% for info in site.data.verein %}
-			<div class="col-6 col-12-mobilep">
+			<div class="col-4 col-12-mobilep">
 				<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">{{ info.label }} :</a>
 			</div>
-			<div class="col-6 col-12-mobilep">
+			<div class="col-8 col-12-mobilep">
 				<input type="text" name="{{ info.key }}" id="{{ info.key }}" value="" placeholder="{{ info.placeholder }}" />
 			</div>
 		{% endfor %}
+		<br>
 		<div class="col-12">
 			<ul class="actions special">
 				<li><input type="submit" value="Vereinsdaten aktualisieren!" /></li>
