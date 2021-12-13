@@ -12,10 +12,10 @@ Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts v
 
 
 		{% for info in site.data.verein %}
-			<div class="col-3 col-12-mobilep">
+			<div class="col-6 col-12-mobilep">
 				<a style="width:400px" href="#" class="button">{{ info.label }} :</a>
 			</div>
-			<div class="col-9 col-12-mobilep">
+			<div class="col-6 col-12-mobilep">
 				<input type="text" name="{{ info.key }}" id="{{ info.key }}" value="" placeholder="{{ info.placeholder }}" />
 			</div>
 		{% endfor %}
