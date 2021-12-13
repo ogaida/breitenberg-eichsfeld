@@ -10,7 +10,6 @@ Lasse die Felder unbearbeitet, wo Du keine Daten vorliegen hast oder Du nichts v
 <form method="post" action="./cgi-bin/vereins-input.pl">
 	<div class="row gtr-50 gtr-uniform">
 
-		vereinlist
 
 		    <div class="col-4 col-12-mobilep">
 				<a style="width:300px;text-align:start;" href="javascript:void(0)" class="button">Verein :</a>
