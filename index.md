@@ -26,14 +26,33 @@ Martin Winkler und Andrew Gieseler</p>
 <section id="cta">
 
 <h2>Termine</h2>
+        <table border=0>
         {% for item in site.data.termine.termine %}
-          <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="resume-content">
-              <h4 class="mb-0">{{ item.title }}</h4>
-              <p>{{ item.text | markdownify }}</p>
-            </div>
-          </div>
+            <tr>
+                <td>
+                    <table border=0>
+                        <tr>
+                            <td>
+                            {{ item.title }}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            {{ item.date }}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            {{ item.wo }}
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    {{ item.text | markdownify }}
+                </td>
+            </tr>
         {% endfor %}
-
+        </table>    
 </section>
 
