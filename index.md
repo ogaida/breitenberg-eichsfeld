@@ -29,7 +29,7 @@ Martin Winkler und Andrew Gieseler</p>
         {% for item in site.data.termine.termine %}
           <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
-              <h3 class="mb-0">{{ item.title }}</h3>
+              <h4 class="mb-0">{{ item.title }}</h4>
               <p>{{ item.text | markdownify }}</p>
             </div>
           </div>
