@@ -6,6 +6,14 @@ title: Breitenberger Termine
 
 <section id="main" class="container">
 
+<section class="box special">
+    <header class="major">
+        <h2>Termine</h2>
+        <p></p>
+    </header>
+    <!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
+</section>
+
 
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
 
