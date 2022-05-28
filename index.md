@@ -8,8 +8,6 @@ title: Breitenberger Termine
 
 <section class="box special">
     <header class="major">
-        <h2>Termine</h2>
-        <p></p>
     </header>
     <!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
 </section>
