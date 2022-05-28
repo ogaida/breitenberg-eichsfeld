@@ -17,6 +17,7 @@ title: Breitenberger Termine
             <section>
                 <span class="icon solid major fa-bell accent2"></span>
                 <h3>{{ item.date }}</h3>
+                <h4>{{ item.time }}</h4>
             </section>
             <section>
                 <span class="icon solid major fa-list accent3"></span>
@@ -30,7 +31,7 @@ title: Breitenberger Termine
             </section>
             <section>
                 <span class="icon solid major fa-info accent5"></span>
-                <p>{{ item.text | markdownify }}</p>
+                <h3>{{ item.text | markdownify }}</h3>
             </section>
         </div>
     </section>

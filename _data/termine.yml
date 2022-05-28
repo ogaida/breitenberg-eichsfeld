@@ -1,6 +1,7 @@
 termine:
   - title: Offene Sprechstunde der Bürgermeisterin
     date: 2. Juni 2022
+    time: 16:00 - 17:30 Uhr
     location: Gasthaus Deppe
     text: |
       Katja Neumann ist am 2.Juni 2022 von 16:00-17:30 Uhr im Gasthaus Deppe für alle Bürger*innen erreichbar.
@@ -8,10 +9,12 @@ termine:
       Eine Anmeldung ist nicht notwendig! 
   - title: 3. Ortsratssitzung des Ortsrates Breitenberg
     date: 8. Juni 2022
+    time: ab 18:30 Uhr
     location: Forsthaus Hübental
     text: Der Ortsrat lädt ab 18:30 Uhr ins Forsthaus Hübental ein. Die Tagesordnung wird separat ausgehangen.  
   - title: Feierabendgespräche des Ortsrates 
     date: 9. Juni 2022
+    time: ab 18:00 Uhr
     location: Windmühlenplatz
     text: |
       Am 9.Juni lädt der Ortsrat Groß und Klein ab 18:00 Uhr auf den Windmühlenplatz ein. 
