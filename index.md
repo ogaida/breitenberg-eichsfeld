@@ -4,6 +4,8 @@ title: Breitenberger Termine
 ---
 
 
+<h2> Termine </h2>
+
 <section id="main" class="container">
 
 
@@ -15,11 +17,11 @@ title: Breitenberger Termine
         <div class="features-row">
             <section>
                 <span class="icon solid major fa-bolt accent2"></span>
-                <h3>{{ item.title }}</h3>
+                <h3>{{ item.date }}</h3>
             </section>
             <section>
                 <span class="icon solid major fa-chart-area accent3"></span>
-                <h3>{{ item.date }}</h3>
+                <h3>{{ item.title }}</h3>
             </section>
         </div>
         <div class="features-row">
