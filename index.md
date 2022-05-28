@@ -19,7 +19,7 @@ title: Breitenberger Termine
                 <h3>{{ item.date }}</h3>
             </section>
             <section>
-                <span class="icon solid major fa-task accent3"></span>
+                <span class="icon solid major fa-list accent3"></span>
                 <h3>{{ item.title }}</h3>
             </section>
         </div>
