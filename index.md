@@ -36,6 +36,9 @@ title: Breitenberger Termine
     </section>
     </div>
 
+    <hr>
+    <hr>
+
     {% endfor %}
 
 </section>
