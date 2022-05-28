@@ -25,8 +25,15 @@ Martin Winkler und Andrew Gieseler</p>
 
 <section id="cta">
 
-<h2>Inhalte folgen</h2>
-<p>Bitte haben Sie noch Geduld!</p>
+<h2>Termine</h2>
+        {% for item in site.data.termine.termine %}
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+            <div class="resume-content">
+              <h3 class="mb-0">{{ item.title }}</h3>
+              <p>{{ item.text | markdownify }}</p>
+            </div>
+          </div>
+        {% endfor %}
 
 </section>
 

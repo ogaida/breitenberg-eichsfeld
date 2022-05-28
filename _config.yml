@@ -1,9 +1,9 @@
 # jekyll serve --baseurl '' --host 0.0.0.0
 baseurl: breitenberg-eichsfeld.de
 
-#collections:
-#  keramische_arbeiten:
-#    output: true
+collections:
+  termine:
+    output: true
 #  content_posts:
 #    output: true
 #  news:
