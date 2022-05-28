@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Breitenberg im Eichsfeld
+title: Termin
 ---
 
 
 <section>
 
-<h2>Termine</h2>
         <table border=0>
         {% for item in site.data.termine.termine %}
             <tr>
