@@ -23,7 +23,7 @@ Martin Winkler und Andrew Gieseler</p>
 
 </section>
 
-<section id="cta">
+<section>
 
 <h2>Termine</h2>
         <table border=0>
