@@ -4,8 +4,6 @@ title: Breitenberger Termine
 ---
 
 
-<h2> Termine </h2>
-
 <section id="main" class="container">
 
 
