@@ -25,7 +25,7 @@ title: Breitenberg im Eichsfeld
                         </tr>
                         <tr>
                             <td>
-                            {{ item.wo }}
+                            {{ item.location }}
                             </td>
                         </tr>
                     </table>
