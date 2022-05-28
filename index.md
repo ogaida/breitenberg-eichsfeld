@@ -3,9 +3,8 @@ layout: default
 title: Breitenberg im Eichsfeld
 ---
 
-<section id="main" class="container">
 
-<section class="box special">
+<section>
 
 <h2>Termine</h2>
         <table border=0>
@@ -38,4 +37,3 @@ title: Breitenberg im Eichsfeld
         </table>    
 </section>
 
-</section>
