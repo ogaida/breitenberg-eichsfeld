@@ -28,6 +28,9 @@ title: Breitenberger Termine
             <section>
                 <span class="icon solid major fa-list accent3"></span>
                 <h3>{{ item.title }}</h3>
+                {% if item.fleyer %}
+                  <a href=./images/{{ item.fleyer }}>Fleyer</a>
+                {% endif %}
             </section>
         </div>
         <div class="features-row">
