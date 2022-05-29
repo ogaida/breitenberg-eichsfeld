@@ -29,7 +29,7 @@ title: Breitenberger Termine
                 <span class="icon solid major fa-list accent3"></span>
                 <h3>{{ item.title }}</h3>
                 {% if item.fleyer != "" %}
-                  <a href=./images/{{ item.fleyer }}>Fleyer</a>
+                  { "[Fleyer](./images/#{item.fleyer})" | markdownify }
                 {% endif %}
                 
             </section>
