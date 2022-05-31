@@ -22,9 +22,8 @@ title: Breitenberger Termine
     <div class="features-row">
         <section>
             <span class="icon solid major fa-bell accent2"></span>
-            <h3>{{ item.date }}</h3>
+            <h3>{{ item.date | date_to_long_string }}</h3>
             <h4>{{ item.time }}</h4>
-            <h4>{{ Date._parse(item.time)[:mon] }}</h4>
         </section>
         <section>
             <span class="icon solid major fa-list accent3"></span>
