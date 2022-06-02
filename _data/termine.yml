@@ -1,12 +1,4 @@
 termine:
-  - title: Offene Sprechstunde der Bürgermeisterin
-    date: 2. Juni 2022
-    time: 16:00 Uhr - 17:30 Uhr
-    location: Gasthaus Deppe
-    text: |
-      Katja Neumann ist am 2.Juni 2022 von 16:00-17:30 Uhr im Gasthaus Deppe für alle Bürger*innen erreichbar.
-      Der barrierefreie Zugang ist über den Hof möglich.
-      Eine Anmeldung ist nicht notwendig! 
   - title: 3. Ortsratssitzung des Ortsrates Breitenberg
     date: 8. Juni 2022
     time: ab 18:30 Uhr
@@ -38,7 +30,7 @@ termine:
       sowie dem KSB u.a. auch zahlreiche Vereinsmitglieder mit der goldenen bzw. silbernen Vereinsnadel
       ausgezeichnet.
   - title: Kirchweihfest - 125 jähriges Jubiläum
-    date: 3. September 2022
-    time: ""
-    location: PGH Breitenberg
-    text: Kirchweihfest zum 125 jährigen Jubiläum
+    date: 15. September 2022
+    time: 17:00 Uhr
+    location: Kirche - St. Mariä Verkündigung in Breitenberg
+    text: Kirchweihfest zum 125 jährigen Jubiläum mit anschließender gemütlicher Runde im PGH
