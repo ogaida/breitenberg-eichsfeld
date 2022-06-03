@@ -19,7 +19,7 @@ title: Breitenberger Termine
 
 {% for item in site.data.termine.termine %}
 
-    {% assign termin_date = item.date | date: '%s' | plus:'864000' | times: 1 %}
+    {% assign termin_date = item.date | date: '%s' | minus:'864000' | times: 1 %}
     {% if yesterday < termin_date %}
 
 <div class="row">
