@@ -15,7 +15,7 @@ title: Breitenberger Termine
 
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
 
-{% assign yesterday = 'now' | date: '%s' | minus: 86400 %}
+{% assign yesterday = 'now' | date: '%s' | minus:'86400' %}
 
 {% for item in site.data.termine.termine %}
 
