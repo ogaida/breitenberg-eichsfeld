@@ -15,14 +15,19 @@ title: Breitenberger Termine
 
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
 
+{% assign today_date = 'now' | date: '%s' %}
+
 {% for item in site.data.termine.termine %}
+
+    {% assign termin_date = item.date | date: '%s' %}
+    {% if today_date < termin_date - 10*86400 %}
 
 <div class="row">
 <section class="box special features">
     <div class="features-row">
         <section>
             <span class="icon solid major fa-bell accent2"></span>
-            <h3>{{ item.date | date_to_long_string }}</h3>
+            <h3>{{ item.date }}</h3>
             <h4>{{ item.time }}</h4>
         </section>
         <section>
@@ -46,6 +51,7 @@ title: Breitenberger Termine
 
 <hr>
 <hr>
+    {% endif %}
 
 {% endfor %}
 
