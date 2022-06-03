@@ -19,15 +19,15 @@ title: Breitenberger Termine
 
 {% for item in site.data.termine.termine %}
 
-    {% assign termin_date = item.date | date: '%s' | times: 1 %}
-    
+    {% assign termin_date = item.date | date: '%s' | plus:'864000' | times: 1 %}
+    {% if yesterday < termin_date %}
 
 <div class="row">
 <section class="box special features">
     <div class="features-row">
         <section>
             <span class="icon solid major fa-bell accent2"></span>
-            <h3>{{ time.date }}</h3>
+            <h3>{{ item.date }}</h3>
             <h4>{{ item.time }}</h4>
             <h4>{{ yesterday }}</h4>
             <h4>{{ termin_date }}</h4>
@@ -53,6 +53,7 @@ title: Breitenberger Termine
 
 <hr>
 <hr>
+    {% endif %}
 {% endfor %}
 
 </section>
