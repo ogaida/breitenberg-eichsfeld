@@ -13,7 +13,10 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 
 <p><span class="image featured"><img src="images/sv_germania_2022.jpg" alt="" /></span></p>
 
-SV GERMANIA unterhält Sportgruppen in den Sportarten:
+<br>
+<br>
+
+Der Verein unterhält Sportgruppen in den Sportarten:
 
 - Fussball
 - Gymnastik
