@@ -1,6 +1,6 @@
 ---
 title: Vereine
-sub_title: aktuelle Inforamtionen zu Vereinen in Breitenberg
+sub_title: aktuelle Inforamtionen zu breitenberger Vereinen
 layout: post
 ---
 
@@ -9,7 +9,7 @@ layout: post
 Am 15.06.2022 fand die Jahreshauptversammlung am Sporthaus statt. Bis auf den 1. Vorsitzenden und den Kassenwart wurden alle Posten neu vergeben bzw. durch Wiederwahl gleich besetzt. 
 Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern Daniel Conrady, Niklas Nolte und Mario Deppe für ihre geleistete Arbeit.
 {: style="text-align: left;"}
-/Users/ogaida/breitenberg-eichsfeld/images
+
 <span class="image featured"><img src="images/sv_germania_2022.jpg" alt="" /></span>
 
 SV GERMANIA unterhält Sportgruppen in den Sportarten:
