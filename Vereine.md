@@ -21,18 +21,18 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 - Fussball
 - Gymnastik
 - Tischtennis 
-{: style="text-align: left;"}
+
 
 <br>
 <br>
 
-## Männergesangsverein Liederkranz
+## Männergesangverein Liederkranz
 
 - Vorsitzender: Aloys Friedrich
 - Derigent: Matthias Noltes
 {: style="text-align: left;"}
 
 
-## Unvollständig
+## Fehlt Euer Verein?
 
-z.Z. liegen zu den restlichen Vereinen keine aktuellen Daten vor. Bei Bedarf bitte über den Ortsrat Breitenberg weitergeben.
+Bei Bedarf gebt bitte aktuelle Informationen zu euerem Verein über den Ortsrat Breitenberg weiter oder kontaktiert den Internetbeauftragten direkt über Whatsup.
