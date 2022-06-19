@@ -159,6 +159,7 @@
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+		text-align: left;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -353,6 +354,7 @@
 			position: relative;
 			margin: 0 0 (_size(element-margin) * 0.75) 0;
 			font-style: italic;
+			text-align: left;
 		}
 
 		h2 + p {
@@ -390,6 +392,7 @@
 				margin: 1.5em 0 0 0;
 				padding: 1.5em 0 0 0;
 				font-style: normal;
+				text-align: left;
 			}
 		}
 	}
@@ -1398,6 +1401,7 @@
 		p {
 			font-size: 1.25em;
 			margin-bottom: 1.75em;
+			text-align: left;
 		}
 
 		input[type="submit"],
@@ -1445,6 +1449,7 @@
 				font-style: normal;
 				margin: 1em 0 0 0;
 				padding: 1em 0 1.25em 0;
+				text-align: left;
 			}
 		}
 	}
