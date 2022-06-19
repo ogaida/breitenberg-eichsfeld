@@ -10,7 +10,8 @@ Am 15.06.2022 fand die Jahreshauptversammlung am Sporthaus statt. Bis auf den 1.
 Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern Daniel Conrady, Niklas Nolte und Mario Deppe für ihre geleistete Arbeit.
 {: style="text-align: left;"}
 
-![Vorstand](images/sv_germania_2022.jpg)
+
+<p><span class="image featured"><img src="images/sv_germania_2022.jpg" alt="" /></span></p>
 
 SV GERMANIA unterhält Sportgruppen in den Sportarten:
 
