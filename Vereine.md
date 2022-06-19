@@ -29,7 +29,7 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 {: style="text-align: left;"}
 
 - Vorsitzender: Aloys Friedrich
-- Derigent: Matthias Noltes
+- Derigent: Matthias Nolte
 {: style="text-align: left;"}
 
 ## Feuerwehrverein Breitenberg e.V.
