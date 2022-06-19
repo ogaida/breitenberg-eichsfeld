@@ -25,9 +25,6 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 - Tischtennis 
 {: style="text-align: left;"}
 
-<br>
-<br>
-
 ## Männergesangverein Liederkranz
 {: style="text-align: left;"}
 
