@@ -35,6 +35,23 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 - Derigent: Matthias Noltes
 {: style="text-align: left;"}
 
+## Feuerwehrverein Breitenberg e.V.
+{: style="text-align: left;"}
+
+Infos folgen.
+{: style="text-align: left;"}
+
+## Heimat- und Kulturverein Breitenberg
+{: style="text-align: left;"}
+
+Infos folgen.
+{: style="text-align: left;"}
+
+## Katholische Frauengemeinschaft
+
+Infos folgen.
+{: style="text-align: left;"}
+
 
 ## Fehlt Euer Verein?
 {: style="text-align: left;"}
