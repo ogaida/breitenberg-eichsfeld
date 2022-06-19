@@ -43,7 +43,7 @@ title: Breitenberger Termine
         </section>
         <section>
             <span class="icon solid major fa-info accent5"></span>
-            <h3>{{ item.text | markdownify }}</h3>
+            <h3 style="text-align: left;">{{ item.text | markdownify }}</h3>
         </section>
     </div>
 </section>
