@@ -57,6 +57,7 @@
 
 	ol, ul {
 		list-style:none;
+		text-align: left;
 	}
 
 	blockquote,	q {
@@ -801,6 +802,7 @@
 		list-style: decimal;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1.25em;
+		text-align: left;
 
 		li {
 			padding-left: 0.25em;
@@ -811,7 +813,7 @@
 		list-style: disc;
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1em;
-
+		text-align: left;
 		li {
 			padding-left: 0.5em;
 		}
