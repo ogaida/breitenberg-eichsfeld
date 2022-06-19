@@ -1,6 +1,6 @@
 ---
 title: Vereine
-sub_title: aktuelle Inforamtionen zu breitenberger Vereinen
+sub_title: aktuelle Informationen zu breitenberger Vereinen
 layout: post
 ---
 
@@ -54,5 +54,5 @@ Infos folgen.
 ## Fehlt Euer Verein?
 {: style="text-align: left;"}
 
-Bei Bedarf gebt bitte aktuelle Informationen zu euerem Verein über den Ortsrat Breitenberg weiter oder kontaktiert den Internetbeauftragten direkt über Whatsup.
+Bei Bedarf gebt bitte aktuelle Informationen zu eurem Verein über den Ortsrat Breitenberg weiter oder kontaktiert den Internetbeauftragten direkt über Whatsup.
 {: style="text-align: left;"}
