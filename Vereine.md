@@ -13,17 +13,19 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 <span class="image featured"><img src="images/sv_germania_2022.jpg" alt="" /></span>
 
 SV GERMANIA unterhält Sportgruppen in den Sportarten:
+
 - Fussball
 - Gymnastik
 - Tischtennis 
+{: style="text-align: left;"}
 
 <br>
 <br>
 
 ## Männergesangsverein Liederkranz
 
-Vorsitzender: Aloys Friedrich
-Derigent: Matthias Noltes
+- Vorsitzender: Aloys Friedrich
+- Derigent: Matthias Noltes
 {: style="text-align: left;"}
 
 
