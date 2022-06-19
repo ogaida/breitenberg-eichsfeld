@@ -48,6 +48,7 @@ Infos folgen.
 {: style="text-align: left;"}
 
 ## Katholische Frauengemeinschaft
+{: style="text-align: left;"}
 
 Infos folgen.
 {: style="text-align: left;"}
