@@ -3,7 +3,21 @@ termine:
     date: 9. Juli 2022
     time: ab 17:00 Uhr
     location: am Kyffhäuser (Fussballplatz Breitenberg)
-    fleyer: "[![Fleyer](./images/Sommerfest2022-2_mini.jpg) ![Fleyer](./images/klickme.jpg)](./images/Sommerfest2022-2.pdf)"
+    fleyer:  |
+      <a href="./images/Sommerfest2022-2.pdf">
+        <table border=0>
+          <tr>
+            <td>
+              <img src="./images/Sommerfest2022-2_mini.jpg" alt="Fleyer">
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="./images/klickme.jpg" alt="Fleyer">
+            </td>
+          </tr>
+        </table>
+      </a>
     text: |
       - DJ Dirk
       - Cocktails & Fassbier
