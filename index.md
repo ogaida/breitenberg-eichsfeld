@@ -33,7 +33,7 @@ title: Breitenberger Termine
         <section>
             <span class="icon solid major fa-list accent3"></span>
             <h3>{{ item.title }}</h3>
-            <center>{{ item.fleyer | markdownify }}</center>
+            <p style="text-align: center;">{{ item.fleyer | markdownify }}</p>
         </section>
     </div>
     <div class="features-row">
