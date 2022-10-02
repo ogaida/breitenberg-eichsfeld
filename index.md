@@ -9,8 +9,8 @@ title: Breitenberg
 <section class="box special">
     <header class="major">
     </header>
-    <h2>Erntedank 1. Oktober 2022</h2>
-    <p>Herzlichen Dank von der Stadt Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
+    <h2>Erntedankaltar vom 1. Oktober 2022</h2>
+    <p>Herzlichen Dank im Namen der Tafel Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
     <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>
 </section>
 
