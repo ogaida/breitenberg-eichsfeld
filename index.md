@@ -16,6 +16,15 @@ title: Aktuelles aus Breitenberg
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
 
 
+<section id="banner">
+    <h2>wichtige Termine in Breitenberg</h2>
+    <p>Another fine responsive site template freebie by HTML5 UP.</p>
+    <ul class="actions special">
+        <li><a href="#" class="button primary">Sign Up</a></li>
+        <li><a href="#" class="button">Learn More</a></li>
+    </ul>
+</section>
+
 <h1> wichtige Termine in Breitenberg </h1>
 
 
