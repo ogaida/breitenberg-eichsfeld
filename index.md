@@ -12,6 +12,7 @@ title: Breitenberg
     <h2>Erntedankaltar vom 1. Oktober 2022</h2>
     <p>Herzlichen Dank im Namen der Tafel Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
     <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>
+    <span class="image featured"><img src="images/erntedank2022_2.jpg" alt="" /></span>
 </section>
 
 <section class="box special">
