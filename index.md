@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aktuelles aus Breitenberg
+title: Breitenberg
 ---
 
 
@@ -9,8 +9,8 @@ title: Aktuelles aus Breitenberg
 <section class="box special">
     <header class="major">
     </header>
-    <h2>Erntedank 1. Oktober 2022 in Breitenberg</h2>
-    <p>Herzlichen Dank von der Stadt Duderstadt an alle Spender!</p>
+    <h2>Erntedank 1. Oktober 2022</h2>
+    <p>Herzlichen Dank von der Stadt Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
     <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>
 </section>
 
