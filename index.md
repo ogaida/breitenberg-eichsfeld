@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breitenberger Termine
+title: Aktuelles aus Breitenberg
 ---
 
 
@@ -14,6 +14,10 @@ title: Breitenberger Termine
 
 
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
+
+
+<h1> wichtige Termine in Breitenberg </h1>
+
 
 {% assign yesterday = 'now' | date: '%s' | minus:'86400' | times: 1 %}
 
