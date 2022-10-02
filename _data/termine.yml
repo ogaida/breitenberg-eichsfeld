@@ -1,55 +1,25 @@
 termine:
-  - title: Erntedank
-    date: 1. October 2022
-    time: 10:00 - 16:00 Uhr
+  - title: Seniorennachmittag 60+
+    date: 12. October 2022
+    time: 15:00 Uhr
+    location: PGH Breitenberg
+    text: |
+      Die Seniorenbeauftragten Anke Gerbode und Andreas Dornieden laden herzlich
+      zu Kaffee und Kuchen ein. Unkostenbeitrag: 5 €, Anmeldung ist nicht erforderlich.
+  - title: Kirchweihjubiläum
+    date: 15. October 2022
+    time: 17:00 Uhr
     location: Kirche Mariä Verkündigung in Breitenberg
     text: |
-      Spenden für den Erntedank-altar bitte am 1.10.2021 zwischen 10.00 -16.00 Uhr in der Kirche vor den Altar legen.
-      Geeignet sind:  haltbare, abgepackte Lebensmittel wie Nudeln und Konserven (Obst, Gemüse, Fleisch, Wurst), 
-      lagerfähige Erntegaben vom Feld/ aus dem Garten (u.a. Äpfel, Kartoffeln, Kürbisse).
-      Nach der 17.00 Uhr-Messe  kommen die Gaben der Tafel Duderstadt zugute.   
-      Herzlichen Dank!
-      Ihr/ Euer Kirchengemeinderat Breitenberg
-  - title: KSK Summerparty
-    date: 9. Juli 2022
-    time: ab 17:00 Uhr
-    location: im Vereinsheim der KSK Breitenberg am Sportgelände Breitenberg
-    fleyer:  |
-      <a href="./images/Sommerfest2022-2.pdf">
-        <table border=0>
-          <tr>
-            <td>
-              <img src="./images/Sommerfest2022-2_mini.jpg" alt="Fleyer">
-            </td>
-            <td>
-              <img src="./images/klickme.jpg" alt="Fleyer">
-            </td>
-          </tr>
-        </table>
-      </a>
-    text: |
-      Es sind ein paar Jahre vergangen als wir noch richtig feiern durften... Dieses Jahr möchten wir ein Sommerfest ausrichten.
-      Im Laufe des Abends wollen wir rückwirkend für die Jahre 2018, 2019 und 2020 Mitglieder für ihre Jahrelange treue zum Verein und Verband Ehren.  Wir laden alle Bürger rechtherzlich dazu ein ab 17 Uhr bei kalten Getränken, Cocktailbar und gegrilltem mit uns zu feiern.
-  - title: nachträgliches Sportfest - 100-Jahre SV Germania Breitenberg
-    date: 26. - 28. August 2022
-    time: ""
-    location: Sportgelände Breitenberg
-    text: |
-      Der Sportverein SV Germania Breitenberg wird am Wochenende 26.08-28.08.22 sein „ausgefallenes“ Sportfest
-      anlässlich der 100-Jahrfeier auf dem Sportgelände nachholen. Es werden nebst der Ehrungen vom DfB und NfV,
-      sowie dem KSB u.a. auch zahlreiche Vereinsmitglieder mit der goldenen bzw. silbernen Vereinsnadel
-      ausgezeichnet.
-  - title: HKV - Weinwiesen
-    date: 3. September 2022
-    time: ""
-    location: Windmühlenplatz in Breitenberg
-    text: Weinwiesen auf dem Windmühlenplatz – gern in Tracht
-  - title: Kirchweihfest - 125 jähriges Jubiläum
-    date: 15. September 2022
-    time: 17:00 Uhr
-    location: Kirche - St. Mariä Verkündigung in Breitenberg
-    text: Kirchweihfest zum 125 jährigen Jubiläum mit anschließender gemütlicher Runde im PGH
+      Festmesse zum 125-jährigen Kirchweihjubiläum, mitgestaltet vom MGV Liederkranz,
+      mit Verabschiedung und Neuaufnahme von Messdienern. Im Anschluss gibt es im PGH einen gemütlichen Ausklang des
+      Festtages mit Gelegenheit für Begegnungen und Gespräche. Für das leibliche Wohl ist mit Bratwurst und Getränken
+      gesorgt. Alle sind herzlich eigeladen. 
 
-# HKV
-#18.9.2022 „Wandern mit Andern“ in Obernfeld
-#3.10.2022 „Wandern mit Andern“ in Rhumspringe
+      Ihr Kirchengemeinderat
+  - title: Gräbersegnung
+    date: 29. October 2022
+    time: 16:00 Uhr
+    location: Friedhof Breitenberg
+    text: |
+      anschliessend Sonntag-Vorabendmesse in der Kirche Mariä Verkündigung
