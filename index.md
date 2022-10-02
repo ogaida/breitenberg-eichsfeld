@@ -9,7 +9,7 @@ title: Breitenberger Termine
 <section class="box special">
     <header class="major">
     </header>
-    <!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
+    <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>
 </section>
 
 
