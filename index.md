@@ -9,62 +9,57 @@ title: Aktuelles aus Breitenberg
 <section class="box special">
     <header class="major">
     </header>
+    <h2>Erntedank 1. Oktober 2022 in Breitenberg</h2>
+    <p>Herzlichen Dank von der Stadt Duderstadt an alle Spender!</p>
     <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>
 </section>
 
+<section class="box special">
+    <h2>wichtige Termine in Breitenberg</h2>
+</section>
 
 <!-- awesome font icons look at https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid -->
 
 
-<section id="banner">
-    <h2>wichtige Termine in Breitenberg</h2>
-    <p>Another fine responsive site template freebie by HTML5 UP.</p>
-    <ul class="actions special">
-        <li><a href="#" class="button primary">Sign Up</a></li>
-        <li><a href="#" class="button">Learn More</a></li>
-    </ul>
-</section>
-
-<h1> wichtige Termine in Breitenberg </h1>
 
 
-{% assign yesterday = 'now' | date: '%s' | minus:'86400' | times: 1 %}
+    {% assign yesterday = 'now' | date: '%s' | minus:'86400' | times: 1 %}
 
-{% for item in site.data.termine.termine %}
+    {% for item in site.data.termine.termine %}
 
-    {% assign termin_date = item.date | date: '%s' | times: 1 %}
-    {% if yesterday < termin_date %}
+        {% assign termin_date = item.date | date: '%s' | times: 1 %}
+        {% if yesterday < termin_date %}
 
-<div class="row">
-<section class="box special features">
-    <div class="features-row">
-        <section>
-            <span class="icon solid major fa-bell accent2"></span>
-            <h3>{{ item.date }}</h3>
-            <h4>{{ item.time }}</h4>
-        </section>
-        <section>
-            <span class="icon solid major fa-list accent3"></span>
-            <h3>{{ item.title }}</h3>
-            {{ item.fleyer }}
-        </section>
+    <div class="row">
+    <section class="box special features">
+        <div class="features-row">
+            <section>
+                <span class="icon solid major fa-bell accent2"></span>
+                <h3>{{ item.date }}</h3>
+                <h4>{{ item.time }}</h4>
+            </section>
+            <section>
+                <span class="icon solid major fa-list accent3"></span>
+                <h3>{{ item.title }}</h3>
+                {{ item.fleyer }}
+            </section>
+        </div>
+        <div class="features-row">
+            <section>
+                <span class="icon solid major fa-camera accent4"></span>
+                <h3>{{ item.location }}</h3>
+            </section>
+            <section>
+                <span class="icon solid major fa-info accent5"></span>
+                <h3 style="text-align: left;">{{ item.text | markdownify }}</h3>
+            </section>
+        </div>
+    </section>
     </div>
-    <div class="features-row">
-        <section>
-            <span class="icon solid major fa-camera accent4"></span>
-            <h3>{{ item.location }}</h3>
-        </section>
-        <section>
-            <span class="icon solid major fa-info accent5"></span>
-            <h3 style="text-align: left;">{{ item.text | markdownify }}</h3>
-        </section>
-    </div>
-</section>
-</div>
 
-<hr>
-<hr>
-    {% endif %}
-{% endfor %}
+    <hr>
+    <hr>
+        {% endif %}
+    {% endfor %}
 
 </section>
