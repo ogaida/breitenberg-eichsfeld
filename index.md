@@ -52,7 +52,7 @@ title: Breitenberg
             </section>
             <section>
                 <span class="icon solid major fa-info accent5"></span>
-                <h3 style="text-align: left;">{{ item.text | markdownify }}</h3>
+                <h3 style="text-align: left;margin-left: 10px">{{ item.text | markdownify }}</h3>
             </section>
         </div>
     </section>
