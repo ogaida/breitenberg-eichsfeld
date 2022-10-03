@@ -14,7 +14,7 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 <section class="box special">
     <header class="major">
     </header>
-    <h2>Der neue Vorstand</h2>
+    <h3>Der neue Vorstand</h3>
     <span class="image featured"><img src="images/SVGermania_Vorstand_2022.jpg" alt="" /></span>
     <p>Hier ein aktuelles Foto vom neugewählten Vorstand und dem neuangeschafften Rasentraktor.
     Hintere Reihe von rechts nach links:
