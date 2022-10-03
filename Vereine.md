@@ -12,7 +12,13 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 {: style="text-align: left;"}
 
 
-<p><span class="image featured"><img src="images/sv_germania_2022.jpg" alt="" /></span></p>
+<p><span class="image featured"><img src="images/SVGermania_Vorstand_2022.jpg" alt="" /></span></p>
+
+Hier ein aktuelles Foto vom neugewählten Vorstand und unsetem neuangeschafften Rasentraktor.
+Hintere Reihe von rechts nach links:
+Bernd Deppe (1.Vors.) Annika Nickel (Fussballobfrau der Damenmannschaft) Elmar Böning (2.Vors.) Frank Grube (Kassierer) Andreas Dornieden (3.Vors.) Auf dem Rasentraktor: Torsten Keil (Vereinsjugendleiter und Platzwart)
+Es fehlt: Jenny Uhde (Schriftführerin)
+{: style="text-align: left;"}
 
 <br>
 <br>
