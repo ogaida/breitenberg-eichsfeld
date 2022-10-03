@@ -11,7 +11,6 @@ Am 15.06.2022 fand die Jahreshauptversammlung am Sporthaus statt. Bis auf den 1.
 Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern Daniel Conrady, Niklas Nolte und Mario Deppe für ihre geleistete Arbeit.
 {: style="text-align: left;"}
 
-
 <section class="box special">
     <header class="major">
     </header>
@@ -22,11 +21,6 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
     Bernd Deppe (1.Vors.) Annika Nickel (Fussballobfrau der Damenmannschaft) Elmar Böning (2.Vors.) Frank Grube (Kassierer) Andreas Dornieden (3.Vors.) Auf dem Rasentraktor: Torsten Keil (Vereinsjugendleiter und Platzwart)
     Es fehlt: Jenny Uhde (Schriftführerin)</p>
 </section>
-
-
-
-{: style="text-align: left;"}
-
 
 Der Verein unterhält Sportgruppen in den Sportarten:
 {: style="text-align: left;"}
