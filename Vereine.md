@@ -15,21 +15,18 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 <section class="box special">
     <header class="major">
     </header>
-    <h2>Erntedankaltar vom 1. Oktober 2022</h2>
-    <p>Herzlichen Dank im Namen der Tafel Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
+    <h2>Der neue Vorstand</h2>
     <span class="image featured"><img src="images/SVGermania_Vorstand_2022.jpg" alt="" /></span>
-   
+    <p>Hier ein aktuelles Foto vom neugewählten Vorstand und dem neuangeschafften Rasentraktor.
+    Hintere Reihe von rechts nach links:
+    Bernd Deppe (1.Vors.) Annika Nickel (Fussballobfrau der Damenmannschaft) Elmar Böning (2.Vors.) Frank Grube (Kassierer) Andreas Dornieden (3.Vors.) Auf dem Rasentraktor: Torsten Keil (Vereinsjugendleiter und Platzwart)
+    Es fehlt: Jenny Uhde (Schriftführerin)</p>
 </section>
 
 
-Hier ein aktuelles Foto vom neugewählten Vorstand und unsetem neuangeschafften Rasentraktor.
-Hintere Reihe von rechts nach links:
-Bernd Deppe (1.Vors.) Annika Nickel (Fussballobfrau der Damenmannschaft) Elmar Böning (2.Vors.) Frank Grube (Kassierer) Andreas Dornieden (3.Vors.) Auf dem Rasentraktor: Torsten Keil (Vereinsjugendleiter und Platzwart)
-Es fehlt: Jenny Uhde (Schriftführerin)
+
 {: style="text-align: left;"}
 
-<br>
-<br>
 
 Der Verein unterhält Sportgruppen in den Sportarten:
 {: style="text-align: left;"}
