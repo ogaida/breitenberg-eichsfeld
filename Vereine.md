@@ -12,7 +12,15 @@ Wir bedanken uns recht herzlich bei unseren ausgeschiedenen Vorstandsmitgliedern
 {: style="text-align: left;"}
 
 
-<p><span class="image featured"><img src="images/SVGermania_Vorstand_2022.jpg" alt="" /></span></p>
+<section class="box special">
+    <header class="major">
+    </header>
+    <h2>Erntedankaltar vom 1. Oktober 2022</h2>
+    <p>Herzlichen Dank im Namen der Tafel Duderstadt an alle fleißigen Spender aus Breitenberg!</p>
+    <span class="image featured"><img src="images/SVGermania_Vorstand_2022.jpg" alt="" /></span>
+   
+</section>
+
 
 Hier ein aktuelles Foto vom neugewählten Vorstand und unsetem neuangeschafften Rasentraktor.
 Hintere Reihe von rechts nach links:
