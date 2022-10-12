@@ -6,6 +6,11 @@ title: Breitenberg
 
 <section id="main" class="container">
 
+<section class="box special">
+    <h2></h2>
+    <br>
+</section>
+
     <!--
     <section class="box special">
         <header class="major">
@@ -16,7 +21,7 @@ title: Breitenberg
         <span class="image featured"><img src="images/erntedank2022.jpg" alt="" /></span>    
     </section>
     -->
-    
+
 <section class="box special">
     <h2>wichtige Termine in Breitenberg</h2>
 </section>
