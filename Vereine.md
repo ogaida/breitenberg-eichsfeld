@@ -33,7 +33,7 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 
 <iframe src="https://www.mytischtennis.de/club-module/club/teams/clubNr/1080670/fedNickname/TTVN" height="300" width="90%"> </iframe> 
 <br>
-<h2><a href="https://www.mytischtennis.de/club-module/club/qttrlist/clubNr/1080670/fedNickname/TTVN">Rangliste unserer besten Spieler</a></h2>
+<h4><a href="https://www.mytischtennis.de/club-module/club/qttrlist/clubNr/1080670/fedNickname/TTVN">TT-Rangliste unserer besten Spieler</a></h4>
 
 {: style="text-align: left;"}
 
