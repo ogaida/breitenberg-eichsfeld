@@ -31,7 +31,7 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 
 ### Aktuelle Tabellenplatzierungen im Tischtennis
 
-<iframe src="https://www.mytischtennis.de/club-module/club/teams/clubNr/1080670/fedNickname/TTVN" height="90%" width="90%"> </iframe> 
+<iframe src="https://www.mytischtennis.de/club-module/club/teams/clubNr/1080670/fedNickname/TTVN" height="300" width="90%"> </iframe> 
 
 {: style="text-align: left;"}
 
