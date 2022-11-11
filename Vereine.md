@@ -32,7 +32,7 @@ Der Verein unterhält Sportgruppen in den Sportarten:
 
 ### Aktuelle Tabellenplatzierung im Tischtennis
 
-<iframe src="https://www.mytischtennis.de/club-module/club/teams/clubNr/1080670/fedNickname/TTVN" height="300" width="700"> </iframe> 
+<iframe src="https://www.mytischtennis.de/club-module/club/teams/clubNr/1080670/fedNickname/TTVN" height="50%" width="500"> </iframe> 
 
 ## Männergesangverein Liederkranz
 {: style="text-align: left;"}
