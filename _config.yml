@@ -15,3 +15,7 @@ collections:
 # https://stackoverflow.com/questions/28294959/jekyll-kramdown-how-to-center-text
 kramdown:
   input: Kramdown
+
+## new release:
+# git tag release-name
+# git push --tags
