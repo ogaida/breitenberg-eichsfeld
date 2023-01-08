@@ -4,7 +4,23 @@ termine:
     time:  Uhr
     location: 
     text: |
-
+  # https://www.kirche-duderstadt.de/pfarrnachrichten/
+  - title: Aussendung der Sternsinger
+    date: 07.01.2023
+    time: 10 Uhr
+    location: Kirche Mariä Verkündigung in Breitenberg 
+    text: |
+      Liebe Breitenberger, dieses Jahr ist die Sterrnsingeraktion am Samstag, den 7.1.2023. Um 10.00 Uhr findet die Andacht zur Aussendung der Sternsinger in unserer Kirche statt, hier dürfen Sie gern dabei sein, wenn sie mögen oder sie schalten den Kirchenfunk (98,4 Mhz) ein. Im Anschluss ab ca. 10.30 Uhr kommen unsere Sternsinger zu den angemeldeten Haushalten. Alternativ können Sie auch nach der Andacht von ca. 10.30 bis 12.00 Uhr einen Segensstreifen oder gesegnete Kreide aus der Kirche mitnehmen bzw. abholen kommen. Dabei nehmen wir gern wieder eine Spende für das Kindermissionswerk entgegen. Das Kindermissionswerk ́Die Sternsinger` e.V. unterstützt weltweit ca. 1800 Projekte für Kinder in Not. Dieses Jahr stehen besonders Projekte in Indonesien im Mittelpunkt.
+    fleyer:  |
+      <a href="./images/Infobrief-Sternsingen2023.pdf">
+        <table border=0>
+          <tr>
+            <td>
+              <h1>Hier finden Sie weitere Informationen und das Anmeldeformular</h1>
+            </td>
+          </tr>
+        </table>
+      </a>
   - title: Seniorennachmittag 60+
     date: 13.12.2022
     time: 15:00 Uhr
