@@ -15,6 +15,22 @@ termine:
           </tr>
         </table>
       </a>
+  - title: Osterfeuer
+    date: 09.04.2023
+    time: 18:00 Uhr
+    location: Sportplatz Breitenberg
+    text: |
+      Kühle Getränke und Spezialitäten vom Grill. Siehe Flyer. 
+    fleyer:  |
+      <a href="./images/Osterfeuer-2023.jpg">
+        <table border=0>
+          <tr>
+            <td>
+              <h1>Fleyer</h1>
+            </td>
+          </tr>
+        </table>
+      </a>
   - title: Seniorennachmittag 60+
     date: 18.04.2023
     time: 15:00 Uhr
