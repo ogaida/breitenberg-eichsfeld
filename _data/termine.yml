@@ -1,14 +1,28 @@
 termine:
-  - title: Wortgottesfeier zur Fastenzeit mit Neuen Geistlichen Liedern
-    date: 11.03.2023
-    time: 18:30 Uhr
-    location: Kirche Mariä Verkündigung in Breitenberg
+  - title: Frühjahrputzt in Breitenberg
+    date: 01.04.2023
+    time: 10:00 Uhr
+    location: Windmühlenplatz
     text: |
-      Komm herein und nimm Dir Zeit für Dich!
-      Wortgottesfeier zur Fastenzeit unter der Leitung von Monika Nolte.   
-      Mitgestaltet durch Oliver Gaida, Silke Nolte und Ulle Pfefferle
+      Eine kurze Rückmeldung zur Teilnahme bitte an Katja Neumann, damit das anschließende Grillen vorbereitet werden kann. Bitte auch den Flyer beachten.
     fleyer:  |
-      <a href="./images/Flyer-Wortgottesfeier.03.2023.pdf">
+      <a href="./images/bb-putzen-1.4.2023.jpg">
+        <table border=0>
+          <tr>
+            <td>
+              <h1>Fleyer</h1>
+            </td>
+          </tr>
+        </table>
+      </a>
+  - title: Seniorennachmittag 60+
+    date: 18.04.2023
+    time: 15:00 Uhr
+    location: PGH Breitenberg
+    text: |
+      Anke Gerbode und Andreas Dornieden -Seniorenbeauftragte- laden herzlich zu Kaffee und Kuchen ein. Unkostenbeitrag = 5,- Euro. Eine Anmeldung ist nicht erforderlich. Siehe Flyer. 
+    fleyer:  |
+      <a href="./images/Seniorennachmittag-18.4.2023.jpg">
         <table border=0>
           <tr>
             <td>
