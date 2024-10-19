@@ -4,6 +4,8 @@ title: Männergesangverein Liederkranz
 toc_name: Gesangverein
 ---
 
+<a href="#" class="image featured"><img src="images/mgv.jpg" alt="" /></a>
+
 - Vorsitzender: Aloys Friedrich
 - Dirigent: Matthias Nolte
 
