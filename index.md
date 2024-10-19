@@ -5,7 +5,7 @@ subtitle: Ortsteil von Duderstadt nahe Göttingen
 toc_name: Willkommen
 ---
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 <p>
 Der höchstgelegene Ortsteil der Stadt Duderstadt (265 m über NN) liegt ungefähr
 4 km nördlich von der Kernstadt Duderstadt entfernt. Seinen Namen verdankt der
