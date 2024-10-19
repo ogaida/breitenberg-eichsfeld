@@ -4,7 +4,7 @@ title: Termine
 toc_name: Termine
 ---
 
-<--! aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
+<!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
 <a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>
 
