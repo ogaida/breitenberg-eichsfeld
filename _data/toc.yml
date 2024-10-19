@@ -7,7 +7,7 @@ toc:
     file: mgv
   - name: Termine
     file: termine
-  - name: Kontakt
-    file: contact
+  #- name: Kontakt
+  #  file: contact
   - name: Datenschutz
     file: datenschutz
