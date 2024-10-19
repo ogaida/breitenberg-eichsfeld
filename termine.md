@@ -11,4 +11,4 @@ toc_name: Termine
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
 
-Für alle, die Termine bekanntgeben: Wenn ihr wollt, dass ich Eure Termine auf dieser Website veröffentliche, dann sendet bitte entsprechende Informationen an Oliver Gaida.
+Für alle, die Termine hier bekanntgegeben haben wollen, sendet bitte entsprechende Informationen an Oliver Gaida. Bilder oder PDF-Dateien bitte im Original nicht abfotografiert. Texte bitte nicht als Bild, sondern als Text in einer Textdatei, im Chat oder in einer Email.
