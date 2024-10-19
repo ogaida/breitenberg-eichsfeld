@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Willkommen auf dem Breitenberg
-subtitle: in Duderstadt nahe Göttingen
+subtitle: Ortsteil von Duderstadt nahe Göttingen
 toc_name: Willkommen
 ---
 
