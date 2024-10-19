@@ -1,0 +1,11 @@
+toc:
+  - name: Willkommen
+    file: index
+  - name: Sportverein
+    file: sport
+  - name: Gesangverein
+    file: mgv
+  - name: Kontakt
+    file: contact
+  - name: Datenschutz
+    file: datenschutz

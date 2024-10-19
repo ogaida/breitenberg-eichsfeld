@@ -1,5 +1,5 @@
 /*
-	Alpha by HTML5 UP
+	Striped by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -8,17 +8,15 @@
 
 	var	$window = $(window),
 		$body = $('body'),
-		$header = $('#header'),
-		$banner = $('#banner');
+		$document = $(document);
 
 	// Breakpoints.
 		breakpoints({
-			wide:      ( '1281px',  '1680px' ),
-			normal:    ( '981px',   '1280px' ),
-			narrow:    ( '737px',   '980px'  ),
-			narrower:  ( '737px',   '840px'  ),
-			mobile:    ( '481px',   '736px'  ),
-			mobilep:   ( null,      '480px'  )
+			desktop:   [ '737px',   null     ],
+			wide:      [ '1201px',  null     ],
+			narrow:    [ '737px',   '1200px' ],
+			narrower:  [ '737px',   '1000px' ],
+			mobile:    [ null,      '736px'  ]
 		});
 
 	// Play initial animations on page load.
@@ -28,30 +26,36 @@
 			}, 100);
 		});
 
-	// Dropdowns.
-		$('#nav > ul').dropotron({
-			alignment: 'right'
-		});
+	// Nav.
 
-	// NavPanel.
+		// Height hack.
+		/*
+			var $sc = $('#sidebar, #content'), tid;
 
-		// Button.
+			$window
+				.on('resize', function() {
+					window.clearTimeout(tid);
+					tid = window.setTimeout(function() {
+						$sc.css('min-height', $document.height());
+					}, 100);
+				})
+				.on('load', function() {
+					$window.trigger('resize');
+				})
+				.trigger('resize');
+		*/
+
+		// Title Bar.
 			$(
-				'<div id="navButton">' +
-					'<a href="#navPanel" class="toggle"></a>' +
+				'<div id="titleBar">' +
+					'<a href="#sidebar" class="toggle"></a>' +
+					'<span class="title">' + $('#logo').html() + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
 
-		// Panel.
-			$(
-				'<div id="navPanel">' +
-					'<nav>' +
-						$('#nav').navList() +
-					'</nav>' +
-				'</div>'
-			)
-				.appendTo($body)
+		// Sidebar
+			$('#sidebar')
 				.panel({
 					delay: 500,
 					hideOnClick: true,
@@ -60,25 +64,7 @@
 					resetForms: true,
 					side: 'left',
 					target: $body,
-					visibleClass: 'navPanel-visible'
+					visibleClass: 'sidebar-visible'
 				});
-
-	// Header.
-		if (!browser.mobile
-		&&	$header.hasClass('alt')
-		&&	$banner.length > 0) {
-
-			$window.on('load', function() {
-
-				$banner.scrollex({
-					bottom:		$header.outerHeight(),
-					terminate:	function() { $header.removeClass('alt'); },
-					enter:		function() { $header.addClass('alt reveal'); },
-					leave:		function() { $header.removeClass('alt'); }
-				});
-
-			});
-
-		}
 
 })(jQuery);

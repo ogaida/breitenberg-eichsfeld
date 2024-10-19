@@ -1,3 +1,10 @@
-{% include head.html %}
+{% include top.html %}
+<article class="box post post-excerpt">
+    <header class="major">
+    <h2>{{ page.title }}</h2>
+    <p><font size="3">{{ page.date }}</font></p>
+    <p>{{ page.subtitle }}</p>
+    </header>
 {{ content }}
-{% include tail.html %}
+</article>
+{% include buttom.html %}

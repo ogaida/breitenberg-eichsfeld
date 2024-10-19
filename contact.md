@@ -1,10 +1,9 @@
 ---
+layout: default
 title: kontaktieren Sie uns ...
-sub_title: Bitte teilen Sie uns ihr Anliegen mit
-layout: post
+subtitle: Bitte teilen Sie uns ihr Anliegen mit
+toc_name: Kontakt
 ---
-
-
 
 <form method="post" action="./cgi-bin/contact-request.pl">
 	<div class="row gtr-50 gtr-uniform">

@@ -1,9 +1,9 @@
 # jekyll serve --baseurl '' --host 0.0.0.0
-baseurl: breitenberg-eichsfeld.de
+#baseurl: breitenberg-eichsfeld.de
 # beta: https://breitenberg-eichsfeld.schnatzefatt.de/index.html
 
 collections:
-  termine:
+  toc:
     output: true
 #  content_posts:
 #    output: true
