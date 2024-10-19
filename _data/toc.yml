@@ -3,6 +3,8 @@ toc:
     file: index
   - name: Sportverein
     file: sport
+  - name: Feuerwehrverein
+    file: feuerwehr
   - name: Gesangverein
     file: mgv
   - name: Termine
