@@ -7,6 +7,8 @@ toc:
     file: feuerwehr
   - name: Gesangverein
     file: mgv
+  - name: Heimt- und Kulturverein
+    file: hkv
   - name: Termine
     file: termine
   - name: Kontakt
