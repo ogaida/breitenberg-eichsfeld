@@ -5,7 +5,9 @@ toc:
     file: sport
   - name: Gesangverein
     file: mgv
-  #- name: Kontakt
-  #  file: contact
+  - name: Termine
+    file: termine
+  - name: Kontakt
+    file: contact
   - name: Datenschutz
     file: datenschutz
