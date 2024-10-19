@@ -34,6 +34,9 @@ am 25. April 1368, also 7 Jahre nachdem ihr das Dorf Breitenberg als „Leibgedi
 zugunsten des Klosters Quedlinburges auf ihr Leibgeding und auf den „Zehnten“ in
 Breitenberg.
 </p>
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
+
 <p>Noch im Mai 1368 belehnte die Abtissin Elisabeth von Quedlinburg die Stadt Duderstadt „mit dem dorpe unde der dorpstede tu Bredenberge“ gegen die Zahlung von 1 Duderstädter Marklötigen Silbers.
 </p>
 <p>Von diesem Zeitpunkt an stand Breitenberg bis 1815 als eines von 11 Ratsdörfern in der Abhängigkeit der Stadt Duderstadt. Bereits wenige Jahre später (1373) konnte Duderstadt von den Rittern von Minningerode die Waldflächen und Forsten des Hübentals erwerben. Hier ist heute das Waldgasthaus Hübental, ein beliebtes Wanderziel, in dem man gutes Essen schätzt, aber auch übernachten kann.
