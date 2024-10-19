@@ -7,7 +7,7 @@ toc_name: Termine
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
 <br><a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>
-<br><a href="#" class="image featured"><img src="images/st-martin-aushang-2024.pdf" alt="" /></a>
+<br><img src="images/st-martin-aushang-2024.pdf" alt="" />
 
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
