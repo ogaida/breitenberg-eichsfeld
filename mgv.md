@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Männergesangverein Liederkranz
-toc_name: Gesangverein
+title: Männergesangsverein Liederkranz
+toc_name: Gesangsverein
 ---
 
 <a href="#" class="image featured"><img src="images/mgv.jpg?a=1" alt="" /></a>
