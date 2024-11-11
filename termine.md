@@ -17,7 +17,6 @@ toc_name: Termine
     <p><font size="3"></font></p>
     <p>um 11:00 Uhr vor dem Denkmal</p>
     </header>
-{{ content }}
 </article>
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
