@@ -6,6 +6,9 @@ toc_name: Termine
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
+# Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal
+
+
 <!--<br><a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>-->
 <br><a href="#" class="image featured"><img src="images/st_martin_2024.jpg" alt="" style="border: 1px solid #555"/></a>
 
