@@ -13,9 +13,9 @@ toc_name: Termine
 
 <article class="box post post-excerpt">
     <header class="major">
-    <h2>17.11.2024 - Gedenkveranstaltung zum Volkstrauertag</h2>
+    <h2>17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal</h2>
     <p><font size="3"></font></p>
-    <p>um 11:00 Uhr vor dem Denkmal</p>
+    <p></p>
     </header>
 </article>
 
