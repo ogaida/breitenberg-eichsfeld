@@ -6,12 +6,13 @@ toc_name: Termine
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
-<h1> am 17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal </h1>
 
-<hr>
 
 <!--<br><a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>-->
 <br><a href="#" class="image featured"><img src="images/st_martin_2024.jpg" alt="" style="border: 1px solid #555"/></a>
+
+<h1> am 17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal </h1>
+
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
 
