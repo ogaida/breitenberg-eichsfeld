@@ -9,5 +9,5 @@ Motto: Wandergruppe, Theatergruppe, Karneval, Dorfleben, Wir leben Dorfgemeinsch
 <a href="https://www.instagram.com/hkv_breitenberg/?utm_source=qr&igsh=MXVveWlsejRlN2pveQ%3D%3D#" class="image featured"><img src="images/hkv.jpg" alt="" /></a>
 
 
-<a href="https://www.instagram.com/hkv_breitenberg/?utm_source=qr&igsh=MXVveWlsejRlN2pveQ%3D%3D#"><img src="images/hkv_qrcode.jpg" width="100" height="100" alt="" /></a>
+<a href="https://www.instagram.com/hkv_breitenberg/?utm_source=qr&igsh=MXVveWlsejRlN2pveQ%3D%3D#"><img src="images/hkv_qrcode.jpg" width="200" height="200" alt="" /></a>
 
