@@ -5,7 +5,7 @@ toc_name: St. Martin Liedtexte
 ---
 
 <p>
-<font size=10> 
+<font size=10 color=black> 
     Lied 1 
 </font>
 </p>
