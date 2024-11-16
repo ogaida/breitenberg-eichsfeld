@@ -4,13 +4,13 @@ title: St. Martin Liedtexte für den 16.11.2024
 toc_name: St. Martin Liedtexte
 ---
 
-<p><font size=6 color=black> 
+<p><font size=8 color=black> 
     Lied 1 
 </font>
 </p>
 
 
-<font size=4 color=black> 
+<font size=6 color=black> 
 <p>
 text text
 text text
