@@ -4,12 +4,12 @@ title: St. Martin Liedtexte für den 16.11.2024
 toc_name: St. Martin Liedtexte
 ---
 
-<p><font size=8 color=black> 
+<p><font size=5 color=black> 
 Ich geh mit meiner Laterne
 </font></p>
 
 
-<font size=6 color=black> 
+<font size=3 color=black> 
 <p>
 Refrain: Ich geh mit meiner Laterne
 und meine Laterne mit mir.
