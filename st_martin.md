@@ -96,21 +96,39 @@ und breit.
 </font>
 
 <p><font size=5 color=black> 
-
+Wenn das Brot, das wir teilen
 </font></p>
 
 
 <font size=3 color=black> 
 <p>
-
+1. Wenn das Brot, das wir teilen, als Rose blüht,
+und das Wort, das wir sprechen, als Lied erklingt,
 </p>
 
 <p>
-
+Refrain: dann hat Gott unter uns schon sein Haus
+gebaut, dann wohnt er schon in unserer Welt. Ja,
+dann schauen wir heut schon sein Angesicht in der
+Liebe, die alles umfängt, in der Liebe, die alles
+umfängt.
 </p>
 
 <p>
+2. Wenn das Leid jedes Armen uns Christus zeigt,
+und die Not, die wir lindern, zur Freude wird,…
+</p>
 
+<p>
+3. Wenn die Hand, die wir halten, uns selber hält,
+und das Kleid, das wir schenken, auch uns
+bedeckt,…
+</p>
+
+<p>
+4. Wenn der Trost, den wir geben, uns weiter
+trägt, und der Schmerz, den wir teilen, zur
+Hoffnung wird, ….
 </p>
 </font>
 
