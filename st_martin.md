@@ -133,39 +133,53 @@ Hoffnung wird, ….
 </font>
 
 <p><font size=5 color=black> 
-
+Laterne, Laterne
 </font></p>
 
 
 <font size=3 color=black> 
 <p>
-
+1. Laterne, Laterne, Sonne, Mond und Sterne,
+brenne auf mein Licht, brenne auf mein Licht, aber
+nur meine liebe Laterne nicht.
 </p>
 
 <p>
-
+2. Laterne, Laterne, Sonne, Mond und Sterne, sperrt
+ihn ein den Wind, sperrt ihn ein den Wind, er soll
+warten, bis wir zu Hause sind.
 </p>
 
 <p>
-
+3. Laterne, Laterne, Sonne, Mond und Sterne, bleibe
+hell mein Licht, bleibe hell mein Licht, sonst strahlt
+meine liebe Laterne nicht.
 </p>
 </font>
 
 <p><font size=5 color=black> 
-
+Durch die Straßen auf und nieder
 </font></p>
 
 
 <font size=3 color=black> 
 <p>
-
+1. Durch die Straßen auf und nieder leuchten
+die Laternen wieder:
+Rote, gelbe, grüne, blaue.
+„Lieber Martin komm und schaue!“
 </p>
 
 <p>
-
+2. Wie die Blumen in dem Garten blüh’n
+Laternen aller Arten:
+Rote, gelbe, grüne, blaue.
+„Lieber Martin komm und schaue!“
 </p>
 
 <p>
-
+3. Und wir gehen lange Strecken mit Laternen
+an den Stecken: Rote, gelbe, grüne, blaue.
+„Lieber Martin komm und schaue!“
 </p>
 </font>
