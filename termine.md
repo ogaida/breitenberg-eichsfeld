@@ -5,20 +5,17 @@ toc_name: Termine
 ---
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
-
-
-
 <!--<br><a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>-->
-<br><a href="#" class="image featured"><img src="images/st_martin_2024.jpg" alt="" style="border: 1px solid #555"/></a>
 
-<article class="box post post-excerpt">
-    <header class="major">
-    <h2>17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal</h2>
-    <p><font size="3"></font></p>
-    <p></p>
-    </header>
-</article>
-
+<!--
+    <article class="box post post-excerpt">
+        <header class="major">
+        <h2>17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal</h2>
+        <p><font size="3"></font></p>
+        <p></p>
+        </header>
+    </article>
+-->
 <br><a href="#" class="image featured"><img src="images/Weihnachtsmarkt_2024.jpg" alt="" style="border: 1px solid #555"/></a>
 
 
