@@ -5,7 +5,6 @@ toc_name: Termine
 ---
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
-<!--<br><a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" /></a>-->
 
 <!--
     <article class="box post post-excerpt">
@@ -20,6 +19,8 @@ toc_name: Termine
 
 
 <br><a href="#" class="image featured"><img src="images/adventssingen_2024.jpg" alt="" style="border: 1px solid #555"/></a>
+
+<br><a href="#" class="image featured"><img src="images/SN-10.12.24.jpg" alt="" /></a>
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
 
