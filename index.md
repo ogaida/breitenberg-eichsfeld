@@ -10,7 +10,7 @@ toc_name: Willkommen
 </header>
 
 
-<br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt=""/></a>
+<br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 <p>
