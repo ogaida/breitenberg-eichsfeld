@@ -15,8 +15,6 @@ toc_name: Termine
         </header>
     </article>
 -->
-<br><a href="#" class="image featured"><img src="images/Weihnachtsmarkt_2024.jpg" alt="" style="border: 1px solid #555"/></a>
-
 
 <br><a href="#" class="image featured"><img src="images/adventssingen_2024.jpg" alt="" style="border: 1px solid #555"/></a>
 
