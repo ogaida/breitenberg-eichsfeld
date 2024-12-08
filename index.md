@@ -7,7 +7,7 @@ toc_name: Willkommen
 
 <header class="major">
 <h2><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h2>
-klicke auf das Bild, um es als PDF herunterzuladen und es auszudrucken
+klicke auf das Bild, um es als PDF herunterzuladen, wenn Du es auszudrucken möchtest.
 </header>
 
 <br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
