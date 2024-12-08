@@ -6,7 +6,7 @@ toc_name: Dreikönigssingen
 ---
 
 <header class="major">
-<h2><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h2>
+<h2><font color=red>Informationen für die Sternsingerkinder</font></h2>
 klicke auf das Bild, um es als PDF herunterzuladen, wenn Du es auszudrucken möchtest.
 </header>
 
