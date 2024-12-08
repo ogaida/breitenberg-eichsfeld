@@ -13,9 +13,9 @@ toc_name: Willkommen
 <br>
 <div class="tooltip-wrap">
 blaa
-    <div class="tooltip-content">
-        <a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
-    </div>
+<div class="tooltip-content">
+<a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
+</div>
 </div>
 
 
