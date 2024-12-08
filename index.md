@@ -5,15 +5,6 @@ subtitle: Ortsteil von Duderstadt nahe Göttingen
 toc_name: Willkommen
 ---
 
-<header class="major">
-<h2><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h2>
-klicke auf das Bild, um es als PDF herunterzuladen, wenn Du es auszudrucken möchtest.
-</header>
-
-<br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt=""/></a>
-
-<hr><hr>
-
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
 <p>
 Der höchstgelegene Ortsteil der Stadt Duderstadt (265 m über NN) liegt ungefähr
