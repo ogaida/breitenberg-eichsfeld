@@ -5,7 +5,10 @@ subtitle: Ortsteil von Duderstadt nahe Göttingen
 toc_name: Willkommen
 ---
 
-# Wichtige Informationen für die Sternsingerkinder
+<header class="major">
+<h2>Wichtige Informationen für die Sternsingerkinder</h2>
+</header>
+
 
 <br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt=""/></a>
 
