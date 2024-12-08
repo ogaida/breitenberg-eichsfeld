@@ -6,7 +6,7 @@ toc_name: Willkommen
 ---
 
 <header class="major">
-<h2>Wichtige Informationen für die Sternsingerkinder</h2>
+<h2><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h2>
 </header>
 
 
