@@ -6,17 +6,11 @@ toc_name: Willkommen
 ---
 
 <header class="major">
-<h2><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h2>
+<h3><font color=red>Wichtige Informationen für die Sternsingerkinder</font></h3>
+<p>klicke auf das Bild, um es als PDF herunterzuladen und es auszudrucken</p>
 </header>
 
-
-<br>
-<div class="tooltip-wrap">
-blaa
-<div class="tooltip-content">
-<a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
-</div>
-</div>
+<br><a href="images/Infobrief-Sternsingerkinder-2025.pdf" class="image featured"><img src="images/Infobrief-Sternsingerkinder-2025.jpg" alt="klick hier um das PDF herrunterzuladen"/></a>
 
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="https://umap.openstreetmap.de/en/map/breitenberg_66210?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe>
