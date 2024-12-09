@@ -20,7 +20,7 @@ toc_name: Termine
 
 <br><a href="#" class="image featured"><img src="images/SN-10.12.24.jpg" alt="" /></a>
 
-<br><a href="#" class="image featured"><img src="images/Flyer-Spakassencup.jpg" alt="" /></a>
+<br><a href="images/Flyer-Spakassencup.jpg" class="image featured"><img src="images/Flyer-Spakassencup.jpg" alt="" /></a>
 
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
 
