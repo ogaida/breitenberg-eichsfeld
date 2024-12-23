@@ -22,12 +22,13 @@ toc_name: Termine
 
 <br><a href="images/Flyer-Sparkassencup.jpg" class="image featured"><img src="images/Flyer-Sparkassencup.jpg" alt="" /></a>
 
+<hr>
+<br>
+<hr>
 
 <article class="box post post-excerpt">
     <header class="major">
-    <h2>Termine für 2025</h2>
-    <p><font size="3"></font></p>
-    <p></p>
+        <h2>Termine für 2025</h2>
     </header>
 </article>
 
