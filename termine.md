@@ -23,13 +23,13 @@ toc_name: Termine
 <br><a href="images/Flyer-Sparkassencup.jpg" class="image featured"><img src="images/Flyer-Sparkassencup.jpg" alt="" /></a>
 
 
-    <article class="box post post-excerpt">
-        <header class="major">
-        <h2>Termine für 2025</h2>
-        <p><font size="3"></font></p>
-        <p></p>
-        </header>
-    </article>
+<article class="box post post-excerpt">
+    <header class="major">
+    <h2>Termine für 2025</h2>
+    <p><font size="3"></font></p>
+    <p></p>
+    </header>
+</article>
 
 | Datum                | Thema                     | Verein          | Ort             |
 | -------------------- | ------------------------- | --------------- | --------------- |
@@ -54,6 +54,11 @@ toc_name: Termine
 | 27.12.25             | Hallentunier              | SVG             | Auf der Klappe  |
 
 
+<br><br><hr><br><br>
+
+
+<font size="0.5">
 Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termin. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
 
 Für alle, die Termine hier bekanntgegeben haben wollen, sendet bitte entsprechende Informationen an Oliver Gaida. Bilder oder PDF-Dateien bitte im Original versenden. Texte bitte als Text in einer Textdatei, im Chat oder in einer Email senden. Wenn Fotos mit Personen veröffentlicht werden sollen, klärt bitte vorher das Einverständnis ab.
+</font>
