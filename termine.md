@@ -36,7 +36,7 @@ toc_name: Termine
 | 01.03.2025              | Faschingsball             | Feuerwehr       | Deppe                       |
 | 15.03.2025              | Apres Ski Party           | SVG             | Sportplatz                  |
 | 22.03.2025              | Frühjahrsputz             | Ortsrat         | Dorfplatz                   |
-| 29.03.2025              | Boßeln                    |                 | Kyffhäuser                  |
+| 29.03.2025              | Boßeln                    | HKV             | Kyffhäuser                  |
 | 12.04.2025              | Vogelschießen             | Kyffhäuser      | Kyffhäuser                  |
 | 19.04.2025              | Eiersuchen für die Kinder | Ortsrat         | Dorfplatz                   |
 | 20.04.2025              | Osterfeuer                | Feuerwehr / SVG | Sportplatz                  |
@@ -44,9 +44,9 @@ toc_name: Termine
 | 31.05.2025 - 01.06.2025 | Schützenfest              | Kyffhäuser      | Dorfplatz                   |
 | 20.06. oder 27.06.2025  | Wikinger Schach           | SVG             | Sportplatz                  |
 | 02.08.2025 - 03.08.2025 | Sportfest                 | SVG             | Sportplatz                  |
-| 30.08.2025              | Weinwiesn                 |                 | Dorfplatz                   |
+| 30.08.2025              | Weinwiesn                 | HKV             | Dorfplatz                   |
 | 15.10.2025              | Feierabendgespräch        | Ortsrat         | Dorfplatz / DGH             |
-| 25.10.2025              | BoBeln                    |                 | Kyffhäuser                  |
+| 25.10.2025              | Boßeln                    | HKV             | Kyffhäuser                  |
 | 31.10.2025              | Halloween                 | Kyffhäuser      | Kyffhäuser                  |
 | 15.11.2025              | Sankt Martin              | Feuerwehr       | Dorfplatz                   |
 | 29.11.2025              | Weihnachtsmarkt           |                 | Dorfplatz                   |
