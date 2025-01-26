@@ -33,7 +33,6 @@ toc_name: Termine
 
 | Datum                   | Thema                     | Verein          | Ort                         |
 | ----------------------- | ------------------------- | --------------- | --------------------------- |
-| 14.01.2025              | Feierabendgespräch        | Ortsrat         | DGH                         |
 | 01.03.2025              | Faschingsball             | Feuerwehr       | Deppe                       |
 | 15.03.2025              | Apres Ski Party           | SVG             | Sportplatz                  |
 | 22.03.2025              | Frühjahrsputz             | Ortsrat         | Dorfplatz                   |
