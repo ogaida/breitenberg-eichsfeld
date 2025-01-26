@@ -16,13 +16,13 @@ toc_name: Termine
     </article>
 -->
 
-<!-- <br><a href="#" class="image featured"><img src="images/adventssingen_2024.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" style="border: 1px solid #555"/></a> 
 
 <hr>
 <br>
 <hr>
 
--->
+<!-- -->
 
 
 <article class="box post post-excerpt">
