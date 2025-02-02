@@ -22,6 +22,14 @@ toc_name: Termine
 <br>
 <hr>
 
+
+<a href="#" class="image featured"><img src="images/stricken-hkv.jpg" alt="" style="border: 1px solid #555"/></a> 
+
+
+<hr>
+<br>
+<hr>
+
 <!-- -->
 
 
