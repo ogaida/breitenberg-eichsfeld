@@ -4,6 +4,8 @@ title: WSG
 toc_name: WSG
 ---
 
+Hier zwei aktuelle Dokumente zu download...
+
 <header class="major">
 <h2><font color=red>WSG Obernfeld Verordnung</font></h2>
 </header>
