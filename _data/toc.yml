@@ -13,8 +13,12 @@ toc:
     file: mgv
   - name: Heimat- und Kulturverein
     file: hkv
+  - name: Kirche
+    file: kirche
   - name: Termine
     file: termine
+  - name: WSG
+    file: WSG
   - name: Kontakt
     file: contact
   - name: Datenschutz
