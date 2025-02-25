@@ -4,7 +4,7 @@ title: WSG
 toc_name: WSG
 ---
 
-Hier zwei aktuelle Dokumente zu download...
+Hier zwei aktuelle Dokumente zum herunterladen ...
 
 <ul>
 <li><a href="images/2024_06_WSG_Obernfeld_Verordnung.pdf" class="image featured">2024_06_WSG_Obernfeld_Verordnung.pdf</a></li>
