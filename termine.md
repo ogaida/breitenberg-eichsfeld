@@ -14,23 +14,15 @@ toc_name: Termine
         <p></p>
         </header>
     </article>
+
 -->
 
-<a href="#" class="image featured"><img src="images/seniorennachmittag.jpg" alt="" style="border: 1px solid #555"/></a> 
-
-<hr>
-<br>
-<hr>
-
-
-<a href="#" class="image featured"><img src="images/stricken-hkv.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" style="border: 1px solid #555"/></a> 
 
 
 <hr>
 <br>
 <hr>
-
-<!-- -->
 
 
 <article class="box post post-excerpt">
