@@ -18,10 +18,10 @@ toc_name: Termine
 -->
 
 <a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br><hr>
+<hr><br>
 
 <a href="#" class="image featured"><img src="images/osterfeuer.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br><hr>
+<hr><br>
 
 
 <article class="box post post-excerpt">
