@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The_Banks_Of_The_Sweet_Primroses
+title: Music
 toc_name: music
 ---
 
