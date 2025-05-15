@@ -15,7 +15,7 @@ toc_name: Termine
         </header>
     </article>
 
--->
+
 
 <a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
@@ -23,6 +23,7 @@ toc_name: Termine
 <a href="#" class="image featured"><img src="images/osterfeuer.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
+-->
 
 <article class="box post post-excerpt">
     <header class="major">
@@ -32,19 +33,10 @@ toc_name: Termine
 
 | Datum                   | Thema                     | Verein          | Ort                         |
 | ----------------------- | ------------------------- | --------------- | --------------------------- |
-| 01.03.2025              | Faschingsball             | Feuerwehr       | Deppe                       |
-| 15.03.2025              | Apres Ski Party           | SVG             | Sportplatz                  |
-| 22.03.2025              | Frühjahrsputz             | Ortsrat         | Dorfplatz                   |
-| 29.03.2025              | Boßeln                    | HKV             | Kyffhäuser                  |
-| 12.04.2025              | Vogelschießen             | Kyffhäuser      | Kyffhäuser                  |
-| 19.04.2025              | Eiersuchen für die Kinder | Ortsrat         | Dorfplatz                   |
-| 20.04.2025              | Osterfeuer                | Feuerwehr / SVG | Sportplatz                  |
-| 15.05.2025              | Feierabendgespräch        | Ortsrat         | Dorfplatz / DGH             |
 | 31.05.2025 - 01.06.2025 | Schützenfest              | Kyffhäuser      | Dorfplatz                   |
 | 20.06. oder 27.06.2025  | Wikinger Schach           | SVG             | Sportplatz                  |
 | 02.08.2025 - 03.08.2025 | Sportfest                 | SVG             | Sportplatz                  |
 | 30.08.2025              | Weinwiesn                 | HKV             | Dorfplatz                   |
-| 15.10.2025              | Feierabendgespräch        | Ortsrat         | Dorfplatz / DGH             |
 | 25.10.2025              | Boßeln                    | HKV             | Kyffhäuser                  |
 | 31.10.2025              | Halloween                 | Kyffhäuser      | Kyffhäuser                  |
 | 15.11.2025              | Sankt Martin              | Feuerwehr       | Dorfplatz                   |
