@@ -4,6 +4,11 @@ title: Feuerwehrverein Breitenberg e.V.
 subtitle: Wir helfen den Helfern!
 toc_name: Feuerwehrverein
 ---
+
+<a href="#" class="image featured"><img src="images/jgfeuer-kkgoe-2025-06-15-9.platz.jpeg" alt="" /></a>
+
+Am 15. Juni 2025 hat unsere Ortsfeuerwehr bei den Kreisjugendwettbewerben des Landkreises Göttingen den 9. Platz belegt und sich damit für die Bezirksjugendwettbewerbe in Gifhorn am 29. Juni qualifiziert. Herzlichen Glückwunsch!
+
 <a href="#" class="image featured"><img src="images/Gruppenfoto_FFW.jpg" alt="" /></a>
 
 Im Jahr 2014 taten sich 20 Breitenberger zusammen, um den Feuerwehrverein Breitenberg e.V. zu gründen, um damit die Freiwillige Feuerwehr Breitenberg zu unterstützen. Mittlerweile ist die Anzahl der Mitglieder des Feuerwehrvereins Breitenberg e.V. auf über 70 Mitgliedern gestiegen.
