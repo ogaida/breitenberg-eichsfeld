@@ -6,6 +6,7 @@ toc_name: Feuerwehrverein
 ---
 
 ### Am 15. Juni 2025 hat unsere Ortsfeuerwehr bei den Kreisjugendwettbewerben des Landkreises Göttingen den 9. Platz belegt und sich damit für die Bezirksjugendwettbewerbe in Gifhorn am 29. Juni qualifiziert. Herzlichen Glückwunsch!
+<br><br>
 
 <a href="#" class="image featured"><img src="images/jgfeuer-kkgoe-2025-06-15-9.platz.jpeg" alt="" /></a>
 
