@@ -33,7 +33,6 @@ toc_name: Termine
 
 | Datum                   | Thema                     | Verein          | Ort                         |
 | ----------------------- | ------------------------- | --------------- | --------------------------- |
-| 31.05.2025 - 01.06.2025 | Schützenfest              | Kyffhäuser      | Dorfplatz                   |
 | 20.06. oder 27.06.2025  | Wikinger Schach           | SVG             | Sportplatz                  |
 | 02.08.2025 - 03.08.2025 | Sportfest                 | SVG             | Sportplatz                  |
 | 30.08.2025              | Weinwiesn                 | HKV             | Dorfplatz                   |
