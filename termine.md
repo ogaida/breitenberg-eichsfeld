@@ -9,7 +9,7 @@ toc_name: Termine
 
 <article class="box post post-excerpt">
     <header class="major">
-    <h2>05.10.2025 - Neuwahl Ortsrat Breitenberg im Pfarrgemeindehaus</h2>
+    <h3>5. Oktober 2025 - Neuwahl des Ortsrates Breitenberg im Pfarrgemeindehaus</h3>
     <p><font size="3"></font></p>
     <p></p>
     </header>
