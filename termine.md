@@ -6,16 +6,20 @@ toc_name: Termine
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
-<!--
+
     <article class="box post post-excerpt">
         <header class="major">
-        <h2>17.11.2024 - Gedenkveranstaltung zum Volkstrauertag um 11:00 Uhr vor dem Denkmal</h2>
+        <h2>05.10.2025 - Neuwahl Ortsrat Breitenberg im Pfarrgemeindehaus</h2>
         <p><font size="3"></font></p>
         <p></p>
         </header>
+
+Die Neuwahl des Ortsrates Breitenberg findet am 5. Oktober 2025 statt.
+
+Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stadt Duderstadt aus neun Mitgliedern. Im Ortsrat Breitenberg waren bislang fünf Sitze besetzt. Durch den Sitzverzicht eines weiteren Ortsratsmitglieds ist die Anzahl der besetzten Sitze im Ortsrat auf vier gesunken. Dadurch sind mehr als die Hälfte der Sitze unbesetzt. Nach § 70 Abs. 1 Niedersächsisches Kommunalverfassungsgesetz (NKomVG) ist der Ortsrat damit aufgelöst. Die Kommunalaufsicht des Landkreises Göttingen hat die Auflösung festgestellt. Nach § 43 Abs. 1 NKWG findet die erforderliche Neuwahl spätestens vier Monate nach Auflösung des Ortsrates statt. Der Verwaltungsausschuss der Stadt Duderstadt hat als Termin für die Neuwahl des Ortsrates der Ortschaft Breitenberg Sonntag, den 5. Oktober 2025, bestimmt.
     </article>
 
-
+<!--
 
 <a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
@@ -30,16 +34,15 @@ toc_name: Termine
     </header>
 </article>
 
-| Datum                   | Thema                     | Verein          | Ort                         |
-| ----------------------- | ------------------------- | --------------- | --------------------------- |
-| 20.06. oder 27.06.2025  | Wikinger Schach           | SVG             | Sportplatz                  |
-| 02.08.2025 - 03.08.2025 | Sportfest                 | SVG             | Sportplatz                  |
-| 30.08.2025              | Weinwiesn                 | HKV             | Dorfplatz                   |
-| 25.10.2025              | Boßeln                    | HKV             | Kyffhäuser                  |
-| 31.10.2025              | Halloween                 | Kyffhäuser      | Kyffhäuser                  |
-| 15.11.2025              | Sankt Martin              | Feuerwehr       | Dorfplatz                   |
-| 29.11.2025              | Weihnachtsmarkt           |                 | Dorfplatz                   |
-| 27.12.2025              | Hallentunier              | SVG             | Sporthalle - Auf der Klappe |
+| Datum      | Thema                               | Verein     | Ort                                 |
+| ---------- | ----------------------------------- | ---------- | ----------------------------------- |
+| 30.08.2025 | Weinwiesn                           | HKV        | Dorfplatz                           |
+| 05.10.2025 | Neuwahl des Breitenberger Ortsrates |            | Hübentalstr. 11 - Pfarrgemeindehaus |
+| 25.10.2025 | Boßeln                              | HKV        | Kyffhäuser                          |
+| 31.10.2025 | Halloween                           | Kyffhäuser | Kyffhäuser                          |
+| 15.11.2025 | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
+| 29.11.2025 | Weihnachtsmarkt                     |            | Dorfplatz                           |
+| 27.12.2025 | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
 
 
 <br><br><br><br>
