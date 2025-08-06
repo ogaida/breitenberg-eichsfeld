@@ -66,7 +66,7 @@ Ersatztermine:
 - für 09.09.2025 : 23.09.2025 oder 04.11.2025, bereits per Email bei Uwe Jagemann angefragt, warte auf Antort
 - für 04.09.2025 : bei Andreas Förster per Email angefragt
 
-Hinrunde:
+#### Hinrunde:
 
 | Datum             | Uhrzeit | Heim                  | Gast                            | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  |
 | ----------------- | ------- | --------------------- | ------------------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,7 +81,12 @@ Hinrunde:
 | Fr., 28.11.2025   | 20:00   | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     |
 
 
-Rückrunde:
+```
+x = nicht verfügbar
+m = möchte gerne bei dieser Begegnung spielen
+```
+
+#### Rückrunde:
 
 | Datum           | Uhrzeit | Heim                            | Gast                  | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  |
 | --------------- | ------- | ------------------------------- | --------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -97,5 +102,4 @@ Rückrunde:
 | Di., 21.04.2026 | 20:00   | SG Bergdörfer IV                | GERO (SG) IV          | 1                   |     |     |     |     |     |     |     |     |
 | Fr., 24.04.2026 | 19:30   | TSV Nesselröden III             | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |
 
-    x = nicht verfügbar
-    m = möchte gerne bei dieser Begegnung spielen
+
