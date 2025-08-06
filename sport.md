@@ -81,10 +81,11 @@ Ersatztermine:
 | Fr., 28.11.2025   | 20:00   | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     |
 
 
-```
-x = nicht verfügbar
-m = möchte gerne bei dieser Begegnung spielen
-```
+Legende:
+
+- x = nicht verfügbar
+- m = möchte gerne bei dieser Begegnung spielen
+
 
 #### Rückrunde:
 
