@@ -59,9 +59,6 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 ### Spiele TT SG Bergdörfer IV
 
-x = nicht verfügbar
-m = möchte gerne bei dieser Begegnung spielen
-
 Spiele bei denen jetzt schon klar ist, das 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
 Ersatztermine:
@@ -99,3 +96,6 @@ Rückrunde:
 | Di., 14.04.2026 | 20:00   | SG Bergdörfer IV                | DJK Krebeck IV        | 5                   |     |     |     |     |     |     |     |     |
 | Di., 21.04.2026 | 20:00   | SG Bergdörfer IV                | GERO (SG) IV          | 1                   |     |     |     |     |     |     |     |     |
 | Fr., 24.04.2026 | 19:30   | TSV Nesselröden III             | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |
+
+    x = nicht verfügbar
+    m = möchte gerne bei dieser Begegnung spielen
