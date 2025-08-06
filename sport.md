@@ -58,8 +58,10 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 <br><br><br>
 
-## Organisatorisches für 2025/2026
+### Organisatorisches für 2025/2026
  
+<br><br><br>
+
 ### Spiele TT SG Bergdörfer IV
 
 Spiele bei denen jetzt schon klar ist, das 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
