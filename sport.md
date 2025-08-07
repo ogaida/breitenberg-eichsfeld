@@ -29,11 +29,15 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 <p><font size="2">Link zur <a href="https://www.facebook.com/profile.php?id=100063576277509" class="icon brands fa-facebook-f">acebook</a> Seite des SV Germania Breitenberg</font></p>
 
-<br><br><br><hr><br><br><br>
+<br><br><br>
 
 ## Tischtennis
 
+<br><br><br>
+
 ### Spiele TT SG Bergdörfer IV 2025/2026 {#tt-4}
+
+<br><br>
 
 Spiele bei denen jetzt schon klar ist, dass 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
