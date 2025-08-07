@@ -64,7 +64,7 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 ### Spiele TT SG Bergdörfer IV
 
-Spiele bei denen jetzt schon klar ist, das 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
+Spiele bei denen jetzt schon klar ist, dass 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
 Ersatztermine:
 
