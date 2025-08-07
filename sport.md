@@ -16,47 +16,19 @@ Einer der wichtigsten Punkte war die Wahl eines neuen Vorstandes. Durch Änderun
 Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr Amt zur Verfügung gestellt haben. In unserem Fall sind das Bernd Deppe, der jahrelang unser 1. Vorsitzender (Präsi)  war und auch schon vorher in unterschiedlichen Funktionen im Vorstand und Verein tätig war. Außerdem Frank Grube,  der zuletzt als Kassenwart fungierte, aber auch in anderen Bereichen sehr aktiv mitgewirkt hat. Beiden sagen wir DANKE für den unermüdlichen Einsatz im Verein und für den Verein!
 </p>
 
-<p>
-<table>
-<thead>
-<tr>
-<th>Geschäftsführender Vorstand</th>
-<th>Manuel Busse, Daniel Conrady und Niklas Nolte</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Spartenleiter - Kasse</td>
-<td>Mario Deppe</td>
-</tr>
-<tr>
-<td>Spartenleiter - Sportanlagen Organisation</td>
-<td>Torsten Keil</td>
-</tr>
-<tr>
-<td>Spartenleiter - Damenfußball</td>
-<td>Annika Nickel</td>
-</tr>
-<tr>
-<td>Spartenleiter - Tischtennis</td>
-<td>Joachim Nolte</td>
-</tr>
-<tr>
-<td>Spartenleiter - Fitness</td>
-<td>Katharina Wucherpfennig</td>
-</tr>
-<tr>
-<td>Spartenleiter - Events</td>
-<td>Dennis Dornieden</td>
-</tr>
-</tbody>
-</table>
+| Aufgabenbereich                           | Person(en)                                    |
+| ----------------------------------------- | --------------------------------------------- |
+| Geschäftsführender Vorstand               | Manuel Busse, Daniel Conrady und Niklas Nolte |
+| Spartenleiter - Kasse                     | Mario Deppe                                   |
+| Spartenleiter - Sportanlagen Organisation | Torsten Keil                                  |
+| Spartenleiter - Damenfußball              | Annika Nickel                                 |
+| Spartenleiter - Tischtennis               | Joachim Nolte                                 |
+| Spartenleiter - Fitness                   | Katharina Wucherpfennig                       |
+| Spartenleiter - Events                    | Dennis Dornieden                              |
 
-</p>
-<br><br>
+
 <p><font size="2">Link zur <a href="https://www.facebook.com/profile.php?id=100063576277509" class="icon brands fa-facebook-f">acebook</a> Seite des SV Germania Breitenberg</font></p>
 
-<br><br><br>
 
 ### Organisatorisches für 2025/2026
  
