@@ -30,6 +30,8 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 <p><font size="2">Link zur <a href="https://www.facebook.com/profile.php?id=100063576277509" class="icon brands fa-facebook-f">acebook</a> Seite des SV Germania Breitenberg</font></p>
 
 
+## Tischtennis {.major}
+
 ### Organisatorisches für 2025/2026
  
 <br><br><br>
