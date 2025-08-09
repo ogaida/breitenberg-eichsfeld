@@ -49,6 +49,7 @@ Ersatztermine:
 #### Hinrunde:
 
 <span style="background-color:blue">
+a
 
 | Datum             | Uhrzeit | Heim                  | Gast                            | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
 | ----------------- | ------- | --------------------- | ------------------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
