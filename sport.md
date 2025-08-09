@@ -48,6 +48,8 @@ Ersatztermine:
 
 #### Hinrunde:
 
+<span style="background-color:blue">
+
 | Datum             | Uhrzeit | Heim                  | Gast                            | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
 | ----------------- | ------- | --------------------- | ------------------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | * Do., 04.09.2025 | 19:30   | GERO (SG) IV          | SG Bergdörfer IV                | 1                   | x   | x   |     | x   |     | x   |     |     |     |
@@ -60,6 +62,7 @@ Ersatztermine:
 | Di., 18.11.2025   | 20:00   | SG Bergdörfer IV      | TTG Sattenhsn./Wöllmarshsn. III | 9                   |     |     |     |     |     |     | x   | m   |     |
 | Fr., 28.11.2025   | 20:00   | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     |     |
 
+</span>
 
 Legende:
 
