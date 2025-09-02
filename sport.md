@@ -41,24 +41,19 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 Spiele bei denen jetzt schon klar ist, dass 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
-Ersatztermine:
-
-- für 09.09.2025 : 23.09.2025 oder 04.11.2025, bereits per Email bei Uwe Jagemann angefragt, warte auf Antort
-- für 04.09.2025 : bei Andreas Förster per Email angefragt
-
 #### Hinrunde:
 
-| Datum             | Zeit  | Heim                  | Gast                            | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
-| ----------------- | ----- | --------------------- | ------------------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| * Do., 04.09.2025 | 19:30 | GERO (SG) IV          | SG Bergdörfer IV                | 1                   | x   | x   |     | x   |     | x   |     |     |     |
-| * Di., 09.09.2025 | 20:00 | SG Bergdörfer IV      | TSV SeuLa (SG) IV               | 4                   | x   | x   | x   | x   |     |     |     |     |     |
-| Fr., 19.09.2025   | 20:00 | TSV Kerstlingerode II | SG Bergdörfer IV                | 6                   |     |     |     | x   |     |     | x   | m   |     |
-| Di., 30.09.2025   | 20:00 | SG Bergdörfer IV      | TT Tiftlingerode III            | 8                   |     |     |     |     |     | x   |     |     |     |
-| Fr., 10.10.2025   | 19:30 | TSV Nesselröden IV    | SG Bergdörfer IV                | 7                   | x   |     |     |     |     | x   |     |     |     |
-| Di., 28.10.2025   | 20:00 | SG Bergdörfer IV      | GERO (SG) III                   | 1                   | x   |     |     |     |     |     |     |     |     |
-| Do., 13.11.2025   | 20:00 | FC Mingerode          | SG Bergdörfer IV                | 3                   |     |     |     |     |     |     |     |     |     |
-| Di., 18.11.2025   | 20:00 | SG Bergdörfer IV      | TTG Sattenhsn./Wöllmarshsn. III | 9                   |     |     |     |     |     |     | x   | m   |     |
-| Fr., 28.11.2025   | 20:00 | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     |     |
+| Datum           | Zeit  | Heim                  | Gast                            | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
+| --------------- | ----- | --------------------- | ------------------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fr., 19.09.2025 | 20:00 | TSV Kerstlingerode II | SG Bergdörfer IV                | 6                   |     |     |     | x   |     |     | x   | m   |     |
+| Di., 30.09.2025 | 20:00 | SG Bergdörfer IV      | TT Tiftlingerode III            | 8                   |     |     |     |     |     | x   |     |     |     |
+| Fr., 10.10.2025 | 19:30 | TSV Nesselröden IV    | SG Bergdörfer IV                | 7                   | x   |     |     |     |     | x   |     |     |     |
+| Di., 28.10.2025 | 20:00 | SG Bergdörfer IV      | GERO (SG) III                   | 1                   | x   |     |     |     |     |     |     |     |     |
+| Di., 04.11.2025 | 20:00 | SG Bergdörfer IV      | TSV SeuLa (SG) IV               | 4                   | x   |     |     |     |     |     |     | x   |     |
+| Do., 06.11.2025 | 19:30 | GERO (SG) IV          | SG Bergdörfer IV                | 1                   |     |     |     |     |     |     |     |     |     |
+| Do., 13.11.2025 | 20:00 | FC Mingerode          | SG Bergdörfer IV                | 3                   |     |     |     |     |     |     |     |     |     |
+| Di., 18.11.2025 | 20:00 | SG Bergdörfer IV      | TTG Sattenhsn./Wöllmarshsn. III | 9                   |     |     |     |     |     |     | x   | m   |     |
+| Fr., 28.11.2025 | 20:00 | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     |     |
 
 
 Legende:
