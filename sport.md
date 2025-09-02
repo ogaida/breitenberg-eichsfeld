@@ -39,7 +39,7 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 <br><br>
 
-Spiele bei denen jetzt schon klar ist, dass 4 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
+Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
 #### Hinrunde:
 
@@ -66,7 +66,6 @@ Legende:
 
 | Datum           | Zeit  | Heim                            | Gast                  | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
 | --------------- | ----- | ------------------------------- | --------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Di., 02.12.2025 | 20:00 | SG Bergdörfer IV                | TSV Nesselröden III   | 1                   |     |     |     |     |     |     |     |     |     |
 | Di., 20.01.2026 | 20:00 | TSV SeuLa (SG) IV               | SG Bergdörfer IV      | 4                   |     |     |     |     |     |     |     |     |     |
 | Di., 27.01.2026 | 20:00 | SG Bergdörfer IV                | TSV Kerstlingerode II | 6                   |     |     |     |     |     |     |     | m   |     |
 | Fr., 13.02.2026 | 20:15 | TT Tiftlingerode III            | SG Bergdörfer IV      | 8                   |     |     |     |     |     |     |     |     |     |
