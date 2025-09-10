@@ -6,6 +6,9 @@ toc_name: Termine
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
+<a href="#" class="image featured"><img src="images/dom-music.jpg" alt="" style="border: 1px solid #555"/></a> 
+<hr><br>
+
 
 <article class="box post post-excerpt">
     <header class="major">
@@ -20,9 +23,9 @@ Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stad
 
 </article>
 
-<ul>
-<li><a href="images/2024_06_WSG_Obernfeld_Verordnung.pdf" class="image featured">2024_06_WSG_Obernfeld_Verordnung.pdf</a></li>
-</ul>
+
+<a href="#" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Treffen-11.10.2025.jpg" alt="" style="border: 1px solid #555"/></a> 
+<hr><br>
 
 <!--
 
