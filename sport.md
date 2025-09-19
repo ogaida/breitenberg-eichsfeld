@@ -54,7 +54,7 @@ Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzei
 | Do., 13.11.2025 | 20:00 | FC Mingerode          | SG Bergdörfer IV                | 3                   |     |     |     |     |     |     |     |     | x   |
 | Di., 18.11.2025 | 20:00 | SG Bergdörfer IV      | TTG Sattenhsn./Wöllmarshsn. III | 9                   |     |     |     |     |     |     | x   | m   |     |
 | Fr., 28.11.2025 | 20:00 | DJK Krebeck IV        | SG Bergdörfer IV                | 5                   |     |     |     | x   |     |     |     |     | x   |
-
+| Di., 02.12.2025 | 20:00 | SG Bergdörfer IV      | TSV Nesselröden III             | 5                   |     |     |     |     |     |     |     |     |     |
 
 Legende:
 
