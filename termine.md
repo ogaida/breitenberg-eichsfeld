@@ -46,7 +46,7 @@ Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stad
 
 <article class="box post post-excerpt">
     <header class="major">
-    <h3>Absage des Ehrenamtlichen-Empfanges</h3>
+    <h3>Absage des Ehrenamtlichen-Empfanges am 11.10.2025</h3>
     <p><font size="4"></font></p>
     <p></p>
     </header>
