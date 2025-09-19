@@ -44,8 +44,20 @@ Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stad
 <hr><br>
 
 
-<a href="#" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Treffen-11.10.2025.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br>
+<article class="box post post-excerpt">
+    <header class="major">
+    <h3>Absage des Ehrenamtlichen-Empfanges</h3>
+    <p><font size="4"></font></p>
+    <p></p>
+    </header>
+
+Aus gegebenen Anlass sagen wir leider den Ehrenamtlichen-Empfang am 11.10.25 ab und verschieben ihn um unbestimmte Zeit. 
+
+Ihr/ Euer Kirchengemeinderat Breitenberg
+
+<br><hr><br>
+
+</article>
 
 <!--
 
