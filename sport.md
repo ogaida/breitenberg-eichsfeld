@@ -27,6 +27,7 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 | Spartenleiter - Events                    | Dennis Dornieden                              |
 
 
+
 <p><font size="2">Link zur <a href="https://www.facebook.com/profile.php?id=100063576277509" class="icon brands fa-facebook-f">acebook</a> Seite des SV Germania Breitenberg</font></p>
 
 <br><br><br>
