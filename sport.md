@@ -44,7 +44,7 @@ Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzei
 
 #### Hinrunde - 2025:
 
-<font size="1">
+
 
 Datum     Zeit  Gegener                           Wo DaC WR OG DiC AG MH MS IE MD <br>
 Fr 10.10. 19:30 TSV Nesselröden IV                A  x   -  -  -   -  x  x  -  x <br>
@@ -68,7 +68,6 @@ Di 02.12. 20:00 TSV Nesselröden III               H  -   -  -  -   -  -  -  -  
 | Fr 28.11. | 20:00 | DJK Krebeck IV                    | A   |     |     |     | x   |     |     |     |     | x   |
 | Di 02.12. | 20:00 | TSV Nesselröden III               | H   |     |     |     |     |     |     |     |     |     |
 
-</font>
 
 Legende:
 
