@@ -45,6 +45,17 @@ Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzei
 
 <font size="1">
 
+Datum     Zeit  Gegener                           Wo DaC WR OG DiC AG MH MS IE MD
+Fr 10.10. 19:30 TSV Nesselröden IV                A  x   -  -  -   -  x  x  -  x
+Di 28.10. 20:00 GERO (SG) III                     H  x   -  -  -   -  -  -  -  -
+Di 04.11. 20:00 TSV SeuLa (SG) IV                 H  x   -  -  -   -  -  -  x  -
+Do 06.11. 19:30 GERO (SG) IV                      A  -   -  -  -   -  -  -  -  -
+Do 13.11. 20:00 FC Mingerode                      A  -   -  -  -   -  -  -  -  x
+Di 18.11. 20:00 TTG Sattenhsn. / Wöllmarshsn. III H  -   -  -  -   -  -  x  m  -
+Fr 28.11. 20:00 DJK Krebeck IV                    A  -   -  -  x   -  -  -  -  x
+Di 02.12. 20:00 TSV Nesselröden III               H  -   -  -  -   -  -  -  -  -
+
+
 | Datum     | Zeit  | Gegener                           | Wo  | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
 | --------- | ----- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fr 10.10. | 19:30 | TSV Nesselröden IV                | A   | x   |     |     |     |     | x   | x   |     | x   |
