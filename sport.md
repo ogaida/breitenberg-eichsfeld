@@ -50,7 +50,7 @@ echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' '
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv-2.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 Legende:
