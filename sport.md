@@ -57,6 +57,7 @@ Fr 28.11. 20:00 DJK Krebeck IV                    A  -   -  -  x   -  -  -  -  x
 Di 02.12. 20:00 TSV Nesselröden III               H  -   -  -  -   -  -  -  -  - <br>
 
 
+
 | Datum     | Zeit  | Gegener                           | Wo  | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
 | --------- | ----- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fr 10.10. | 19:30 | TSV Nesselröden IV                | A   | x   |     |     |     |     | x   | x   |     | x   |
