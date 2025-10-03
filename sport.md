@@ -46,24 +46,12 @@ Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzei
 
 <!--
 https://tableconvert.com/markdown-to-json
-echo '' && mlr --ijson --opprint cat iv-tt.json
+echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' '
 bild daraus machen
  -->
 
 <a href="#" class="image featured"><img src="images/iv.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
-
-| Datum     | Zeit  | Gegener                           | Wo  | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
-| --------- | ----- | --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fr 10.10. | 19:30 | TSV Nesselröden IV                | A   | x   |     |     |     |     | x   | x   |     | x   |
-| Di 28.10. | 20:00 | GERO (SG) III                     | H   | x   |     |     |     |     |     |     |     |     |
-| Di 04.11. | 20:00 | TSV SeuLa (SG) IV                 | H   | x   |     |     |     |     |     |     | x   |     |
-| Do 06.11. | 19:30 | GERO (SG) IV                      | A   |     |     |     |     |     |     |     |     |     |
-| Do 13.11. | 20:00 | FC Mingerode                      | A   |     |     |     |     |     |     |     |     | x   |
-| Di 18.11. | 20:00 | TTG Sattenhsn. / Wöllmarshsn. III | H   |     |     |     |     |     |     | x   | m   |     |
-| Fr 28.11. | 20:00 | DJK Krebeck IV                    | A   |     |     |     | x   |     |     |     |     | x   |
-| Di 02.12. | 20:00 | TSV Nesselröden III               | H   |     |     |     |     |     |     |     |     |     |
-
 
 Legende:
 
@@ -81,7 +69,7 @@ Legende:
 | Di 17.02. | 20:00 | SG Bergdörfer IV                | TSV Nesselröden IV    | 7                   |     |     |     |     |     |     |     |     |     |
 | Fr 27.02. | 20:00 | GERO (SG) III                   | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |     |
 | Di 03.03. | 20:00 | SG Bergdörfer IV                | FC Mingerode          | 3                   |     |     |     |     |     |     |     |     |     |
-| Fr 20.03. | 20:00 | TTG Sattenhsn. <br> Wöllmarshsn. III | SG Bergdörfer IV      | 9                   |     |     |     |     |     |     |     | m   |     |
+| Fr 20.03. | 20:00 | TTG Sattenhsn. Wöllmarshsn. III | SG Bergdörfer IV      | 9                   |     |     |     |     |     |     |     | m   |     |
 | Di 14.04. | 20:00 | SG Bergdörfer IV                | DJK Krebeck IV        | 5                   |     |     |     |     |     |     |     |     |     |
 | Di 21.04. | 20:00 | SG Bergdörfer IV                | GERO (SG) IV          | 1                   |     |     |     |     |     |     |     |     |     |
 | Fr 24.04. | 19:30 | TSV Nesselröden III             | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |     |
