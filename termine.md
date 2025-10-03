@@ -12,14 +12,15 @@ toc_name: Termine
     </header>
 </article>
 
-| Datum      | Thema                               | Verein     | Ort                                 |
-| ---------- | ----------------------------------- | ---------- | ----------------------------------- |
-| 05.10.2025 | Neuwahl des Breitenberger Ortsrates |            | Hübentalstr. 11 - Pfarrgemeindehaus |
-| 25.10.2025 | Boßeln                              | HKV        | Kyffhäuser                          |
-| 31.10.2025 | Halloween                           | Kyffhäuser | Kyffhäuser                          |
-| 15.11.2025 | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
-| 29.11.2025 | Weihnachtsmarkt                     |            | Dorfplatz                           |
-| 27.12.2025 | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
+| Datum  | Thema                               | Verein     | Ort                                 |
+| ------ | ----------------------------------- | ---------- | ----------------------------------- |
+| 05.10. | Neuwahl des Breitenberger Ortsrates |            | Hübentalstr. 11 - Pfarrgemeindehaus |
+| 11.10. | Erntedank                           | Kirche     | St. MariaVerkündigung Breitenberg   |
+| 25.10. | Boßeln                              | HKV        | Kyffhäuser                          |
+| 31.10. | Halloween                           | Kyffhäuser | Kyffhäuser                          |
+| 15.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
+| 29.11. | Weihnachtsmarkt                     |            | Dorfplatz                           |
+| 27.12. | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
 
 
 <br><br>
@@ -40,7 +41,7 @@ Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stad
 
 </article>
 
-<a href="#" class="image featured"><img src="images/dom-music.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/erntedank25.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 
