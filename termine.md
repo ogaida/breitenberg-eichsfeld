@@ -19,11 +19,7 @@ toc_name: Termine
     <p></p>
     </header>
 
-Die Neuwahl des Ortsrates Breitenberg findet am 5. Oktober 2025 statt.
-
-Der Ortsrat Breitenberg besteht nach § 4 Abs. 1 Nr. 1 der Hauptsatzung der Stadt Duderstadt aus neun Mitgliedern. Im Ortsrat Breitenberg waren bislang fünf Sitze besetzt. Durch den Sitzverzicht eines weiteren Ortsratsmitglieds ist die Anzahl der besetzten Sitze im Ortsrat auf vier gesunken. Dadurch sind mehr als die Hälfte der Sitze unbesetzt. Nach § 70 Abs. 1 Niedersächsisches Kommunalverfassungsgesetz (NKomVG) ist der Ortsrat damit aufgelöst. Die Kommunalaufsicht des Landkreises Göttingen hat die Auflösung festgestellt. Nach § 43 Abs. 1 NKWG findet die erforderliche Neuwahl spätestens vier Monate nach Auflösung des Ortsrates statt. Der Verwaltungsausschuss der Stadt Duderstadt hat als Termin für die Neuwahl des Ortsrates der Ortschaft Breitenberg Sonntag, den 5. Oktober 2025, bestimmt.
-
-Der Wahlzettel wird morgen so aussehen:
+# Stimmzettel Muster:
 
 <a href="#" class="image featured"><img src="images/wahlzettel_25.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
