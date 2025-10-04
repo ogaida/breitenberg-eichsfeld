@@ -19,7 +19,7 @@ toc_name: Termine
     <p></p>
     </header>
 
-# Stimmzettel Muster:
+<h1> Unser Stimmzettel morgen (Muster):</h1>
 
 <a href="#" class="image featured"><img src="images/wahlzettel_25.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
