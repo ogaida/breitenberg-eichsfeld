@@ -23,6 +23,7 @@ toc_name: Termine
 <br><br>
 
 <a href="#" class="image featured"><img src="images/wahlzettel_25.jpg" alt="" style="border: 1px solid #555"/></a> 
+Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breitenberg-900000425-25420.html">https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breitenberg-900000425-25420.html</a>
 <hr><br>
 
 
