@@ -38,7 +38,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 | 11.10. | Erntedank                           | Kirche     | St. MariaVerkündigung Breitenberg   |
 | 25.10. | Boßeln                              | HKV        | Kyffhäuser                          |
 | 31.10. | Halloween                           | Kyffhäuser | Kyffhäuser                          |
-| 15.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
+| 11.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
 | 29.11. | Weihnachtsmarkt                     |            | Dorfplatz                           |
 | 27.12. | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
 
