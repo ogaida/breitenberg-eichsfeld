@@ -46,11 +46,11 @@ Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzei
 
 <!--
 https://tableconvert.com/markdown-to-json
-echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' '
+echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' ' && echo ""
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv-2.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 Legende:
