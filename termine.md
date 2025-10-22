@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Termine
+title: Termine 2025
 toc_name: Termine
 ---
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
-
-<article class="box post post-excerpt">
-    <header class="major">
-        <h2>Termine für 2025</h2>
-    </header>
-</article>
 
 <!--<article class="box post post-excerpt">
     <header class="major">
@@ -43,7 +37,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 <br><br>
 
-<a href="#" class="image featured"><img src="images/st-martin-25" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/st-martin-25.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 
