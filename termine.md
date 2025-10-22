@@ -12,7 +12,7 @@ toc_name: Termine
     </header>
 </article>
 
-<article class="box post post-excerpt">
+<!--<article class="box post post-excerpt">
     <header class="major">
     <h3>5. Oktober 2025 - Neuwahl des Ortsrates Breitenberg im Pfarrgemeindehaus</h3>
     <p><font size="4"></font></p>
@@ -30,12 +30,10 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 <br><hr><br>
 
 </article>
-
+-->
 
 | Datum  | Thema                               | Verein     | Ort                                 |
 | ------ | ----------------------------------- | ---------- | ----------------------------------- |
-| 05.10. | Neuwahl des Breitenberger Ortsrates |            | Hübentalstr. 11 - Pfarrgemeindehaus |
-| 11.10. | Erntedank                           | Kirche     | St. MariaVerkündigung Breitenberg   |
 | 25.10. | Boßeln                              | HKV        | Kyffhäuser                          |
 | 31.10. | Halloween                           | Kyffhäuser | Kyffhäuser                          |
 | 11.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
@@ -45,26 +43,10 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 <br><br>
 
-
-
-<a href="#" class="image featured"><img src="images/erntedank25.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/st-martin-25" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 
-<article class="box post post-excerpt">
-    <header class="major">
-    <h3>Absage des Ehrenamtlichen-Empfanges am 11.10.2025</h3>
-    <p><font size="4"></font></p>
-    <p></p>
-    </header>
-
-Aus gegebenen Anlass sagen wir leider den Ehrenamtlichen-Empfang am 11.10.25 ab und verschieben ihn um unbestimmte Zeit. 
-
-Ihr/ Euer Kirchengemeinderat Breitenberg
-
-<br><hr><br>
-
-</article>
 
 <!--
 
