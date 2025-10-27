@@ -28,7 +28,6 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 | Datum  | Thema                               | Verein     | Ort                                 |
 | ------ | ----------------------------------- | ---------- | ----------------------------------- |
-| 25.10. | Boßeln                              | HKV        | Kyffhäuser                          |
 | 31.10. | Halloween                           | Kyffhäuser | Kyffhäuser                          |
 | 11.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
 | 29.11. | Weihnachtsmarkt                     |            | Dorfplatz                           |
