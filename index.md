@@ -33,6 +33,6 @@ Luca Eckermann  <br>
 </p>
 <p>
 Ortsjugendpfleger: <br>
-Linus Exkermann <br>
+Linus Eckermann <br>
 Marlon und Celine Rudolph  <br>
 </p>
