@@ -10,7 +10,7 @@ toc_name: Ortsrat
 </font>
 <br>
 <p>
-Am Donnerstag den 30. Oktober 2025 wurden innerhalb des Ortsrates unser neuer Bürgermeister gewählt und die Aufgaben der Ortsratsmitglieder beschlossen. Der neue Ortsrat setzt sich aus den folgenden Personen zusammen: Andreas Dornieden, Gregor Wippermann, Mario Deppe, Luca Eckermann, Claudio Pizzano, Florian Netzker, Katja Neumann, Anke Gerbode und Louis Schmalstieg.
+Am Donnerstag den 30. Oktober 2025 wurden innerhalb des Ortsrates unser neuer Bürgermeister gewählt und die Aufgaben der Ortsratsmitglieder beschlossen. Der neue Ortsrat setzt sich aus den folgenden Personen zusammen: Andreas Dornieden, Gregor Wippermann, Mario Deppe, Luca Eckermann, Claudio Pizzano, Florian Netzker, Katja Neumann, Anke Gerbode und Louis Schmalstieg. Louis konnte an der Sitzung am 30. Oktober nicht teilnehmen.
 </p>
 <p>
 <h3>Bürgermeister: Andreas Dornieden </h3>
