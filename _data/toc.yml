@@ -1,10 +1,12 @@
 toc:
-  - name: Willkommen
+  - name: Ortsrat
     file: index
 #  - name: St. Martin Liedtexte
 #    file: st_martin
 #  - name: Dreikönigssingen
 #    file: dreikoenigssingen
+  - name: über Breitenberg
+    file: info
   - name: Sportverein
     file: sport
   - name: Feuerwehrverein
@@ -19,7 +21,7 @@ toc:
     file: termine
   - name: WSG
     file: wsg
-  - name: Kontakt
-    file: contact
+#  - name: Kontakt
+#    file: contact
   - name: Datenschutz
     file: datenschutz

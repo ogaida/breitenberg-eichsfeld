@@ -5,7 +5,7 @@ subtitle: Bitte teilen Sie uns ihr Anliegen mit
 toc_name: Kontakt
 ---
 
-<form method="post" action="./cgi-bin/contact-request.pl">
+<form method="post" action="./cgi-bin/contact-request-inaktiv.pl">
 	<div class="row gtr-50 gtr-uniform">
 		<div class="col-6 col-12-mobilep">
 			<input type="text" name="name" id="name" value="" placeholder="Name" />
