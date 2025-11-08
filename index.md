@@ -5,6 +5,8 @@ toc_name: Ortsrat
 ---
 
 <a href="#" class="image featured"><img src="images/Ortsrat-2025m.jpg" alt="" /></a>
+Foto: Marie Stollberg
+<br>
 <p>
 Am Donnerstag den 30. Oktober 2025 wurde innerhalb des Ortsrates unser neuer Bürgermeister gewählt und die Aufgaben der Ortsratsmitglieder beschlossen.
 </p>
