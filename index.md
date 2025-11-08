@@ -9,7 +9,9 @@ toc_name: Ortsrat
 Am Donnerstag den 30. Oktober 2025 wurde innerhalb des Ortsrates unser neuer Bürgermeister gewählt und die Aufgaben der Ortsratsmitglieder beschlossen.
 </p>
 <p>
-Bürgermeister: Andreas Dornieden
+<h3>Bürgermeister: Andreas Dornieden </h3><br>
+</p>
+<p>
 1.⁠ ⁠Stellv. Gregor Wippermann <br>
 2.⁠ ⁠Stellv. Mario Deppe <br>
 Fraktionsvorsitzender: Claudio Pizzano  <br>
