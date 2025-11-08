@@ -5,7 +5,7 @@ toc_name: Ortsrat
 ---
 
 <a href="#" class="image featured"><img src="images/Ortsrat-2025m.jpg" alt="" /></a>
-<font size="1">
+<font size="2">
     Personen v.l.n.r.: Luca Eckermann, Mario Deppe, Claudio Pizzano, Florian Netzker, Katja Neumann, Andreas Dornieden, Anke Gerbode, Gregor Wippermann - Foto: Marie Stollberg
 </font>
 <br>
