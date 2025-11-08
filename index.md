@@ -5,7 +5,9 @@ toc_name: Ortsrat
 ---
 
 <a href="#" class="image featured"><img src="images/Ortsrat-2025m.jpg" alt="" /></a>
-Foto: Marie Stollberg
+<font size="1">
+    Personen v.l.n.r.: Luca Eckermann, Mario Deppe, Claudio Pizzano, Florian Netzker, Katja Neumann, Andreas Dornieden, Anke Gerbode, Gregor Wippermann - Foto: Marie Stollberg
+</font>
 <br>
 <p>
 Am Donnerstag den 30. Oktober 2025 wurde innerhalb des Ortsrates unser neuer Bürgermeister gewählt und die Aufgaben der Ortsratsmitglieder beschlossen.
