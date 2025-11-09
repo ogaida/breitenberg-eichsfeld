@@ -1,6 +1,6 @@
 ---
 layout: default
-title: St. Martin Liedtexte für den 16.11.2024
+title: St. Martin Liedtexte für den 11.11.2025
 toc_name: St. Martin Liedtexte
 ---
 
