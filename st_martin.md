@@ -183,3 +183,53 @@ an den Stecken: Rote, gelbe, grüne, blaue.
 „Lieber Martin komm und schaue!“
 </p>
 </font>
+
+<p><font size=5 color=black> 
+Die Laterne hat heut ihren großen Tag
+</font></p>
+
+<p><font size=2 color=black> 
+Melodie: Von den blauen Bergen kommen wir
+</font></p>
+
+<font size=3 color=black> 
+<p>
+1.	 Die Laterne hat heut ihren großen Tag, 
+die Laterne hat heut ihren großen Tag, 
+die Laterne hat heut ihren,
+die Laterne hat heut ihren,
+die Laterne hat heut ihren großen Tag. 
+</p>
+
+<p>
+2.	Anfangs war sie nur ein kleines Stück Papier,
+anfangs war sie nur ein kleines Stück Papier,
+anfangs war sie nur ein kleines,
+anfangs war sie nur ein kleines,
+anfangs war sie nur ein kleines Stück Papier.
+</p>
+
+<p>
+3.	Dazu kam ein bißchen Farbe und ein Draht,
+Dazu kam ein bißchen Farbe und ein Draht,
+Dazu kam ein bißchen Farbe,
+Dazu kam ein bißchen Farbe,
+Dazu kam ein bißchen Farbe und ein Draht.
+</p>
+
+<p>
+4.	Eine Kerze gibt der Farbe dann das Licht,
+Eine Kerze gibt der Farbe dann das Licht,
+Eine Kerze gibt der Farbe,
+Eine Kerze gibt der Farbe,
+Eine Kerze gibt der Farbe dann das Licht.
+</p>
+
+<p>
+5.	Und so leuchte die Laterne heute Nacht,
+Und so leuchte die Laterne heute Nacht,
+Und so leuchte die Laterne,
+Und so leuchte die Laterne,
+Und so leuchte die Laterne heute Nacht.
+</p>
+</font>
