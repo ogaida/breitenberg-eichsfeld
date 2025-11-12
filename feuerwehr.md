@@ -22,19 +22,19 @@ Im Jahr 2014 taten sich 20 Breitenberger zusammen, um den Feuerwehrverein Breite
 
 Über weitere Mitglieder die sich im Feuerwehrverein engagieren und diesen unterstützen wollen, würden wir uns sehr freuen. Der Jahresbeitrag beträgt nur 12 €.
 
-Falls Interesse an einer Mitgliedschaft im Feuerwehrverein Breitenberg besteht, steht unten die Beitrittserklärung als PDF-Datei zum Download zur Verfügung. Bitte senden Sie dieses Formular ausgefüllt und unterschrieben per E-Mail an feuerwehrverein@feuerwehr-breitenberg.de oder geben Sie die Anmeldung beim 1. Vorsitzenden Matthias Nolte, Hakenbergstraße 2, 37115 Duderstadt OT Breitenberg ab.
+Falls Interesse an einer Mitgliedschaft im Feuerwehrverein Breitenberg besteht, steht unten die Beitrittserklärung als PDF-Datei zum Download zur Verfügung. Bitte senden Sie dieses Formular ausgefüllt und unterschrieben per E-Mail an feuerwehrverein@feuerwehr-breitenberg.de oder geben Sie die Anmeldung beim 1. Vorsitzenden Tobias Schmalstieg, Lessingstr. 9, 37115 Duderstadt OT Breitenberg ab.
 
 
 ### Vorstand
 
-| 1. Vorsitzender  | Matthias Nolte     |
+| 1. Vorsitzender  | Tobias Schmalstieg     |
 | ---------------- | ------------------ |
-| 2. Vorsitzender  | Tobias Schmalstieg |
-| Ortsbrandmeister | Julián Nolte       |
+| 2. Vorsitzender  | Nicola Ehrich    |
+| Ortsbrandmeister | Dominik Hartmann       |
 | Kassenwartin     | Nicole Schmalstieg |
 | Schriftführer    | Jörg Nolte         |
-| 1. Beisitzer     | Mike Nolte         |
-| 2. Beisitzer     | Nicola Ehrich      |
+| 1. Beisitzer     | Martin Stahl         |
+| 2. Beisitzer     |   Louis Schmalstieg       |
 
 ### Links 
 
