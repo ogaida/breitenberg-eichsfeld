@@ -62,17 +62,12 @@ Legende:
 
 #### Rückrunde - 2026:
 
-| Datum     | Zeit  | Heim                            | Gast                  | Platz Session 24/25 | DaC | WR  | OG  | DiC | AG  | MH  | MS  | IE  | MD  |
-| --------- | ----- | ------------------------------- | --------------------- | ------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Di 20.01. | 20:00 | TSV SeuLa (SG) IV               | SG Bergdörfer IV      | 4                   |     |     |     |     |     |     |     |     |     |
-| Di 27.01. | 20:00 | SG Bergdörfer IV                | TSV Kerstlingerode II | 6                   |     |     |     |     |     |     |     | m   |     |
-| Fr 13.02. | 20:15 | TT Tiftlingerode III            | SG Bergdörfer IV      | 8                   |     |     |     |     |     |     |     |     |     |
-| Di 17.02. | 20:00 | SG Bergdörfer IV                | TSV Nesselröden IV    | 7                   |     |     |     |     |     |     |     |     |     |
-| Fr 27.02. | 20:00 | GERO (SG) III                   | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |     |
-| Di 03.03. | 20:00 | SG Bergdörfer IV                | FC Mingerode          | 3                   |     |     |     |     |     |     |     |     |     |
-| Fr 20.03. | 20:00 | TTG Sattenhsn. Wöllmarshsn. III | SG Bergdörfer IV      | 9                   |     |     |     |     |     |     |     | m   |     |
-| Di 14.04. | 20:00 | SG Bergdörfer IV                | DJK Krebeck IV        | 5                   |     |     |     |     |     |     |     |     |     |
-| Di 21.04. | 20:00 | SG Bergdörfer IV                | GERO (SG) IV          | 1                   |     |     |     |     |     |     |     |     |     |
-| Fr 24.04. | 19:30 | TSV Nesselröden III             | SG Bergdörfer IV      | 1                   |     |     |     |     |     |     |     |     |     |
+<!--
+https://tableconvert.com/markdown-to-json
+echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
+bild daraus machen
+ -->
 
+<a href="#" class="image featured"><img src="images/iv-tt-rr1.jpg" alt="" style="border: 1px solid #555"/></a> 
+<hr><br>
 
