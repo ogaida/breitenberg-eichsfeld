@@ -50,13 +50,14 @@ echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' ' && echo ""
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv-tt4.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv-tt.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 Legende:
 
-- x = nicht verfügbar
+- x oder X = nicht verfügbar
 - K = krank
+- N = spielt nur im absoluten Notfall
 - m = möchte gerne bei dieser Begegnung spielen
 - A / H in Spalte "Wo": auswärtz / heim
 
@@ -68,6 +69,6 @@ echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv-tt-rr1.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv-ttrr7.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 

@@ -1,20 +1,5 @@
 [
   {
-    "Datum": "Di 18.11.",
-    "Zeit": "20:00",
-    "Gegner": "TTG Sat./Wöll. III",
-    "Wo": "H",
-    "DaC": "",
-    "WR": "K",
-    "OG": "",
-    "DiC": "",
-    "AG": "",
-    "MH": "K",
-    "MS": "",
-    "IE": "",
-    "MD": ""
-  },
-  {
     "Datum": "Fr 28.11.",
     "Zeit": "20:00",
     "Gegner": "DJK Krebeck IV",
@@ -43,5 +28,20 @@
     "MS": "",
     "IE": "",
     "MD": ""
+  },
+  {
+    "Datum": "Di 9.12.",
+    "Zeit": "20:00",
+    "Gegner": "TTG Sat./Wöll. III",
+    "Wo": "H",
+    "DaC": "",
+    "WR": "",
+    "OG": "",
+    "DiC": "",
+    "AG": "x",
+    "MH": "x",
+    "MS": "",
+    "IE": "",
+    "MD": "?"
   }
 ]
