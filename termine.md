@@ -28,16 +28,16 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 | Datum  | Thema                               | Verein     | Ort                                 |
 | ------ | ----------------------------------- | ---------- | ----------------------------------- |
-| 11.11. | Sankt Martin                        | Feuerwehr  | Dorfplatz                           |
 | 29.11. | Weihnachtsmarkt                     |            | Dorfplatz                           |
 | 27.12. | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
 
 
+<!--
 <br><br>
 
 <a href="#" class="image featured"><img src="images/st-martin-25.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
-
+-->
 
 
 <!--
