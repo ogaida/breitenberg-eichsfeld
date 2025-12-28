@@ -26,25 +26,30 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
-| Datum           | Thema                                       | Verein             | Ort            |
-| --------------- | ------------------------------------------- | ------------------ | -------------- |
-| 10.01.          | Weihnachtsbäume einsammeln, ab ca. 9:30 Uhr | Feuerwehr          | Breitenberg    |
-| 14.02.          | Feuerwehrball                               |                    | Gasthaus Deppe |
-| 21.03.          | Frühjahrsputz, Treffen 10:00 Uhr            |                    | Dorfplatz      |
-| 05.04.          | Osterfeuer                                  |                    | Sportplatz     |
-| 09.04. - 13.04. | Bodenseefahrt                               | Sozialverband      |                |
-| 25.04.          | Bosseln                                     | HKV                |                |
-| 03.05.          | Erstkommunion                               |                    | Breitenberg    |
-| 06.05.          | Maiandacht 18:30 Uhr, anschließend Grillen  | Frauengemeinschaft | PGH            |
-| 16.05.          | Beer Pong                                   | BTV                |                |
-| 12.06. - 19.07. | Fussball WM / Public Viewing                |                    | Sportplatz     |
-| 28.08.          | Sparkassenlauf                              |                    | Duderstadt     |
-| 29.08.          | Weinwiesen                                  | HKV                | Dorfplatz      |
-| 05.09.          | Bergdörfersingen                            | MGV                | PGH            |
-| 10.10.          | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück | Frauengemeinschaft | Kirche / PGH   |
-| 15.11.          | Volkstrauertag mit Kranzniederlegung        | Kyffhäuser, MGV    | Denkmal        |
-| 09.12.          | Weihnachtsfeier    18:30                    | Frauengemeinschaft | PGH            |
-| 12.12.          | Weihnachtsmarkt                             |                    | Dorfplatz      |
+| Datum                 | Thema                                       | Verein             | Ort            |
+| --------------------- | ------------------------------------------- | ------------------ | -------------- |
+| 10.01.                | Weihnachtsbäume einsammeln, ab ca. 9:30 Uhr | Feuerwehr          | Breitenberg    |
+| 14.02.                | Feuerwehrball                               |                    | Gasthaus Deppe |
+| 21.03.                | Frühjahrsputz, Treffen 10:00 Uhr            |                    | Dorfplatz      |
+| 05.04.                | Osterfeuer                                  |                    | Sportplatz     |
+| 09.04. - 13.04.       | Bodenseefahrt                               | Sozialverband      |                |
+| 25.04.                | Bosseln                                     | HKV                |                |
+| 03.05.                | Erstkommunion                               |                    | Breitenberg    |
+| 06.05.                | Maiandacht 18:30 Uhr, anschließend Grillen  | Frauengemeinschaft | PGH            |
+| 16.05.                | Beer Pong                                   | BTV                |                |
+| 12.06. - 19.07.       | Fussball WM / Public Viewing                |                    | Sportplatz     |
+| 19.06. - 21.06.       | Johannisfeuer                               |                    |                |
+| steht noch nicht fest | Sportfest                                   |                    |                |
+| 28.08.                | Sparkassenlauf                              |                    | Duderstadt     |
+| 29.08.                | Weinwiesen                                  | HKV                | Dorfplatz      |
+| 05.09.                | Bergdörfersingen                            | MGV                | PGH            |
+| 10.10.                | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück | Frauengemeinschaft | Kirche / PGH   |
+| 30.10. - 31.10.       | Halloween                                   |                    |                |
+| 11.11.                | Sankt Martin                                |                    |                |
+| 15.11.                | Volkstrauertag mit Kranzniederlegung        | Kyffhäuser, MGV    | Denkmal        |
+| 09.12.                | Weihnachtsfeier    18:30                    | Frauengemeinschaft | PGH            |
+| 12.12.                | Weihnachtsmarkt                             |                    | Dorfplatz      |
+| steht noch nicht fest | Adventssingen                               | MGV                |                |
 
 <!--
 <br><br>
