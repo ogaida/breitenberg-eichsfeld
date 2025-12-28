@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Termine 2025
+title: Termine 2026
 toc_name: Termine
 ---
 
@@ -26,9 +26,12 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
-| Datum  | Thema        | Verein | Ort                         |
-| ------ | ------------ | ------ | --------------------------- |
-|        |              |        |                             |
+| Datum  | Thema                            | Verein    | Ort            |
+| ------ | -------------------------------- | --------- | -------------- |
+| 10.01. | Weihnachtsbäume einsammeln       | Feuerwehr | Breitenberg    |
+| 14.02. | Feuerwehrball                    |           | Gasthaus Deppe |
+| 21.03. | Frühjahrsputz, Treffen 10:00 Uhr |           | Dorfplatz      |
+|        |                                  |           |                |
 
 
 
