@@ -26,13 +26,19 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
-| Datum  | Thema                            | Verein    | Ort            |
-| ------ | -------------------------------- | --------- | -------------- |
-| 10.01. | Weihnachtsbäume einsammeln       | Feuerwehr | Breitenberg    |
-| 14.02. | Feuerwehrball                    |           | Gasthaus Deppe |
-| 21.03. | Frühjahrsputz, Treffen 10:00 Uhr |           | Dorfplatz      |
-| 05.04. | Osterfeuer                       |           | Sportplatz     |
-|        |                                  |           |                |
+| Datum           | Thema                                      | Verein             | Ort            |
+| --------------- | ------------------------------------------ | ------------------ | -------------- |
+| 10.01.          | Weihnachtsbäume einsammeln                 | Feuerwehr          | Breitenberg    |
+| 14.02.          | Feuerwehrball                              |                    | Gasthaus Deppe |
+| 21.03.          | Frühjahrsputz, Treffen 10:00 Uhr           |                    | Dorfplatz      |
+| 05.04.          | Osterfeuer                                 |                    | Sportplatz     |
+| 09.04. - 13.04. | Bodenseefahrt                              | Sozialverband      |                |
+| 25.04.          | Bosseln                                    | HKV                |                |
+| 03.05.          | Erstkommunion                              |                    | Breitenberg    |
+| 06.05.          | Maiandacht 18:30 Uhr, anschließend Grillen | Frauengemeinschaft | PGH            |
+| 16.05.          | Beer Pong                                  | BTV                |                |
+| 12.06. - 19.07. | Fussball WM / Public Viewing               |                    | Sportplatz     |
+|                 |                                            |                    |                |
 
 
 
