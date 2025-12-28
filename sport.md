@@ -54,17 +54,17 @@ Montag:
                              Tischtennis: Joachim Nolte
 
 
-| Uhrzeit | Montag | Dienstag | Mittwoch | Donnerstag | Freitag |
-| ------- | ------ | -------- | -------- | ---------- | ------- |
-| 16:30   |        |          |          |            | JFV     |
-| 17:00   |        |          |          |            | "       |
-| 17:45   |        |          |          |            | "       |
-| 18:00   |        |          |          |            | TT      |
-|         |        |          |          |            | "       |
-|         |        |          |          |            | "       |
-|         |        |          |          |            | "       |
-| 23:00   |        |          |          |            | "       |
-|         |        |          |          |            |         |
+| Uhrzeit | Montag                    | Dienstag | Mittwoch | Donnerstag | Freitag |
+| ------- | ------------------------- | -------- | -------- | ---------- | ------- |
+| 16:30   |                           |          |          |            | JFV     |
+| 17:00   | Senioren Männer Gymnastik |          |          |            | -"-       |
+| 17:45   | -"-                       |          |          |            | "       |
+| 18:00   | Senioren Frauen Gymnastik |          |          |            | TT      |
+| 19:00   | Frauen Gymnastik          |          |          |            | "       |
+| 21:00   | frei                      |          |          |            | "       |
+|         |                           |          |          |            | "       |
+| 23:00   |                           |          |          |            | "       |
+|         |                           |          |          |            |         |
 
 ## Tischtennis
 
