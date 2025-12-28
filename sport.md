@@ -32,6 +32,40 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 <br><br><br>
 
+## Belegungsplan der Sporthalle
+
+Montag:
+<ul>
+  <li>17:00-18:00 Uhr Senioren Männer Gymnastik</li>
+  <li>Ab 18:00-19:00 Uhr Senioren Frauen Gymnastik</li>
+  <li>Ab 19:00-21:00 Uhr Frauen Gymnastik</li>
+</ul>
+
+	Montag: 17:00-18:00 Uhr Senioren Männer Gymnastik <br>
+               Ab 18:00-19:00 Uhr Senioren Frauen Gymnastik
+               Ab 19:00-21:00 Uhr Frauen Gymnastik
+•	Dienstag: 18:00-23:00 Uhr Tischtennis
+•	Mittwoch: 17:45-20:00 Uhr Frauen Gymnastik
+•	Donnerstag ab Ende November ab 19 Uhr Damenmannschaft
+•	Freitag: 16:30-18:00 Uhr JFV
+              18:00-23:00 Uhr Tischtennis
+•	Ansprechpartner: Senioren Gymnastik: Angelika Riethof
+                             Frauen Gymnastik: Katharina Wucherpfennig
+                             Tischtennis: Joachim Nolte
+
+
+| Uhrzeit | Montag | Dienstag | Mittwoch | Donnerstag | Freitag |
+| ------- | ------ | -------- | -------- | ---------- | ------- |
+| 16:30   |        |          |          |            | JFV     |
+| 17:00   |        |          |          |            | "       |
+| 17:45   |        |          |          |            | "       |
+| 18:00   |        |          |          |            | TT      |
+|         |        |          |          |            | "       |
+|         |        |          |          |            | "       |
+|         |        |          |          |            | "       |
+| 23:00   |        |          |          |            | "       |
+|         |        |          |          |            |         |
+
 ## Tischtennis
 
 <br><br><br>
