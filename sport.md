@@ -34,37 +34,26 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 
 ## Belegungsplan der Sporthalle
 
-Montag:
+
+| Uhrzeit       | Montag                    | Dienstag    | Mittwoch         | Donnerstag        | Freitag     |
+| ------------- | ------------------------- | ----------- | ---------------- | ----------------- | ----------- |
+| 16:30 - 17:30 | -                         | -           | -                | -                 | JFV         |
+| 17:00 - 17:45 | Senioren Männer Gymnastik | -           | -                | -                 | -"-         |
+| 17:45 - 18:00 | -"-                       | -           | Frauen Gymnastik | -                 | -"-         |
+| 18:00 - 19:00 | Senioren Frauen Gymnastik | Tischtennis | -"-              | -                 | Tischtennis |
+| 19:00 - 20:00 | Frauen Gymnastik          | -"-         | -"-              | Damenmannschaft * | -"-         |
+| 20:00 - 21:00 | -"-                       | -"-         | -                | -"-               | -"-         |
+| 21:00 - 23:00 | -                         | -"-         | -                | -"-               | -"-         |
+
+
+'*' ab Ende November
+
+Ansprechpartner: <br>
 <ul>
-  <li>17:00-18:00 Uhr Senioren Männer Gymnastik</li>
-  <li>Ab 18:00-19:00 Uhr Senioren Frauen Gymnastik</li>
-  <li>Ab 19:00-21:00 Uhr Frauen Gymnastik</li>
+    <li>Senioren Gymnastik: Angelika Riethof</li>
+    <li>Frauen Gymnastik: Katharina Wucherpfennig</li>
+    <li>Tischtennis: Joachim Nolte</li>
 </ul>
-
-	Montag: 17:00-18:00 Uhr Senioren Männer Gymnastik <br>
-               Ab 18:00-19:00 Uhr Senioren Frauen Gymnastik
-               Ab 19:00-21:00 Uhr Frauen Gymnastik
-•	Dienstag: 18:00-23:00 Uhr Tischtennis
-•	Mittwoch: 17:45-20:00 Uhr Frauen Gymnastik
-•	Donnerstag ab Ende November ab 19 Uhr Damenmannschaft
-•	Freitag: 16:30-18:00 Uhr JFV
-              18:00-23:00 Uhr Tischtennis
-•	Ansprechpartner: Senioren Gymnastik: Angelika Riethof
-                             Frauen Gymnastik: Katharina Wucherpfennig
-                             Tischtennis: Joachim Nolte
-
-
-| Uhrzeit | Montag                    | Dienstag | Mittwoch | Donnerstag | Freitag |
-| ------- | ------------------------- | -------- | -------- | ---------- | ------- |
-| 16:30   |                           |          |          |            | JFV     |
-| 17:00   | Senioren Männer Gymnastik |          |          |            | -"-       |
-| 17:45   | -"-                       |          |          |            | "       |
-| 18:00   | Senioren Frauen Gymnastik |          |          |            | TT      |
-| 19:00   | Frauen Gymnastik          |          |          |            | "       |
-| 21:00   | frei                      |          |          |            | "       |
-|         |                           |          |          |            | "       |
-| 23:00   |                           |          |          |            | "       |
-|         |                           |          |          |            |         |
 
 ## Tischtennis
 
