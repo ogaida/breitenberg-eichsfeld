@@ -11,12 +11,20 @@ toc:
     file: sport
   - name: Feuerwehrverein
     file: feuerwehr
+  - name: Frauengemeinschaft
+    file: frauengemeinschaft
   - name: Gesangsverein
     file: mgv
+  - name: Handarbeitsgruppe
+    file: handarbeitsgruppe
   - name: Heimat- und Kulturverein
     file: hkv
   - name: Kirche
     file: kirche
+  - name: Kyffhäuser
+    file: kyffhaeuser
+  - name: Seniorennachmittag
+    file: seniorennachmittag
   - name: Termine
     file: termine
   - name: WSG

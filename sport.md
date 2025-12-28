@@ -35,6 +35,7 @@ Ein neuer Vorstand bedeutet allerdings auch, dass zwei wichtige Mitglieder ihr A
 ## Belegungsplan der Sporthalle
 
 
+
 | Uhrzeit       | Montag                    | Dienstag    | Mittwoch         | Donnerstag        | Freitag     |
 | ------------- | ------------------------- | ----------- | ---------------- | ----------------- | ----------- |
 | 16:30 - 17:30 | -                         | -           | -                | -                 | JFV         |
@@ -54,6 +55,8 @@ Ansprechpartner: <br>
     <li>Frauen Gymnastik: Katharina Wucherpfennig</li>
     <li>Tischtennis: Joachim Nolte</li>
 </ul>
+
+
 
 ## Tischtennis
 

@@ -5,6 +5,12 @@ subtitle: Wir helfen den Helfern!
 toc_name: Feuerwehrverein
 ---
 
+## Zeiten und Ansprechpartner
+
+Jugendfeuerwehr: Freitag 18:00, Ansprechpartner: Dominic Bollmann <br>
+Erwachsenen-Feuerwehr: Freitag 19:30 nach Absprache, Ansprechpartner: Dominik Hartmann (Ortsbrandmeister) 
+
+
 ### Am 15. Juni 2025 hat unsere Ortsfeuerwehr bei den Kreisjugendwettbewerben des Landkreises Göttingen den 9. Platz belegt und sich damit für die Bezirksjugendwettbewerbe in Gifhorn am 29. Juni 2025 qualifiziert. Herzlichen Glückwunsch!
 <br><br>
 
@@ -27,14 +33,14 @@ Falls Interesse an einer Mitgliedschaft im Feuerwehrverein Breitenberg besteht, 
 
 ### Vorstand
 
-| 1. Vorsitzender  | Tobias Schmalstieg     |
+| 1. Vorsitzender  | Tobias Schmalstieg |
 | ---------------- | ------------------ |
-| 2. Vorsitzender  | Nicola Ehrich    |
-| Ortsbrandmeister | Dominik Hartmann       |
+| 2. Vorsitzender  | Nicola Ehrich      |
+| Ortsbrandmeister | Dominik Hartmann   |
 | Kassenwartin     | Nicole Schmalstieg |
 | Schriftführer    | Jörg Nolte         |
-| 1. Beisitzer     | Martin Stahl         |
-| 2. Beisitzer     |   Louis Schmalstieg       |
+| 1. Beisitzer     | Martin Stahl       |
+| 2. Beisitzer     | Louis Schmalstieg  |
 
 ### Links 
 

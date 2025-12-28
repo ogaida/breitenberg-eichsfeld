@@ -6,6 +6,8 @@ toc_name: Heimat- und Kulturverein
 
 Motto: Wandergruppe, Theatergruppe, Karneval, Dorfleben, Wir leben Dorfgemeinschaft!
 
+Ansprechpartner: Roland Pahl, Conny Eckermann
+
 <a href="#" class="image featured"><img src="images/hkv.jpg" alt="" /></a>
 
 
