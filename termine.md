@@ -26,10 +26,10 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
-| Datum  | Thema                               | Verein     | Ort                                 |
-| ------ | ----------------------------------- | ---------- | ----------------------------------- |
-| 29.11. | Weihnachtsmarkt                     |            | Dorfplatz                           |
-| 27.12. | Hallentunier                        | SVG        | Sporthalle - Auf der Klappe         |
+| Datum  | Thema        | Verein | Ort                         |
+| ------ | ------------ | ------ | --------------------------- |
+|        |              |        |                             |
+
 
 
 <!--
