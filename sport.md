@@ -68,15 +68,15 @@ Ansprechpartner: <br>
 
 Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
-#### Hinrunde - 2025: {#tt-4-h}
+#### Rückrunde - 2026:
 
 <!--
 https://tableconvert.com/markdown-to-json
-echo '' && mlr --ijson --opprint cat iv-tt.json | tr - ' ' && echo ""
+echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv-tt.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv-ttrr9.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 Legende:
@@ -86,15 +86,3 @@ Legende:
 - N = spielt nur im absoluten Notfall
 - m = möchte gerne bei dieser Begegnung spielen
 - A / H in Spalte "Wo": auswärtz / heim
-
-#### Rückrunde - 2026:
-
-<!--
-https://tableconvert.com/markdown-to-json
-echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
-bild daraus machen
- -->
-
-<a href="#" class="image featured"><img src="images/iv-ttrr8.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br>
-
