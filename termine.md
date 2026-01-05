@@ -29,7 +29,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
-Achtung: der Termin für das Einsammeln der Weihnachtsbäume wurde kurzfristig von Samstag auf Sonntag verschoben!
+<h2>Achtung: der Termin für das Einsammeln der Weihnachtsbäume wurde kurzfristig von Samstag auf Sonntag verschoben!</h2>
 
 
 | Datum                 | Thema                                       | Verein             | Ort                    |
