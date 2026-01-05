@@ -29,6 +29,9 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 </article>
 -->
 
+Achtung: der Termin für das Einsammeln der Weihnachtsbäume wurde kurzfristig von Samstag auf Sonntag verschoben!
+
+
 | Datum                 | Thema                                       | Verein             | Ort                    |
 | --------------------- | ------------------------------------------- | ------------------ | ---------------------- |
 | 11.01.                | Weihnachtsbäume einsammeln, ab ca. 9:00 Uhr | Feuerwehr          | Breitenberg            |
