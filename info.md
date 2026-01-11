@@ -38,6 +38,7 @@ Breitenberg.
 </p>
 
 <a href="#" class="image featured"><img src="images/bb_12_2017_winter-morgen.jpg" alt="" /></a>
+<font size="1">Foto: Oliver Gaida</font>
 
 <p>Von diesem Zeitpunkt an stand Breitenberg bis 1815 als eines von 11 Ratsdörfern in der Abhängigkeit der Stadt Duderstadt. Bereits wenige Jahre später (1373) konnte Duderstadt von den Rittern von Minningerode die Waldflächen und Forsten des Hübentals erwerben. Hier ist heute das Waldgasthaus Hübental, ein beliebtes Wanderziel, in dem man gutes Essen schätzt, aber auch übernachten kann.
 </p>
