@@ -38,7 +38,7 @@ Breitenberg.
 </p>
 
 <figure>
-    <a href="#" class="image featured"><img src="images/bb_12_2017_winter-morgen.jpg" alt="" /></a>
+    <img class="image featured" src="images/bb_12_2017_winter-morgen.jpg" alt="" />
     <figcaption>Foto: Oliver Gaida</figcaption>
 </figure>
 
