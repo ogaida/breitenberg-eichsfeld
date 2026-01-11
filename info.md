@@ -37,12 +37,7 @@ Breitenberg.
 <p>Noch im Mai 1368 belehnte die Abtissin Elisabeth von Quedlinburg die Stadt Duderstadt „mit dem dorpe unde der dorpstede tu Bredenberge“ gegen die Zahlung von 1 Duderstädter Marklötigen Silbers.
 </p>
 
-<figure>
-    <img class="image featured" src="images/bb_12_2017_winter-morgen.jpg" alt="" />
-    <figcaption>Foto: Oliver Gaida</figcaption>
-</figure>
-
-
+<img class="image featured" src="images/bb_12_2017_winter-morgen.jpg" alt="" />
 
 <p>Von diesem Zeitpunkt an stand Breitenberg bis 1815 als eines von 11 Ratsdörfern in der Abhängigkeit der Stadt Duderstadt. Bereits wenige Jahre später (1373) konnte Duderstadt von den Rittern von Minningerode die Waldflächen und Forsten des Hübentals erwerben. Hier ist heute das Waldgasthaus Hübental, ein beliebtes Wanderziel, in dem man gutes Essen schätzt, aber auch übernachten kann.
 </p>
