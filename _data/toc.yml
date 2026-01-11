@@ -31,5 +31,7 @@ toc:
     file: wsg
 #  - name: Kontakt
 #    file: contact
+  - name: Bilder
+    file: bilder
   - name: Datenschutz
     file: datenschutz
