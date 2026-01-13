@@ -36,6 +36,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 | --------------------- | ------------------------------------------- | ------------------ | ---------------------- |
 | 11.01.                | Weihnachtsbäume einsammeln, ab ca. 9:00 Uhr | Feuerwehr          | Breitenberg            |
 | 14.02.                | Feuerwehrball                               |                    | Gasthaus Deppe         |
+| 21.02                 | Seniorennachmittag um 15:00 Uhr             |                    | PGH                    |
 | 21.03.                | Frühjahrsputz, Treffen 10:00 Uhr            |                    | Dorfplatz              |
 | 05.04.                | Osterfeuer                                  |                    | Sportplatz             |
 | 09.04. - 13.04.       | Bodenseefahrt                               | Sozialverband      |                        |
