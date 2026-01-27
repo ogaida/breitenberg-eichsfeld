@@ -15,21 +15,6 @@
     "MD": ""
   },
   {
-    "Datum": "Di 27.01.",
-    "Zeit": "20:00",
-    "Gegner": "TSV Kerstlingerode II",
-    "Wo": "H",
-    "KD": "x",
-    "WR": "",
-    "OG": "",
-    "DiC": "",
-    "AG": "",
-    "MH": "",
-    "MS": "",
-    "IE": "x",
-    "MD": ""
-  },
-  {
     "Datum": "Fr 13.02.",
     "Zeit": "20:15",
     "Gegner": "TT Tiftlingerode III",
@@ -85,6 +70,21 @@
     "DiC": "",
     "AG": "",
     "MH": "",
+    "MS": "",
+    "IE": "",
+    "MD": ""
+  },
+  {
+    "Datum": "Di 17.03.",
+    "Zeit": "20:00",
+    "Gegner": "TSV Kerstlingerode II",
+    "Wo": "H",
+    "KD": "",
+    "WR": "",
+    "OG": "",
+    "DiC": "",
+    "AG": "",
+    "MH": "x",
     "MS": "",
     "IE": "",
     "MD": ""
