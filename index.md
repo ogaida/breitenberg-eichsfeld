@@ -4,6 +4,8 @@ title: Neues vom Ortsrat
 toc_name: Ortsrat
 ---
 
+<hr>
+
 ## Bekanntmachung
 
 <img class="image featured" src="images/mach_mit.jpg" alt="" />
