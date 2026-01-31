@@ -4,9 +4,14 @@ title: Neues vom Ortsrat
 toc_name: Ortsrat
 ---
 
+<br>
 <hr>
+<br>
 
-### Bekanntmachung
+## Bekanntmachung
+
+<br>
+<br>
 
 <img class="image featured" src="images/mach_mit.jpg" alt="" />
 
@@ -15,6 +20,10 @@ toc_name: Ortsrat
 <br>
 
 ### unser Ortsrat
+
+<br>
+<br>
+
 
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
 <font size="2">
