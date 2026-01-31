@@ -6,11 +6,15 @@ toc_name: Ortsrat
 
 <hr>
 
-## Bekanntmachung
+### Bekanntmachung
 
 <img class="image featured" src="images/mach_mit.jpg" alt="" />
 
-## unser Ortsrat
+<br>
+<hr>
+<br>
+
+### unser Ortsrat
 
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
 <font size="2">
