@@ -19,7 +19,7 @@ toc_name: Ortsrat
 <hr>
 <br>
 
-### unser Ortsrat
+## unser Ortsrat
 
 <br>
 <br>
