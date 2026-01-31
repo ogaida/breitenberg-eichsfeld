@@ -1,8 +1,14 @@
 ---
 layout: default
-title: der neue Ortsrat 2025 in Breitenberg
+title: Neues vom Ortsrat
 toc_name: Ortsrat
 ---
+
+## Bekanntmachung
+
+<img class="image featured" src="images/mach_mit.jpg" alt="" />
+
+## unser Ortsrat
 
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
 <font size="2">
