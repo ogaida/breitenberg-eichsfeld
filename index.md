@@ -8,6 +8,7 @@ toc_name: Ortsrat
 <hr>
 <br>
 
+<!--
 ## Bekanntmachung
 
 <br>
@@ -18,6 +19,7 @@ toc_name: Ortsrat
 <br>
 <hr>
 <br>
+-->
 
 ## unser Ortsrat
 
