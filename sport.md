@@ -76,7 +76,7 @@ echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
 bild daraus machen
  -->
 
-<a href="#" class="image featured"><img src="images/iv33.png" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/iv-ttrr3.png" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 Legende:
@@ -85,4 +85,5 @@ Legende:
 - K = krank
 - N = spielt nur im absoluten Notfall
 - m = möchte gerne bei dieser Begegnung spielen
+- ! = für einen Einsatz vorgemerkt 
 - A / H in Spalte "Wo": auswärtz / heim
