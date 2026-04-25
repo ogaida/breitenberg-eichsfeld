@@ -4,8 +4,10 @@ title: Kirche
 toc_name: Kirche
 ---
 
-<!-- <a href="images/Infobrief-Sternsingen-2026.pdf" class="image featured"><img src="images/Infobrief-Sternsingen-2026.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br> -->
+
+<a href="images/Aushang-Ehrenamtlichen-Empfang13.06.26.pdf" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Empfang13.06.26.jpg" alt="" style="border: 1px solid #555"/></a>  
+<hr><br>
+
 
 <!-- <a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" /></a> -->
 

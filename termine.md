@@ -4,8 +4,8 @@ title: Termine 2026
 toc_name: Termine
 ---
 
-<!-- <a href="images/Infobrief-Sternsingen-2026.pdf" class="image featured"><img src="images/Infobrief-Sternsingen-2026.jpg" alt="" style="border: 1px solid #555"/></a>  
-<hr><br>-->
+<a href="images/Aushang-Ehrenamtlichen-Empfang13.06.26.pdf" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Empfang13.06.26.jpg" alt="" style="border: 1px solid #555"/></a>  
+<hr><br>
 
 <!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
 
@@ -34,9 +34,6 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 | Datum                 | Thema                                       | Verein             | Ort                    |
 | --------------------- | ------------------------------------------- | ------------------ | ---------------------- |
-| 21.03.                | Frühjahrsputz, Treffen 10:00 Uhr            |                    | Dorfplatz              |
-| 05.04.                | Osterfeuer                                  |                    | Sportplatz             |
-| 09.04. - 13.04.       | Bodenseefahrt                               | Sozialverband      |                        |
 | 25.04.                | Bosseln                                     | HKV                |                        |
 | 03.05.                | Erstkommunion                               |                    | Breitenberg            |
 | 06.05.                | Maiandacht 18:30 Uhr, anschließend Grillen  | Frauengemeinschaft | PGH                    |
