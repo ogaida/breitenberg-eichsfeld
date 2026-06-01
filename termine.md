@@ -32,10 +32,6 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 | Datum                 | Thema                                       | Verein             | Ort                    |
 | --------------------- | ------------------------------------------- | ------------------ | ---------------------- |
-| 25.04.                | Bosseln                                     | HKV                |                        |
-| 03.05.                | Erstkommunion                               |                    | Breitenberg            |
-| 06.05.                | Maiandacht 18:30 Uhr, anschließend Grillen  | Frauengemeinschaft | PGH                    |
-| 16.05.                | Beer Pong                                   | BTV                |                        |
 | 12.06. - 19.07.       | Fussball WM / Public Viewing                |                    | Sportplatz             |
 | 19.06. - 21.06.       | Johannisfeuer                               |                    |                        |
 | steht noch nicht fest | Sportfest                                   |                    |                        |
