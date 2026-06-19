@@ -4,10 +4,12 @@ title: Termine 2026
 toc_name: Termine
 ---
 
+<!--
 <a href="images/Aushang-Ehrenamtlichen-Empfang13.06.26.pdf" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Empfang13.06.26.jpg" alt="" style="border: 1px solid #555"/></a>  
 <hr><br>
+-->
 
-<!-- aktuell wurden keine Termine an den Internetverantwortlichen gemeldet. -->
+ aktuell wurden keine Termine an den Internetverantwortlichen gemeldet.
 
 <!--<article class="box post post-excerpt">
     <header class="major">
@@ -30,22 +32,22 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 -->
 
 
-| Datum                 | Thema                                       | Verein             | Ort                    |
-| --------------------- | ------------------------------------------- | ------------------ | ---------------------- |
-| 12.06. - 19.07.       | Fussball WM / Public Viewing                |                    | Sportplatz             |
-| 19.06. - 21.06.       | Johannisfeuer                               |                    |                        |
-| steht noch nicht fest | Sportfest                                   |                    |                        |
-| 28.08.                | Sparkassenlauf                              |                    | Duderstadt             |
-| 29.08.                | Weinwiesen                                  | HKV                | Dorfplatz              |
-| 05.09.                | Bergdörfersingen                            | MGV                | PGH                    |
-| 10.10.                | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück | Frauengemeinschaft | Kirche / PGH           |
-| 30.10. und 31.10.     | Halloween, jeweils ab 16:00 Uhr             | Kyffhäuser         | Kyffhäuser Vereinsheim |
-| 11.11.                | Sankt Martin                                |                    |                        |
-| 15.11.                | Volkstrauertag mit Kranzniederlegung        | Kyffhäuser, MGV    | Denkmal                |
-| 06.12.                | Adventssingen 16:00                         | MGV                | Kirche / PGH           |
-| 09.12.                | Weihnachtsfeier    18:30                    | Frauengemeinschaft | PGH                    |
-| 12.12.                | Weihnachtsmarkt                             |                    | Dorfplatz              |
-| steht noch nicht fest | Adventssingen                               | MGV                |                        |
+| Datum                 | Thema                                              | Verein                | Ort                    |
+| --------------------- | -------------------------------------------------- | --------------------- | ---------------------- |
+| 12.06. - 19.07.       | Fussball WM / public viewing (am 20.06. Dorfplatz) | Sportverein           | Sportplatz             |
+| 19.06. - 21.06.       | Johannisfeuer am Sa. mit public viewing            | Feuerwehr,Sportverein | Dorfplatz              |
+| steht noch nicht fest | Sportfest                                          |                       |                        |
+| 28.08.                | Sparkassenlauf                                     |                       | Duderstadt             |
+| 29.08.                | Weinwiesen                                         | HKV                   | Dorfplatz              |
+| 05.09.                | Bergdörfersingen                                   | MGV                   | PGH                    |
+| 10.10.                | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück        | Frauengemeinschaft    | Kirche / PGH           |
+| 30.10. und 31.10.     | Halloween, jeweils ab 16:00 Uhr                    | Kyffhäuser            | Kyffhäuser Vereinsheim |
+| 11.11.                | Sankt Martin                                       |                       |                        |
+| 15.11.                | Volkstrauertag mit Kranzniederlegung               | Kyffhäuser, MGV       | Denkmal                |
+| 06.12.                | Adventssingen 16:00                                | MGV                   | Kirche / PGH           |
+| 09.12.                | Weihnachtsfeier    18:30                           | Frauengemeinschaft    | PGH                    |
+| 12.12.                | Weihnachtsmarkt                                    |                       | Dorfplatz              |
+| steht noch nicht fest | Adventssingen                                      | MGV                   |                        |
 
 <!--
 <br><br>
