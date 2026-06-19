@@ -71,7 +71,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 
 
 <font size="1">
-Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termine. Gruppen-Admin ist u.a. unsere Bürgermeisterin Katja Neumann.
+Bitte informiert Euch auch über die Whatsapp Bürgergruppe über anstehende Termine.
 
 Für alle, die Termine hier bekanntgegeben haben wollen, sendet bitte entsprechende Informationen an Oliver Gaida. Bilder oder PDF-Dateien bitte im Original versenden. Texte bitte als Text in einer Textdatei, im Chat oder in einer Email senden. Wenn Fotos mit Personen veröffentlicht werden sollen, klärt bitte vorher das Einverständnis ab.
 </font>
