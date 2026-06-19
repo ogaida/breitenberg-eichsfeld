@@ -37,7 +37,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 | --------------------- | -------------------------------------------------- | --------------------- | ---------------------- |
 | 12.06. - 19.07.       | Fussball WM / public viewing (am 20.06. Dorfplatz) | Sportverein           | Sportplatz             |
 | 19.06. - 21.06.       | Johannisfeuer am Sa. mit public viewing            | Feuerwehr,Sportverein | Dorfplatz              |
-| 22.08,                | Sportfest & Human Soccer WM                        | Sportverein           | Sportplatz             |
+| 22.08.                | Sportfest & Human Soccer WM                        | Sportverein           | Sportplatz             |
 | 28.08.                | Sparkassenlauf                                     |                       | Duderstadt             |
 | 29.08.                | Weinwiesen                                         | HKV                   | Dorfplatz              |
 | 05.09.                | Bergdörfersingen                                   | MGV                   | PGH                    |
