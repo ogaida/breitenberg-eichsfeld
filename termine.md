@@ -7,10 +7,11 @@ toc_name: Termine
 <!--
 <a href="images/Aushang-Ehrenamtlichen-Empfang13.06.26.pdf" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Empfang13.06.26.jpg" alt="" style="border: 1px solid #555"/></a>  
 <hr><br>
--->
+
 
  aktuell wurden keine Termine an den Internetverantwortlichen gemeldet.
 
+-->
 <!--<article class="box post post-excerpt">
     <header class="major">
     <h3>5. Oktober 2025 - Neuwahl des Ortsrates Breitenberg im Pfarrgemeindehaus</h3>
