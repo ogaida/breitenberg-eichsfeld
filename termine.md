@@ -48,7 +48,7 @@ Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breiten
 | 12.12.            | Weihnachtsmarkt                                    |                       | Dorfplatz              |
 
 
-<!--
+<!--  
 <br><br>
 
 <a href="#" class="image featured"><img src="images/st-martin-25.jpg" alt="" style="border: 1px solid #555"/></a> 
