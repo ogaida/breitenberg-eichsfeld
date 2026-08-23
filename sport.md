@@ -56,7 +56,7 @@ Ansprechpartner: <br>
     <li>Tischtennis: Joachim Nolte</li>
 </ul>
 
-
+<!--
 
 ## Tischtennis
 
@@ -68,16 +68,6 @@ Ansprechpartner: <br>
 
 Spiele bei denen jetzt schon klar ist, dass 5 Leute fehlen, sind mit * gekennzeichnet und werden nach Möglichkeit verlegt.
 
-#### Rückrunde - 2026:
-
-<!--
-https://tableconvert.com/markdown-to-json
-echo '' && mlr --ijson --opprint cat iv-tt-rr.json | tr - ' ' && echo ""
-bild daraus machen
- -->
-
-<a href="#" class="image featured"><img src="images/ttr-210326.png" alt="" style="border: 1px solid #555"/></a> 
-<hr><br>
 
 
 Legende:
@@ -88,3 +78,5 @@ Legende:
 - m = möchte gerne bei dieser Begegnung spielen
 - ! = für einen Einsatz vorgemerkt 
 - A / H in Spalte "Wo": auswärtz / heim
+
+-->
