@@ -14,7 +14,7 @@ toc_name: Termine
 -->
 <article class="box post post-excerpt">
     <header class="major">
-    <h3>Wahlen am 13. Oktober 2026</h3>
+    <h3>Wahlen am 13. September 2026</h3>
     <p><font size="4"></font></p>
     <p></p>
     </header>
