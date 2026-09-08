@@ -12,33 +12,29 @@ toc_name: Termine
  aktuell wurden keine Termine an den Internetverantwortlichen gemeldet.
 
 -->
-<!--<article class="box post post-excerpt">
+<article class="box post post-excerpt">
     <header class="major">
-    <h3>5. Oktober 2025 - Neuwahl des Ortsrates Breitenberg im Pfarrgemeindehaus</h3>
+    <h3>Wahlen am 13. Oktober 2026</h3>
     <p><font size="4"></font></p>
     <p></p>
     </header>
 
-<h1 id=stimmzettel> Unser Stimmzettel morgen (Muster):</h1>
+<h1 id=stimmzettel> Unsere Stimmzettel morgen (Muster):</h1>
 <br><br>
-
-<a href="#" class="image featured"><img src="images/wahlzettel_25.jpg" alt="" style="border: 1px solid #555"/></a> 
-Quelle: <a href="https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breitenberg-900000425-25420.html">https://www.duderstadt.de/portal/seiten/neuwahl-ortsrat-breitenberg-900000425-25420.html</a>
+2 Stimmzettel mit je einer Stimme:
+<br><br>
+<a href="images/wahl/Buergermeisterwahl_1.pdf" class="image featured"><img src="images/wahl/Buergermeisterwahl_1.png" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
 
 
 <br><hr><br>
 
 </article>
--->
+
 
 
 | Datum             | Thema                                              | Verein                | Ort                    |
 | ----------------- | -------------------------------------------------- | --------------------- | ---------------------- |
-| 22.08.            | Sportfest & Human Soccer WM                        | Sportverein           | Sportplatz             |
-| 28.08.            | Sparkassenlauf                                     |                       | Duderstadt             |
-| 29.08.            | Weinwiesen                                         | HKV                   | Dorfplatz              |
-| 05.09.            | Bergdörfersingen                                   | MGV                   | PGH                    |
 | 10.10.            | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück        | Frauengemeinschaft    | Kirche / PGH           |
 | 30.10. und 31.10. | Halloween, jeweils ab 16:00 Uhr                    | Kyffhäuser            | Kyffhäuser Vereinsheim |
 | 11.11.            | Sankt Martin                                       |                       |                        |
