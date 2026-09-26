@@ -12,6 +12,7 @@ toc_name: Termine
  aktuell wurden keine Termine an den Internetverantwortlichen gemeldet.
 
 -->
+<!--
 <article class="box post post-excerpt">
     <header class="major">
     <h3>Wahlen am 13. September 2026</h3>
@@ -37,12 +38,11 @@ toc_name: Termine
 <br><hr><br>
 
 </article>
-
+-->
 
 
 | Datum             | Thema                                              | Verein                | Ort                    |
 | ----------------- | -------------------------------------------------- | --------------------- | ---------------------- |
-| 10.10.            | Erntedankandacht 9:30 Uhr, 10 Uhr Frühstück        | Frauengemeinschaft    | Kirche / PGH           |
 | 30.10. und 31.10. | Halloween, jeweils ab 16:00 Uhr                    | Kyffhäuser            | Kyffhäuser Vereinsheim |
 | 11.11.            | Sankt Martin                                       |                       |                        |
 | 15.11.            | Volkstrauertag mit Kranzniederlegung               | Kyffhäuser, MGV       | Denkmal                |
