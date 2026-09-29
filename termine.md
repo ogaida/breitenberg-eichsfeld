@@ -30,14 +30,15 @@ toc_name: Termine
 
 
 
-| Datum             | Thema                                              | Verein                | Ort                    |
-| ----------------- | -------------------------------------------------- | --------------------- | ---------------------- |
-| 30.10. und 31.10. | Halloween, jeweils ab 16:00 Uhr                    | Kyffhäuser            | Kyffhäuser Vereinsheim |
-| 11.11.            | Sankt Martin                                       |                       |                        |
-| 15.11.            | Volkstrauertag mit Kranzniederlegung               | Kyffhäuser, MGV       | Denkmal                |
-| 06.12.            | Adventssingen 16:00                                | MGV                   | Kirche / PGH           |
-| 09.12.            | Weihnachtsfeier    18:30                           | Frauengemeinschaft    | PGH                    |
-| 12.12.            | Weihnachtsmarkt                                    |                       | Dorfplatz              |
+| Datum             | Thema                                | Verein             | Ort                    |
+| ----------------- | ------------------------------------ | ------------------ | ---------------------- |
+| 10.10.            | Erntedankmesse 18:30                 | Kirche             | Mariä Verkündigung     |
+| 30.10. und 31.10. | Halloween, jeweils ab 16:00 Uhr      | Kyffhäuser         | Kyffhäuser Vereinsheim |
+| 11.11.            | Sankt Martin                         |                    |                        |
+| 15.11.            | Volkstrauertag mit Kranzniederlegung | Kyffhäuser, MGV    | Denkmal                |
+| 06.12.            | Adventssingen 16:00                  | MGV                | Kirche / PGH           |
+| 09.12.            | Weihnachtsfeier    18:30             | Frauengemeinschaft | PGH                    |
+| 12.12.            | Weihnachtsmarkt                      |                    | Dorfplatz              |
 
 
 <!--  
