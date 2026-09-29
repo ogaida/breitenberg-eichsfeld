@@ -5,7 +5,7 @@ toc_name: Kirche
 ---
 
 
-<a href="images/Aushang-Ehrenamtlichen-Empfang13.06.26.pdf" class="image featured"><img src="images/Aushang-Ehrenamtlichen-Empfang13.06.26.jpg" alt="" style="border: 1px solid #555"/></a>  
+<a href="images/Erntedank-2026.pdf" class="image featured"><img src="images/Erntedank-2026.jpg" alt="" style="border: 1px solid #555"/></a>  
 <hr><br>
 
 
