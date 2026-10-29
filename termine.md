@@ -19,10 +19,12 @@ toc_name: Termine
     <p></p>
     </header>
 
-
+<!--
 <a href="images/Erntedank-2026.pdf" class="image featured"><img src="images/Erntedank-2026.jpg" alt="" style="border: 1px solid #555"/></a>  
 <hr><br>
-
+-->
+<br><br>
+<a href="#" class="image featured"><img src="images/st-martin-26.jpg" alt="" style="border: 1px solid #555"/></a> 
 
 <br><hr><br>
 
@@ -32,7 +34,6 @@ toc_name: Termine
 
 | Datum             | Thema                                | Verein             | Ort                    |
 | ----------------- | ------------------------------------ | ------------------ | ---------------------- |
-| 10.10.            | Erntedankmesse 18:30                 | Kirche             | Mariä Verkündigung     |
 | 30.10. und 31.10. | Halloween, jeweils ab 16:00 Uhr      | Kyffhäuser         | Kyffhäuser Vereinsheim |
 | 11.11.            | Sankt Martin                         |                    |                        |
 | 15.11.            | Volkstrauertag mit Kranzniederlegung | Kyffhäuser, MGV    | Denkmal                |
