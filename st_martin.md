@@ -1,8 +1,56 @@
 ---
 layout: default
-title: St. Martin Liedtexte für den 11.11.2025
+title: St. Martin Liedtexte für den 11.11.2026
 toc_name: St. Martin Liedtexte
 ---
+
+<p><font size=5 color=black> 
+Li-la-Lichterfest
+</font></p>
+
+
+<font size=3 color=black> 
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+
+1. Wir feiern heute Lichterfest für Groß und auch für Klein.
+Es leuchten die Laternen im hellen Lichterschein,
+es leuchten die Laternen im hellen Lichterschein.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+
+2. So langsam wird es dunkel und wir alle sind bereit.
+Wir geh'n mit den Laternen, denn jetzt ist es soweit,
+wir geh'n mit den Laternen, denn jetzt ist es soweit.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+
+3. Wir singen schöne Lieder, ach, es ist so kunterbunt.
+Ein Lichtermeer Laternen, mal eckig und mal rund,
+ein Lichtermeer Laternen, mal eckig und mal rund.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+
+4. Ein großes Feuer leuchtet hell zum Li-La-Lichterfest
+und überall Laternen, wie schön ist dieses Fest,
+und überall Laternen, wie schön ist dieses Fest.
+
+Refrain: Li-la-Lichterfest, wir geh'n … 
+</p>
 
 <p><font size=5 color=black> 
 Ich geh mit meiner Laterne
