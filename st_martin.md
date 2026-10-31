@@ -48,8 +48,12 @@ Li-la-Lichterfest, das haben wir so gerne.
 4. Ein großes Feuer leuchtet hell zum Li-La-Lichterfest
 und überall Laternen, wie schön ist dieses Fest,
 und überall Laternen, wie schön ist dieses Fest.
+</p>
 
-Refrain: Li-la-Lichterfest, wir geh'n … 
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
 </p>
 
 <p><font size=5 color=black> 
