@@ -1,8 +1,8 @@
 toc:
   - name: Ortsrat
     file: index
-#  - name: St. Martin Liedtexte
-#    file: st_martin
+  - name: St. Martin Liedtexte
+    file: st_martin
 #  - name: Dreikönigssingen
 #    file: dreikoenigssingen
   - name: über Breitenberg

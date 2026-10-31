@@ -14,7 +14,7 @@ Li-la-Lichterfest
 Refrain:
 Li-la-Lichterfest, wir geh'n mit der Laterne.
 Li-la-Lichterfest, das haben wir so gerne.
-
+<br>
 1. Wir feiern heute Lichterfest für Groß und auch für Klein.
 Es leuchten die Laternen im hellen Lichterschein,
 es leuchten die Laternen im hellen Lichterschein.
@@ -24,7 +24,7 @@ es leuchten die Laternen im hellen Lichterschein.
 Refrain:
 Li-la-Lichterfest, wir geh'n mit der Laterne.
 Li-la-Lichterfest, das haben wir so gerne.
-
+<br>
 2. So langsam wird es dunkel und wir alle sind bereit.
 Wir geh'n mit den Laternen, denn jetzt ist es soweit,
 wir geh'n mit den Laternen, denn jetzt ist es soweit.
@@ -34,7 +34,7 @@ wir geh'n mit den Laternen, denn jetzt ist es soweit.
 Refrain:
 Li-la-Lichterfest, wir geh'n mit der Laterne.
 Li-la-Lichterfest, das haben wir so gerne.
-
+<br>
 3. Wir singen schöne Lieder, ach, es ist so kunterbunt.
 Ein Lichtermeer Laternen, mal eckig und mal rund,
 ein Lichtermeer Laternen, mal eckig und mal rund.
@@ -44,7 +44,7 @@ ein Lichtermeer Laternen, mal eckig und mal rund.
 Refrain:
 Li-la-Lichterfest, wir geh'n mit der Laterne.
 Li-la-Lichterfest, das haben wir so gerne.
-
+<br>
 4. Ein großes Feuer leuchtet hell zum Li-La-Lichterfest
 und überall Laternen, wie schön ist dieses Fest,
 und überall Laternen, wie schön ist dieses Fest.
