@@ -4,93 +4,7 @@ title: St. Martin Liedtexte für den 11.11.2026
 toc_name: St. Martin Liedtexte
 ---
 
-<p><font size=5 color=black> 
-Li-la-Lichterfest
-</font></p>
-
-
-<font size=3 color=black> 
-<p>
-Refrain:
-Li-la-Lichterfest, wir geh'n mit der Laterne.
-Li-la-Lichterfest, das haben wir so gerne.
-<br>
-1. Wir feiern heute Lichterfest für Groß und auch für Klein.
-Es leuchten die Laternen im hellen Lichterschein,
-es leuchten die Laternen im hellen Lichterschein.
-</p>
-
-<p>
-Refrain:
-Li-la-Lichterfest, wir geh'n mit der Laterne.
-Li-la-Lichterfest, das haben wir so gerne.
-<br>
-2. So langsam wird es dunkel und wir alle sind bereit.
-Wir geh'n mit den Laternen, denn jetzt ist es soweit,
-wir geh'n mit den Laternen, denn jetzt ist es soweit.
-</p>
-
-<p>
-Refrain:
-Li-la-Lichterfest, wir geh'n mit der Laterne.
-Li-la-Lichterfest, das haben wir so gerne.
-<br>
-3. Wir singen schöne Lieder, ach, es ist so kunterbunt.
-Ein Lichtermeer Laternen, mal eckig und mal rund,
-ein Lichtermeer Laternen, mal eckig und mal rund.
-</p>
-
-<p>
-Refrain:
-Li-la-Lichterfest, wir geh'n mit der Laterne.
-Li-la-Lichterfest, das haben wir so gerne.
-<br>
-4. Ein großes Feuer leuchtet hell zum Li-La-Lichterfest
-und überall Laternen, wie schön ist dieses Fest,
-und überall Laternen, wie schön ist dieses Fest.
-</p>
-
-<p>
-Refrain:
-Li-la-Lichterfest, wir geh'n mit der Laterne.
-Li-la-Lichterfest, das haben wir so gerne.
-</p>
-
-<p><font size=5 color=black> 
-Ich geh mit meiner Laterne
-</font></p>
-
-
-<font size=3 color=black> 
-<p>
-Refrain: Ich geh mit meiner Laterne
-und meine Laterne mit mir.
-Dort oben leuchten die Sterne
-und unten leuchten wir.
-</p>
-
-<p>
-1. Ein Lichtermeer zu Martins Ehr!
-Rabimmel-rabammel-rabum-bum-bum.
-Ein Lichtermeer zu Martins Ehr!
-Rabimmel-rabammel-rabum-bum-bum
-</p>
-
-<p>
-2. Laternenlicht, verlösch mir nicht!
-Rabimmel-rabammel-rabum-bum-bum.
-Laternenlicht, verlösch mir nicht!
-Rabimmel-rabammel-rabum-bum-bum.
-</p>
-
-<p>
-3. Mein Licht ist aus, ich geh nach Haus!
-Rabimmel-rabammel-rabum-bum-bum.
-Mein Licht ist aus, ich geh nach Haus!
-Rabimmel-rabammel-rabum-bum-bum.
-</p>
-</font>
-
+<!-- neues Lied -->
 
 <p><font size=5 color=black> 
 Sankt Martin
@@ -147,6 +61,127 @@ und breit.
 </p>
 </font>
 
+<!-- neues Lied -->
+
+<p><font size=5 color=black> 
+Ich geh mit meiner Laterne
+</font></p>
+
+
+<font size=3 color=black> 
+<p>
+Refrain: Ich geh mit meiner Laterne
+und meine Laterne mit mir.
+Dort oben leuchten die Sterne
+und unten leuchten wir.
+</p>
+
+<p>
+1. Ein Lichtermeer zu Martins Ehr!
+Rabimmel-rabammel-rabum-bum-bum.
+Ein Lichtermeer zu Martins Ehr!
+Rabimmel-rabammel-rabum-bum-bum
+</p>
+
+<p>
+2. Laternenlicht, verlösch mir nicht!
+Rabimmel-rabammel-rabum-bum-bum.
+Laternenlicht, verlösch mir nicht!
+Rabimmel-rabammel-rabum-bum-bum.
+</p>
+
+<p>
+3. Mein Licht ist aus, ich geh nach Haus!
+Rabimmel-rabammel-rabum-bum-bum.
+Mein Licht ist aus, ich geh nach Haus!
+Rabimmel-rabammel-rabum-bum-bum.
+</p>
+</font>
+
+<!-- neues Lied -->
+
+<p><font size=5 color=black> 
+Laterne, Laterne
+</font></p>
+
+
+<font size=3 color=black> 
+<p>
+1. Laterne, Laterne, Sonne, Mond und Sterne,
+brenne auf mein Licht, brenne auf mein Licht, aber
+nur meine liebe Laterne nicht.
+</p>
+
+<p>
+2. Laterne, Laterne, Sonne, Mond und Sterne, sperrt
+ihn ein den Wind, sperrt ihn ein den Wind, er soll
+warten, bis wir zu Hause sind.
+</p>
+
+<p>
+3. Laterne, Laterne, Sonne, Mond und Sterne, bleibe
+hell mein Licht, bleibe hell mein Licht, sonst strahlt
+meine liebe Laterne nicht.
+</p>
+</font>
+
+
+<!-- neues Lied -->
+
+<p><font size=5 color=black> 
+Li-la-Lichterfest
+</font></p>
+
+
+<font size=3 color=black> 
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+<br>
+1. Wir feiern heute Lichterfest für Groß und auch für Klein.
+Es leuchten die Laternen im hellen Lichterschein,
+es leuchten die Laternen im hellen Lichterschein.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+<br>
+2. So langsam wird es dunkel und wir alle sind bereit.
+Wir geh'n mit den Laternen, denn jetzt ist es soweit,
+wir geh'n mit den Laternen, denn jetzt ist es soweit.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+<br>
+3. Wir singen schöne Lieder, ach, es ist so kunterbunt.
+Ein Lichtermeer Laternen, mal eckig und mal rund,
+ein Lichtermeer Laternen, mal eckig und mal rund.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+<br>
+4. Ein großes Feuer leuchtet hell zum Li-La-Lichterfest
+und überall Laternen, wie schön ist dieses Fest,
+und überall Laternen, wie schön ist dieses Fest.
+</p>
+
+<p>
+Refrain:
+Li-la-Lichterfest, wir geh'n mit der Laterne.
+Li-la-Lichterfest, das haben wir so gerne.
+</p>
+
+<!-- neues Lied -->
+
 <p><font size=5 color=black> 
 Wenn das Brot, das wir teilen
 </font></p>
@@ -184,30 +219,7 @@ Hoffnung wird, ….
 </p>
 </font>
 
-<p><font size=5 color=black> 
-Laterne, Laterne
-</font></p>
-
-
-<font size=3 color=black> 
-<p>
-1. Laterne, Laterne, Sonne, Mond und Sterne,
-brenne auf mein Licht, brenne auf mein Licht, aber
-nur meine liebe Laterne nicht.
-</p>
-
-<p>
-2. Laterne, Laterne, Sonne, Mond und Sterne, sperrt
-ihn ein den Wind, sperrt ihn ein den Wind, er soll
-warten, bis wir zu Hause sind.
-</p>
-
-<p>
-3. Laterne, Laterne, Sonne, Mond und Sterne, bleibe
-hell mein Licht, bleibe hell mein Licht, sonst strahlt
-meine liebe Laterne nicht.
-</p>
-</font>
+<!-- neues Lied -->
 
 <p><font size=5 color=black> 
 Durch die Straßen auf und nieder
@@ -233,55 +245,5 @@ Rote, gelbe, grüne, blaue.
 3. Und wir gehen lange Strecken mit Laternen
 an den Stecken: Rote, gelbe, grüne, blaue.
 „Lieber Martin komm und schaue!“
-</p>
-</font>
-
-<p><font size=5 color=black> 
-Die Laterne hat heut ihren großen Tag
-</font></p>
-
-<p><font size=2 color=black> 
-Melodie: Von den blauen Bergen kommen wir
-</font></p>
-
-<font size=3 color=black> 
-<p>
-1.	 Die Laterne hat heut ihren großen Tag, 
-die Laterne hat heut ihren großen Tag, 
-die Laterne hat heut ihren,
-die Laterne hat heut ihren,
-die Laterne hat heut ihren großen Tag. 
-</p>
-
-<p>
-2.	Anfangs war sie nur ein kleines Stück Papier,
-anfangs war sie nur ein kleines Stück Papier,
-anfangs war sie nur ein kleines,
-anfangs war sie nur ein kleines,
-anfangs war sie nur ein kleines Stück Papier.
-</p>
-
-<p>
-3.	Dazu kam ein bißchen Farbe und ein Draht,
-Dazu kam ein bißchen Farbe und ein Draht,
-Dazu kam ein bißchen Farbe,
-Dazu kam ein bißchen Farbe,
-Dazu kam ein bißchen Farbe und ein Draht.
-</p>
-
-<p>
-4.	Eine Kerze gibt der Farbe dann das Licht,
-Eine Kerze gibt der Farbe dann das Licht,
-Eine Kerze gibt der Farbe,
-Eine Kerze gibt der Farbe,
-Eine Kerze gibt der Farbe dann das Licht.
-</p>
-
-<p>
-5.	Und so leuchte die Laterne heute Nacht,
-Und so leuchte die Laterne heute Nacht,
-Und so leuchte die Laterne,
-Und so leuchte die Laterne,
-Und so leuchte die Laterne heute Nacht.
 </p>
 </font>
