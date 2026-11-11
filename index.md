@@ -21,10 +21,7 @@ toc_name: Ortsrat
 <br>
 -->
 
-## unser Ortsrat
-
-<br>
-<br>
+Am 10. November fand die konstituierende Sitzung des Ortsrates statt. Informationen dazu werden hier in Kürze veröffentlicht.
 
 <h3>Bürgermeister: Claudio Pizzano</h3>
 
