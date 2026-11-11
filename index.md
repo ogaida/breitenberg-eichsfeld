@@ -26,7 +26,9 @@ toc_name: Ortsrat
 <br>
 <br>
 
+<h3>Bürgermeister: Claudio Pizzano</h3>
 
+<!--
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
 <font size="2">
     Personen v.l.n.r.: Luca Eckermann, Mario Deppe, Claudio Pizzano, Florian Netzker, Katja Neumann, Andreas Dornieden, Anke Gerbode, Gregor Wippermann - Foto: Marie Stollberg
@@ -59,3 +61,4 @@ Ortsjugendpfleger: <br>
 Linus Eckermann <br>
 Marlon und Celine Rudolph  <br>
 </p>
+-->
