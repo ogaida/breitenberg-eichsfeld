@@ -14,6 +14,7 @@ Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und de
 
 ## unser Vorstand
 <br>
+
 | Name                | Funktion            |
 | ------------------- | ------------------- |
 | Dirk Michaelis      | 1. Vorsitzender     |
@@ -28,6 +29,7 @@ Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und de
 | Dominik Kunze       | 3. Schießwart       |
 | Thomas Bause        | 1. Fähnrich         |
 | Andy Fütterer       | 2. Fähnrich         |
+
 <br>
 
 ## Was uns wichtig ist
