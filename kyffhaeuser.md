@@ -3,19 +3,17 @@ layout: default
 title: Kyffhäuser Kameradschaft Breitenberg e.V.
 toc_name: Kyffhäuser
 ---
-
+<br>
 <img class="image featured" src="images/KK-Breitenberg-15022025.jpg" alt="" />
 
 
 ## Tradition trifft Moderne – Kameradschaft verbindet
-
+<br>
+Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und den Zusammenhalt großschreibt. Unser Vereinsgebäude wurde in den 80igern in Eigenleistung erbaut und besteht neben zwei großzügigen Aufenthaltsräumen aus einem Schießstand mit 50m Länge, auf dem Klein und Großkaliber geschossen werden kann. Der großzügige und vollständig überdachte Aussenbereich wird im Sommer von der Bogengruppe genutzt.
 <br>
 
-Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und den Zusammenhalt großschreibt. Unser Vereinsgebäude wurde in den 80igern in Eigenleistung erbaut und besteht neben zwei großzügigen Aufenthaltsräumen aus einem Schießstand mit 50m Länge, auf dem Klein und Großkaliber geschossen werden kann. Der großzügige und vollständig überdachte Aussenbereich wird im Sommer von der Bogengruppe genutzt.
-
 ## unser Vorstand
-
-
+<br>
 | Name                | Funktion            |
 | ------------------- | ------------------- |
 | Dirk Michaelis      | 1. Vorsitzender     |
@@ -30,10 +28,10 @@ Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und de
 | Dominik Kunze       | 3. Schießwart       |
 | Thomas Bause        | 1. Fähnrich         |
 | Andy Fütterer       | 2. Fähnrich         |
+<br>
 
 ## Was uns wichtig ist
-
-
+<br>
 Bei uns stehen Gemeinschaft, Kreativität und Spaß im Mittelpunkt. Wir möchten einen Ort schaffen, an dem sich jeder willkommen fühlt und seine Ideen einbringen kann. Ob du aktiv mitgestalten möchtest oder einfach nur dabei sein willst – bei uns ist Platz für alle!
 
 ## Unsere Aktivitäten
