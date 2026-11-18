@@ -4,6 +4,8 @@ title: Kyffhäuser Kameradschaft Breitenberg e.V.
 toc_name: Kyffhäuser
 ---
 
+<img class="image featured" src="images/KK-Breitenberg-15022025.jpg" alt="" />
+
 # Tradition trifft Moderne – Kameradschaft verbindet
 
 Wir sind eine Gemeinschaft, die sich dem Schieß- und Bogensport betreibt und den Zusammenhalt großschreibt. Unser Vereinsgebäude wurde in den 80igern in Eigenleistung erbaut und besteht neben zwei großzügigen Aufenthaltsräumen aus einem Schießstand mit 50m Länge, auf dem Klein und Großkaliber geschossen werden kann. Der großzügige und vollständig überdachte Aussenbereich wird im Sommer von der Bogengruppe genutzt.
