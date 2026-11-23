@@ -12,6 +12,7 @@ toc_name: Termine
  aktuell wurden keine Termine an den Internetverantwortlichen gemeldet.
 
 -->
+<!--
 <article class="box post post-excerpt">
     <header class="major">
     <h3>Erntedankmesse am 10. Oktober 2026</h3>
@@ -19,35 +20,35 @@ toc_name: Termine
     <p></p>
     </header>
 
-<!--
+
 <a href="images/Erntedank-2026.pdf" class="image featured"><img src="images/Erntedank-2026.jpg" alt="" style="border: 1px solid #555"/></a>  
 <hr><br>
--->
+
 <br><br>
 <a href="#" class="image featured"><img src="images/st-martin-26.jpg" alt="" style="border: 1px solid #555"/></a> 
 
 <br><hr><br>
 
 </article>
+-->
+<br><br>
 
+<a href="#" class="image featured"><img src="images/adventskonzert-2026.jpg" alt="" style="border: 1px solid #555"/></a> 
+<hr><br>
 
 
 | Datum            | Thema                                | Verein             | Ort                    |
 | ---------------- | ------------------------------------ | ------------------ | ---------------------- |
-| 31.10. und 1.11. | Halloween, jeweils ab 15:00 Uhr      | Kyffhäuser         | Kyffhäuser Vereinsheim |
-| 11.11.           | Sankt Martin                         |                    |                        |
-| 15.11.           | Volkstrauertag mit Kranzniederlegung | Kyffhäuser, MGV    | Denkmal                |
 | 06.12.           | Adventssingen 16:00                  | MGV                | Kirche / PGH           |
 | 09.12.           | Weihnachtsfeier    18:30             | Frauengemeinschaft | PGH                    |
 | 12.12.           | Weihnachtsmarkt                      |                    | Dorfplatz              |
 
 
-<!--  
+
 <br><br>
 
-<a href="#" class="image featured"><img src="images/st-martin-25.jpg" alt="" style="border: 1px solid #555"/></a> 
+<a href="#" class="image featured"><img src="images/adventskonzert-2026.jpg" alt="" style="border: 1px solid #555"/></a> 
 <hr><br>
--->
 
 
 <!--
