@@ -63,10 +63,10 @@ Unser Verein existiert bereits seit 1874. Damals als „Vaterländischer Krieger
 Hast du Fragen oder möchtest mehr erfahren? Schreib uns gerne!
 
 <h1>
-<a href="mailto:kyfbreitenberg@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span>
+<a href="mailto:kyfbreitenberg@gmail.com" class="icon solid fa-envelope" style="font-size: 2em;"><span class="label">Email</span>
 </a>
-<a href="https://www.facebook.com/KSKBreitenberg" class="icon brands fa-facebook"><span class="label">Facebook</span>
+<a href="https://www.facebook.com/KSKBreitenberg" class="icon brands fa-facebook" style="font-size: 2em;"><span class="label">Facebook</span>
 </a>
-<a href="https://www.instagram.com/kyf_breitenberg" class="icon brands fa-instagram"><span class="label">Instagram</span>
+<a href="https://www.instagram.com/kyf_breitenberg" class="icon brands fa-instagram" style="font-size: 2em;"><span class="label">Instagram</span>
 </a>
 </h1>
