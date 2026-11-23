@@ -44,13 +44,6 @@ toc_name: Termine
 | 12.12.           | Weihnachtsmarkt                      |                    | Dorfplatz              |
 
 
-
-<br><br>
-
-<a href="#" class="image featured"><img src="images/adventskonzert-2026.jpg" alt="" style="border: 1px solid #555"/></a> 
-<hr><br>
-
-
 <!--
 
 <a href="#" class="image featured"><img src="images/Aushang-Palmsamstag-2025.jpg" alt="" style="border: 1px solid #555"/></a> 
