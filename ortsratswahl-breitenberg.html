@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ortsratswahl Breitenberg – Ergebnis</title>
+<style>
+:root{
+  --bg:#ffffff;--ink:#1f1f1d;--ink-2:#55544f;--muted:#8a8882;--line:#e3e2dc;--card:#ffffff;
+  --cdu:#2C2C2A;--cdu-l:#D3D1C7;--spd:#c0393a;--spd-l:#F7C1C1;--ewv:#4e3fc0;--ewv-l:#CECBF6;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#161615;--ink:#f0efec;--ink-2:#c3c2b7;--muted:#8a8882;--line:#2f2f2c;--card:#1f1f1d;
+    --cdu:#D3D1C7;--cdu-l:#5F5E5A;--spd:#e66767;--spd-l:#A32D2D;--ewv:#9085e9;--ewv-l:#3C3489;
+    color-scheme:dark;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.5}
+main{max-width:720px;margin:0 auto;padding:2.5rem 1.25rem 3rem}
+h1{font-size:1.6rem;font-weight:600;margin:0 0 .25rem;letter-spacing:-.01em}
+.sub{color:var(--ink-2);margin:0 0 2rem}
+.legend{display:flex;flex-wrap:wrap;gap:1rem 1.5rem;justify-content:center;font-size:.85rem;color:var(--ink-2);margin-bottom:.5rem}
+.legend span{display:flex;align-items:center;gap:.4rem}
+.sw{width:11px;height:11px;border-radius:2px;flex:none}
+#chart{position:relative;max-width:540px;margin:0 auto}
+#chart svg{display:block;width:100%;height:auto}
+.tip{position:absolute;pointer-events:none;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-size:.82rem;opacity:0;transition:opacity .1s;white-space:nowrap}
+.tip b{font-weight:600}
+.tip .m{color:var(--muted)}
+table{width:100%;border-collapse:collapse;margin-top:2rem;font-size:.9rem;font-variant-numeric:tabular-nums}
+th,td{padding:.45rem .5rem;border-bottom:1px solid var(--line);text-align:left}
+th{color:var(--muted);font-weight:500}
+td.n{text-align:right}
+.foot{margin-top:1.5rem;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<h1>Ortsratswahl Breitenberg</h1>
+<p class="sub">Stimmen nach Wahlvorschlag (innen) und Kandidierenden (außen)</p>
+<div class="legend" id="legend"></div>
+<div id="chart"><div class="tip" id="tip"></div></div>
+<table id="tbl" aria-label="Ergebnisse als Tabelle">
+<thead><tr><th>Wahlvorschlag</th><th>Name</th><th style="text-align:right">Stimmen</th><th style="text-align:right">Anteil</th></tr></thead>
+<tbody></tbody>
+</table>
+<p class="foot">Wahlbereich: Breitenberg, direkt.</p>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+const css=getComputedStyle(document.documentElement);
+const v=n=>css.getPropertyValue(n).trim();
+const raw=[
+{p:'CDU',n:'Wippermann, Gregor',s:'G. Wippermann',v:435},
+{p:'CDU',n:'Dornieden, Andreas',s:'A. Dornieden',v:269},
+{p:'CDU',n:'Pizzano, Claudio',s:'C. Pizzano',v:160},
+{p:'CDU',n:'Deppe, Mario',s:'M. Deppe',v:138},
+{p:'CDU',n:'Gerbode, Anke',s:'A. Gerbode',v:59},
+{p:'CDU',n:'Wippermann, Lothar',s:'L. Wippermann',v:53},
+{p:'CDU',n:'Deppe, Frank',s:'F. Deppe',v:39},
+{p:'SPD',n:'Neumann, Katja',s:'K. Neumann',v:191},
+{p:'Netzker',n:'Netzker, Florian',s:'F. Netzker',v:135}];
+const full={'CDU':'CDU','SPD':'SPD','Netzker':'Einzelwahlvorschlag Netzker'};
+const base={'CDU':v('--cdu'),'SPD':v('--spd'),'Netzker':v('--ewv')};
+const light={'CDU':v('--cdu-l'),'SPD':v('--spd-l'),'Netzker':v('--ewv-l')};
+const bg=v('--bg');
+const de=x=>x.toString().replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+const pct=x=>(x*100).toFixed(1).replace('.',',')+' %';
+
+const root=d3.hierarchy({children:['CDU','SPD','Netzker'].map(p=>({name:p,children:raw.filter(d=>d.p===p)}))}).sum(d=>d.v||0);
+d3.partition().size([2*Math.PI,1])(root);
+const total=root.value;
+
+const S=460,R=S/2-10,r0=62,r1=118,r2=R;
+const shade=d=>{const k=d.parent.children,i=k.indexOf(d),n=k.length;const t=n===1?0.35:0.15+0.7*i/(n-1);return d3.interpolateRgb(base[d.parent.data.name],light[d.parent.data.name])(t);};
+const fill=d=>d.depth===1?base[d.data.name]:shade(d);
+const ink=c=>d3.hsl(c).l>0.55?'#1f1f1d':'#ffffff';
+const arc=d3.arc().startAngle(d=>d.x0).endAngle(d=>d.x1).padAngle(0.006).padRadius(R).cornerRadius(3)
+  .innerRadius(d=>d.depth===1?r0:r1+2).outerRadius(d=>d.depth===1?r1:r2);
+
+const svg=d3.select('#chart').append('svg').attr('viewBox',`${-S/2} ${-S/2} ${S} ${S}`)
+  .attr('role','img').attr('aria-label','Sunburst-Diagramm: Wahlvorschläge innen, Kandidierende außen');
+const nodes=root.descendants().filter(d=>d.depth>0);
+const tip=d3.select('#tip');
+
+svg.append('g').selectAll('path').data(nodes).join('path').attr('d',arc).attr('fill',fill).attr('stroke',bg).attr('stroke-width',1)
+  .on('mousemove',(e,d)=>{
+    const b=document.getElementById('chart').getBoundingClientRect();
+    const t=d.depth===1
+      ?`<b>${full[d.data.name]}</b><br>${de(d.value)} Stimmen, ${pct(d.value/total)}`
+      :`<b>${d.data.n}</b><br>${full[d.data.p]}<br>${de(d.value)} Stimmen, ${pct(d.value/total)}<br><span class="m">${pct(d.value/d.parent.value)} innerhalb ${d.data.p}</span>`;
+    tip.style('opacity',1).style('left',Math.min(e.clientX-b.left+12,b.width-180)+'px').style('top',(e.clientY-b.top-10)+'px').html(t);
+  })
+  .on('mouseleave',()=>tip.style('opacity',0));
+
+svg.append('g').attr('pointer-events','none').selectAll('text').data(nodes.filter(d=>d.depth===2)).join('text')
+  .attr('transform',d=>{const a=(d.x0+d.x1)/2*180/Math.PI-90;return `rotate(${a}) translate(${(r1+r2)/2},0) rotate(${a>90?180:0})`;})
+  .attr('text-anchor','middle').attr('font-size',11).attr('fill',d=>ink(fill(d)))
+  .each(function(d){const t=d3.select(this);
+    t.append('tspan').attr('x',0).attr('dy','-0.25em').text(d.data.s);
+    t.append('tspan').attr('x',0).attr('dy','1.2em').attr('opacity',0.8).text(de(d.value));});
+
+svg.append('g').attr('pointer-events','none').selectAll('text').data(nodes.filter(d=>d.depth===1)).join('text')
+  .attr('transform',d=>`translate(${d3.arc().innerRadius(r0).outerRadius(r1).centroid({startAngle:d.x0,endAngle:d.x1})})`)
+  .attr('text-anchor','middle').attr('font-size',12).attr('font-weight',600).attr('fill',d=>ink(base[d.data.name]))
+  .each(function(d){const t=d3.select(this);
+    t.append('tspan').attr('x',0).attr('dy','-0.2em').text(d.data.name);
+    t.append('tspan').attr('x',0).attr('dy','1.25em').attr('font-weight',400).attr('font-size',11).text(pct(d.value/total));});
+
+svg.append('text').attr('text-anchor','middle').attr('dy','-0.1em').attr('font-size',24).attr('font-weight',600).attr('fill',v('--ink')).text(de(total));
+svg.append('text').attr('text-anchor','middle').attr('dy','1.4em').attr('font-size',11).attr('fill',v('--muted')).text('Stimmen');
+
+d3.select('#legend').selectAll('span').data(nodes.filter(d=>d.depth===1)).join('span')
+  .html(d=>`<span class="sw" style="background:${base[d.data.name]}"></span>${full[d.data.name]}: ${de(d.value)}`);
+
+d3.select('#tbl tbody').selectAll('tr').data([...raw].sort((a,b)=>b.v-a.v)).join('tr')
+  .html(d=>`<td>${full[d.p]}</td><td>${d.n}</td><td class="n">${de(d.v)}</td><td class="n">${pct(d.v/total)}</td>`);
+</script>
+</body>
+</html>
