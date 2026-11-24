@@ -25,6 +25,10 @@ Am 10. November fand die konstituierende Sitzung des Ortsrates statt. Informatio
 
 <h3>Bürgermeister: Claudio Pizzano</h3>
 
+<br>
+<br>
+<a href="https://breitenberg-eichsfeld.schnatzefatt.de/ortsratswahl-breitenberg.html">Wahlergebnis der Ortsratswahl, vom 13.09.2026</a>
+
 <!--
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
 <font size="2">
