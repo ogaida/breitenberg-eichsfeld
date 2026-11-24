@@ -27,7 +27,7 @@ Am 10. November fand die konstituierende Sitzung des Ortsrates statt. Informatio
 
 <br>
 <br>
-<a href="https://breitenberg-eichsfeld.schnatzefatt.de/ortsratswahl-breitenberg.html">Wahlergebnis der Ortsratswahl, vom 13.09.2026</a>
+<a href="./ortsratswahl-breitenberg.html">Wahlergebnis der Ortsratswahl, vom 13.09.2026</a>
 
 <!--
 <img class="image featured" src="images/Ortsrat-2025m.jpg" alt="" />
